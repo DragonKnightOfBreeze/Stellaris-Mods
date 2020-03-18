@@ -583,7 +583,74 @@ portrait_groups = {
 		ruler = {
 			add = {
 				portraits = {
-					kitsune_idea
+					kitsune_0
+                    kitsune_1
+                    kitsune_10
+                    kitsune_11
+                    kitsune_12
+                    kitsune_13
+                    kitsune_14
+                    kitsune_15
+                    kitsune_16
+                    kitsune_17
+                    kitsune_18
+                    kitsune_19
+                    kitsune_2
+                    kitsune_20
+                    kitsune_21
+                    kitsune_22
+                    kitsune_23
+                    kitsune_24
+                    kitsune_25
+                    kitsune_26
+                    kitsune_27
+                    kitsune_28
+                    kitsune_29
+                    kitsune_3
+                    kitsune_30
+                    kitsune_31
+                    kitsune_32
+                    kitsune_33
+                    kitsune_34
+                    kitsune_35
+                    kitsune_36
+                    kitsune_37
+                    kitsune_38
+                    kitsune_39
+                    kitsune_4
+                    kitsune_40
+                    kitsune_41
+                    kitsune_42
+                    kitsune_43
+                    kitsune_44
+                    kitsune_45
+                    kitsune_46
+                    kitsune_47
+                    kitsune_48
+                    kitsune_49
+                    kitsune_5
+                    kitsune_50
+                    kitsune_51
+                    kitsune_52
+                    kitsune_53
+                    kitsune_54
+                    kitsune_55
+                    kitsune_56
+                    kitsune_57
+                    kitsune_58
+                    kitsune_59
+                    kitsune_6
+                    kitsune_60
+                    kitsune_61
+                    kitsune_62
+                    kitsune_63
+                    kitsune_64
+                    kitsune_65
+                    kitsune_66
+                    kitsune_7
+                    kitsune_8
+                    kitsune_9
+                    kitsune_idea
                     kitsune_idea_0
                     kitsune_idea_1
                     kitsune_idea_10
