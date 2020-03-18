@@ -1,0 +1,47 @@
+### 名字列表
+### 名字来自自己的私人想法，接近官方设定
+
+KITSUNE = {
+	windkid = {
+		name = Windkid
+		plural = Windkids
+		home_planet = Breath-land
+		home_system = Breath-galaxy
+		name_list = "KITSUNE"
+	}
+	kitsune = {
+		name = Kitsune
+		plural = Kitsunes
+		home_planet = Kitsune-land
+		home_system = Kitsune-galaxy
+		name_list = "KITSUNE"
+	}
+	kitsune1 = {
+		name = Kitsune
+		plural = Kitsunes
+		home_planet = Kitsune-land
+		home_system = Kitsune-galaxy
+		name_list = "HUM1"
+	}
+	kitsune2 = {
+		name = Kitsune
+		plural = Kitsunes
+		home_planet = Kitsune-land
+		home_system = Kitsune-galaxy
+		name_list = "HUM2"
+	}
+	kitsune3 = {
+		name = Kitsune
+		plural = Kitsunes
+		home_planet = Kitsune-land
+		home_system = Kitsune-galaxy
+		name_list = "HUM3"
+	}
+	kitsune4 = {
+		name = Kitsune
+		plural = Kitsunes
+		home_planet = Kitsune-land
+		home_system = Kitsune-galaxy
+		name_list = "HUM4"
+	}
+}
