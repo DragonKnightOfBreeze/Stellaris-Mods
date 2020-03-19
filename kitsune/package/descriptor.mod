@@ -1,12 +1,9 @@
 name="Kitsune"
-
-  archive="kitsune.zip"
-
-  tags={
-  "Graphics"
-  "Anime"
-  "Fox"
-  }
-
-  picture="kitsune.png"
-  supported_version="2.6.*"
+	version = "1.0.0"
+	supported_version = "2.6.*"
+	tags = {
+	"Graphics"
+	"Anime"
+	}
+	picture = "kitsune.png"
+	archive = "kitsune.zip"

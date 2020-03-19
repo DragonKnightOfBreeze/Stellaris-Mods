@@ -4,7 +4,7 @@ import java.io.*
 
 fun main() {
 	//renameAndCopyImages()
-	generatePortraitString()
+	moveImagesAndGenerateString()
 }
 
 fun renameAndCopyImages() {
@@ -20,13 +20,12 @@ fun renameAndCopyImages() {
 	}
 }
 
-fun generatePortraitString() {
+fun moveImagesAndGenerateString() {
+	File("kitsune/reference/gfx").copyRecursively(File("kitsune/package/gfx/models/portraits/kitsune"))
 	val s1 = StringBuilder()
 	val s2 = StringBuilder()
-	File("kitsune/reference/images").listFiles { file -> file.isFile }!!.forEach { file ->
-		s1.appendln(file.nameWithoutExtension.let {
-			"""$it = {texturefile = "gfx/models/portraits/kitsune/$it.dds""""
-		})
+	File("kitsune/reference/gfx").listFiles { file -> file.isFile }!!.forEach { file ->
+		s1.appendln(file.nameWithoutExtension.let { "$it = {texturefile = \"gfx/models/portraits/kitsune/$it.dds\"}" })
 		s2.appendln(file.nameWithoutExtension)
 	}
 	File("kitsune/reference/portrait_string.txt").writeText("$s1\n$s2")
