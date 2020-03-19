@@ -92,7 +92,7 @@ KITSUNE = {
             sequential_name = "机械护卫部队 %C%"
         }
         psionic_army = {
-            sequential_name = "灵能部队 %C%"
+            sequential_name = "法术部队 %C%"
         }
         xenomorph_army = {
             sequential_name = "联合战争部队 %C%"
@@ -110,10 +110,10 @@ KITSUNE = {
             sequential_name = "剑士部队 %C%"
         }
         industrial_army = {
-            sequential_name = "飞龙骑士团 %C%"
+            sequential_name = "龙骑士团 %C%"
         }
         postatomic_army = {
-            sequential_name = "龙骑士团 %C%"
+            sequential_name = "联合龙骑士团 %C%"
         }
     }
 
@@ -122,7 +122,10 @@ KITSUNE = {
 	planet_names = {
 		#暂时没有想法
 		generic = {
-			names = { }
+			names = { 
+				微风 吹风 飘风 送风 临风 界风 边风 江风 荒风 哀风 末风 阵风 狂风 孤风 雪风 肃风 疾风 刹风 降风 落风
+				龙炎 龙啸 龙息 龙吼 龙啼 龙鸣
+			}
 		}
 		pc_desert = {
 			names = { }
