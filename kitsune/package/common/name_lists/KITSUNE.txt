@@ -74,46 +74,46 @@ KITSUNE = {
 	# 部队名
 	army_names = {
         defense_army = {
-            sequential_name = "联合护卫部队 %C%"
+            sequential_name = "United Guard Army %C%"
         }
         assault_army = {
-            sequential_name = "联合远征部队 %C%"
+            sequential_name = "United Expeditionary Army %C%"
         }
         slave_army = {
-            sequential_name = "奴隶部队 %C%"
+            sequential_name = "Slave Army %C%"
         }
         clone_army = {
-            sequential_name = "克隆部队﻿ %C%"
+            sequential_name = "Clone Army %C%"
         }
         robotic_army = {
-            sequential_name = "机械部队 %C%"
+            sequential_name = "Mechanized Expeditionary Army %C%"
         }
         robotic_defense_army = {
-            sequential_name = "机械护卫部队 %C%"
+            sequential_name = "Mechanized Guard Army %C%"
         }
         psionic_army = {
-            sequential_name = "法术部队 %C%"
+            sequential_name = "Charm Army %C%"
         }
         xenomorph_army = {
-            sequential_name = "联合战争部队 %C%"
+            sequential_name = "United War Army %C%"
         }
         gene_warrior_army = {
-            sequential_name = "基因战士部队 %C%"
+            sequential_name = "Gene Warrior Army %C%"
         }
         occupation_army = {
-            sequential_name = "联合警卫部队 %C%"
+            sequential_name = "United Occupation Army %C%"
         }
         robotic_occupation_army = {
-            sequential_name = "基因警卫部队 %C%"
+            sequential_name = "Mechanized Occupation Army %C%"
         }
         primitive_army = {
-            sequential_name = "剑士部队 %C%"
+            sequential_name = "Saber Army %C%"
         }
         industrial_army = {
-            sequential_name = "龙骑士团 %C%"
+            sequential_name = "Dragon Knights %C%"
         }
         postatomic_army = {
-            sequential_name = "联合龙骑士团 %C%"
+            sequential_name = "United Dragon Knights %C%"
         }
     }
 

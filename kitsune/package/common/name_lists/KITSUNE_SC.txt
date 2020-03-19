@@ -87,10 +87,10 @@ KITSUNE = {
             sequential_name = "克隆部队﻿ %C%"
         }
         robotic_army = {
-            sequential_name = "机械部队 %C%"
+            sequential_name = "机械化部队 %C%"
         }
         robotic_defense_army = {
-            sequential_name = "机械护卫部队 %C%"
+            sequential_name = "机械化护卫部队 %C%"
         }
         psionic_army = {
             sequential_name = "法术部队 %C%"
@@ -105,7 +105,7 @@ KITSUNE = {
             sequential_name = "联合警卫部队 %C%"
         }
         robotic_occupation_army = {
-            sequential_name = "基因警卫部队 %C%"
+            sequential_name = "机械化警卫部队 %C%"
         }
         primitive_army = {
             sequential_name = "剑士部队 %C%"
