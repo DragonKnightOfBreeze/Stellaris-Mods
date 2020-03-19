@@ -49,9 +49,6 @@ portraits = {
     kitsune_5 = {texturefile = "gfx/models/portraits/kitsune/kitsune_5.dds"}
     kitsune_50 = {texturefile = "gfx/models/portraits/kitsune/kitsune_50.dds"}
     kitsune_51 = {texturefile = "gfx/models/portraits/kitsune/kitsune_51.dds"}
-    kitsune_52 = {texturefile = "gfx/models/portraits/kitsune/kitsune_52.dds"}
-    kitsune_53 = {texturefile = "gfx/models/portraits/kitsune/kitsune_53.dds"}
-    kitsune_54 = {texturefile = "gfx/models/portraits/kitsune/kitsune_54.dds"}
     kitsune_6 = {texturefile = "gfx/models/portraits/kitsune/kitsune_6.dds"}
     kitsune_7 = {texturefile = "gfx/models/portraits/kitsune/kitsune_7.dds"}
     kitsune_8 = {texturefile = "gfx/models/portraits/kitsune/kitsune_8.dds"}
@@ -83,11 +80,6 @@ portraits = {
     kitsune_idea_3 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_3.dds"}
     kitsune_idea_30 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_30.dds"}
     kitsune_idea_31 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_31.dds"}
-    kitsune_idea_32 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_32.dds"}
-    kitsune_idea_33 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_33.dds"}
-    kitsune_idea_34 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_34.dds"}
-    kitsune_idea_35 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_35.dds"}
-    kitsune_idea_36 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_36.dds"}
     kitsune_idea_4 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_4.dds"}
     kitsune_idea_5 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_5.dds"}
     kitsune_idea_6 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_6.dds"}
@@ -150,9 +142,6 @@ portrait_groups = {
                     kitsune_5
                     kitsune_50
                     kitsune_51
-                    kitsune_52
-                    kitsune_53
-                    kitsune_54
                     kitsune_6
                     kitsune_7
                     kitsune_8
@@ -184,11 +173,6 @@ portrait_groups = {
                     kitsune_idea_3
                     kitsune_idea_30
                     kitsune_idea_31
-                    kitsune_idea_32
-                    kitsune_idea_33
-                    kitsune_idea_34
-                    kitsune_idea_35
-                    kitsune_idea_36
                     kitsune_idea_4
                     kitsune_idea_5
                     kitsune_idea_6
@@ -249,9 +233,6 @@ portrait_groups = {
                     kitsune_5
                     kitsune_50
                     kitsune_51
-                    kitsune_52
-                    kitsune_53
-                    kitsune_54
                     kitsune_6
                     kitsune_7
                     kitsune_8
@@ -283,17 +264,13 @@ portrait_groups = {
                     kitsune_idea_3
                     kitsune_idea_30
                     kitsune_idea_31
-                    kitsune_idea_32
-                    kitsune_idea_33
-                    kitsune_idea_34
-                    kitsune_idea_35
-                    kitsune_idea_36
                     kitsune_idea_4
                     kitsune_idea_5
                     kitsune_idea_6
                     kitsune_idea_7
                     kitsune_idea_8
                     kitsune_idea_9
+
 				}
 			}
 		}
@@ -348,9 +325,6 @@ portrait_groups = {
                     kitsune_5
                     kitsune_50
                     kitsune_51
-                    kitsune_52
-                    kitsune_53
-                    kitsune_54
                     kitsune_6
                     kitsune_7
                     kitsune_8
@@ -382,17 +356,13 @@ portrait_groups = {
                     kitsune_idea_3
                     kitsune_idea_30
                     kitsune_idea_31
-                    kitsune_idea_32
-                    kitsune_idea_33
-                    kitsune_idea_34
-                    kitsune_idea_35
-                    kitsune_idea_36
                     kitsune_idea_4
                     kitsune_idea_5
                     kitsune_idea_6
                     kitsune_idea_7
                     kitsune_idea_8
                     kitsune_idea_9
+
 				}
 			}
 		}
@@ -447,9 +417,6 @@ portrait_groups = {
                     kitsune_5
                     kitsune_50
                     kitsune_51
-                    kitsune_52
-                    kitsune_53
-                    kitsune_54
                     kitsune_6
                     kitsune_7
                     kitsune_8
@@ -481,11 +448,6 @@ portrait_groups = {
                     kitsune_idea_3
                     kitsune_idea_30
                     kitsune_idea_31
-                    kitsune_idea_32
-                    kitsune_idea_33
-                    kitsune_idea_34
-                    kitsune_idea_35
-                    kitsune_idea_36
                     kitsune_idea_4
                     kitsune_idea_5
                     kitsune_idea_6
@@ -546,9 +508,6 @@ portrait_groups = {
                     kitsune_5
                     kitsune_50
                     kitsune_51
-                    kitsune_52
-                    kitsune_53
-                    kitsune_54
                     kitsune_6
                     kitsune_7
                     kitsune_8
@@ -580,11 +539,6 @@ portrait_groups = {
                     kitsune_idea_3
                     kitsune_idea_30
                     kitsune_idea_31
-                    kitsune_idea_32
-                    kitsune_idea_33
-                    kitsune_idea_34
-                    kitsune_idea_35
-                    kitsune_idea_36
                     kitsune_idea_4
                     kitsune_idea_5
                     kitsune_idea_6
