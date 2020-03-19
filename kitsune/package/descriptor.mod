@@ -1,4 +1,4 @@
-name="Kitsune"
+name = "Kitsune"
 	version = "1.0.0"
 	supported_version = "2.6.*"
 	tags = {
