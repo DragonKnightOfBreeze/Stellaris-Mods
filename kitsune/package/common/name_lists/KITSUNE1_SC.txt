@@ -2,7 +2,7 @@
 ### 人名参考自百度凪白吧的精品贴，接近官方设定
 ### 其他名字来自自己的私人想法，接近官方设定
 
-KITSUNE = {
+KITSUNE1 = {
 	language = "l_simp_chinese"
 	category = "Humanoid"
 
