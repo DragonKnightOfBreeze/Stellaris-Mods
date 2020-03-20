@@ -8,7 +8,7 @@ fun main() {
 	generateString()
 }
 
-fun renameAndCopyImages() {
+fun copyAndRenameImages() {
 	File("kitsune/reference/images").mkdirs()
 	File("kitsune/reference/images_unsorted").listFiles { file -> file.isFile }!!.forEachIndexed { index, file ->
 		file.renameTo(File("kitsune/reference/images/kitsune_$index.${file.extension}"))
@@ -28,9 +28,17 @@ fun moveImages(){
 fun generateString() {
 	val s1 = StringBuilder()
 	val s2 = StringBuilder()
-	File("kitsune/reference/gfx").listFiles { file -> file.isFile }!!.forEach { file ->
-		s1.appendln(file.nameWithoutExtension.let { "$it = {texturefile = \"gfx/models/portraits/kitsune/$it.dds\"}" })
-		s2.appendln(file.nameWithoutExtension)
+	run{
+		s1.appendln("kitsune_idea = {texturefile = \"gfx/models/portraits/kitsune/kitsune_idea.dds\"}")
+		s2.appendln("kitsune_idea")
 	}
-	File("kitsune/reference/portrait_string.txt").writeText("$s1\n$s2")
+	repeat(32){
+		s1.appendln("kitsune_idea$it = {texturefile = \"gfx/models/portraits/kitsune/kitsune_idea$it.dds\"}")
+		s2.appendln("kitsune_idea$it")
+	}
+	repeat(52){
+		s1.appendln("kitsune$it = {texturefile = \"gfx/models/portraits/kitsune/kitsune$it.dds\"}")
+		s2.appendln("kitsune$it")
+	}
+	File("kitsune/reference/generated_string.txt").writeText("$s1\n$s2")
 }
