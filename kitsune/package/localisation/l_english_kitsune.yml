@@ -1,9 +1,14 @@
 l_english:
 
 ### Misc
-name_list_KITSUNE:0 "Kitsune"
+
+FLAG_CATEGORY_kitsune:0 "Kitsune"
+name_list_KITSUNE:0 "$FLAG_CATEGORY_kitsune$"
+
 ### Species classes
+
 KITSUNE:0 "Kitsune"
+
 KITSUNE_desc:1 "Species Class has no effect on your Empire, but Imperial-class Species may consider other Imperials to be less alien than other Species Classes."
 KITSUNE_plural:0 "Kitsunes"
 KITSUNE_insult_01:0 "nasty kitsune"
@@ -32,3 +37,32 @@ KITSUNE_sound_05:0 "mewling"
 KITSUNE_organ:0 "stomach"
 KITSUNE_mouth:0 "mouth"
 KITSUNE_hand:0 "hand"
+
+PRE_KITSUNE_desc:1 ""
+PRE_KITSUNE_plural:0 "Kitsunes"
+PRE_KITSUNE_insult_01:0 "nasty kitsune"
+PRE_KITSUNE_insult_plural_01:0 "nasty kitsunes"
+PRE_KITSUNE_insult_02:0 "nasty fox"
+PRE_KITSUNE_insult_plural_02:0 "nasty foxes"
+PRE_KITSUNE_insult_03:0 "naive kitsune"
+PRE_KITSUNE_insult_plural_03:0 "naive kitsunes"
+PRE_KITSUNE_insult_04:0 "naive fox"
+PRE_KITSUNE_insult_plural_04:0 "naive foxes"
+PRE_KITSUNE_compliment_01:0 "charming kitsune"
+PRE_KITSUNE_compliment_plural_01:0 "charming kitsunes"
+PRE_KITSUNE_compliment_02:0 "charming fox"
+PRE_KITSUNE_compliment_plural_02:0 "charming foxes"
+PRE_KITSUNE_compliment_03:0 "clever kitsune"
+PRE_KITSUNE_compliment_plural_03:0 "clever kitsunes"
+PRE_KITSUNE_compliment_04:0 "clever fox"
+PRE_KITSUNE_compliment_plural_04:0 "clever foxes"
+PRE_KITSUNE_spawn:0 "little fox"
+PRE_KITSUNE_spawn_plural:0 "little foxes"
+PRE_KITSUNE_sound_01:0 "growling"
+PRE_KITSUNE_sound_02:0 "grunting"
+PRE_KITSUNE_sound_03:0 "yapping"
+PRE_KITSUNE_sound_04:0 "yowling"
+PRE_KITSUNE_sound_05:0 "mewling"
+PRE_KITSUNE_organ:0 "stomach"
+PRE_KITSUNE_mouth:0 "mouth"
+PRE_KITSUNE_hand:0 "hand"

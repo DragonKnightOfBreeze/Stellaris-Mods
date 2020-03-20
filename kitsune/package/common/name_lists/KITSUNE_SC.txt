@@ -5,6 +5,7 @@
 KITSUNE = {
 	language = "l_simp_chinese"
 	category = "Humanoid"
+	randomized = no
 
 	### 舰船
 

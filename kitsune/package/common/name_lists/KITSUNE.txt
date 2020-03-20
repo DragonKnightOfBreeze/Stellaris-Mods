@@ -4,6 +4,7 @@
 
 KITSUNE = {
 	category = "Humanoid"
+	randomized = no
 
 	### 舰船
 
