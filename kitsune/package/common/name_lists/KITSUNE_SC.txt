@@ -1,0 +1,184 @@
+### 名字列表
+### 人名参考自百度凪白吧的精品贴，接近官方设定
+### 其他名字来自自己的私人想法，接近官方设定
+
+KITSUNE = {
+	language = "l_simp_chinese"
+	category = "Humanoid"
+
+	### 舰船
+
+	ship_names = {
+		# 护卫舰
+		corvette = {
+			轻风 风刃 闪电 落雷 冰锥 冰柱 火花 火炎
+		}
+		# 驱逐舰
+		destroyer = {
+			风切 龙卷 轰雷 雷暴 冻雾 冻星 火球 炎爆
+		}
+		# 巡洋舰
+		cruiser = {
+			强袭之风 回旋风刃 连环风切 混沌龙卷 集束闪电 连锁闪电 环电结界 风暴落雷 水泷 水瀑 冰天雪地 狂风暴雪 火焰喷泉 爆裂魔法 连绵烈火 野火狂岚
+		}
+		# 战列舰
+		battleship = {
+			次元龙卷 次元闪电 次元冰星 次元火花
+		}
+		# 泰坦
+		titan = {
+			风灵结界 终末凛冬 裁决雷光 灭世龙炎
+		}
+		# 巨像
+		colossus = {
+			风王结界 死寂冰狱 苍天雷鸣 业火边界
+		}
+		# 主宰
+		juggernaut = {
+			万象风息 万象龙卷 异度风息 异度龙卷
+		}
+		# 工程船
+		constructor = {
+			编织之歌 描绘之歌 构筑之歌 建设之歌 缔造之歌 奇迹之歌 编织者 描绘者 建设者 构筑者 缔造者 奇迹师
+		}
+		# 科研船
+		science = {
+			倾听之歌 观察之歌 接触之歌 旅行之歌 法术之歌 奇迹之歌 倾听者 观察者 接触者 旅行者 法师 奇迹师
+		}
+		# 殖民船
+		colonizer = {
+			萌芽之歌 蔓延之歌 风吹之歌 风飘之歌 风临之歌
+		}
+		# 私人殖民船
+		sponsored_colonizer = {
+			萌芽之歌 蔓延之歌 风吹之歌 风飘之歌 风临之歌
+		}
+		# 运输船
+		transport = {
+			龙息之歌 龙吼之歌 龙游之歌 龙巡之歌 龙临之歌
+		}
+		# 小型军事基地
+		military_station_small = {
+			微风护盾 闪电屏障 冰霜护盾 火焰结界
+		}
+		# 离子炮
+		ion_cannon = {
+			雷电吐息 冰霜吐息 火焰吐息 龙炎
+		}
+	}
+	# 舰队
+	fleet_names = {
+		random_names = {
+			漫游者舰队 巡游者舰队 监视者舰队 监察者舰队 传述者舰队 吟游者舰队 审判者舰队 裁决者舰队
+		}
+	}
+	# 部队名
+	army_names = {
+        defense_army = {
+            sequential_name = "联合护卫部队 %C%"
+        }
+        assault_army = {
+            sequential_name = "联合远征部队 %C%"
+        }
+        slave_army = {
+            sequential_name = "奴隶部队 %C%"
+        }
+        clone_army = {
+            sequential_name = "克隆部队﻿ %C%"
+        }
+        robotic_army = {
+            sequential_name = "机械化部队 %C%"
+        }
+        robotic_defense_army = {
+            sequential_name = "机械化护卫部队 %C%"
+        }
+        psionic_army = {
+            sequential_name = "法术部队 %C%"
+        }
+        xenomorph_army = {
+            sequential_name = "联合战争部队 %C%"
+        }
+        gene_warrior_army = {
+            sequential_name = "基因战士部队 %C%"
+        }
+        occupation_army = {
+            sequential_name = "联合警卫部队 %C%"
+        }
+        robotic_occupation_army = {
+            sequential_name = "机械化警卫部队 %C%"
+        }
+        primitive_army = {
+            sequential_name = "剑士部队 %C%"
+        }
+        industrial_army = {
+            sequential_name = "龙骑士团 %C%"
+        }
+        postatomic_army = {
+            sequential_name = "联合龙骑士团 %C%"
+        }
+    }
+
+    ### 行星
+
+	planet_names = {
+		generic = {
+			names = { 
+				微风 吹风 飘风 送风 临风 界风 边风 江风 荒风 哀风 末风 阵风 狂风 孤风 雪风 肃风 疾风 刹风 降风 落风
+				龙炎 龙啸 龙息 龙吼 龙啼 龙鸣
+			}
+		}
+		pc_desert = {
+			names = { }
+		}
+		pc_arid = {
+			names = { }
+		}
+		pc_tropical = {
+			names = { }
+		}
+		pc_continental = {
+			names = { }
+		}
+		pc_gaia = {
+			names = { }
+		}
+		pc_ocean = {
+			names = { }
+		}
+		pc_tundra = {
+			names = { }
+		}
+		pc_arctic = {
+			names = { }
+		}
+		pc_savannah = {
+			names = { }
+		}
+		pc_alpine = {
+			names = { }
+		}
+	}
+
+	### 角色
+
+	character_names = {
+		default = {
+			# 伊德娅：看板娘，伊德娅天下第一！
+			# 娜柯：粉发的兽耳少女，粉色三角帽，物理型魔法使，使用变形法杖
+			# 诺缇：白发的兽耳少女，黑色三角帽，智慧型魔法使
+			# 诗音：白发红瞳的兽耳少女，蓝色三角帽，使用刀的魔法使
+			# 伊露卡：白发灰瞳的兽耳少女，黑边白色三角帽，沉默寡言，充满谜团
+			# 露娜：白发的少女，使用变形大剑和大弓
+			# 莉娜：灰发的兽耳少女，魔法使
+			# 露米：据说是伊德娅的表姐
+			# 米尼诺拉&西托拉斯：白发黑衣的兽耳姐妹，江风原型？
+			full_names = {
+				伊德娅 娜柯 诺缇 诗音 伊露卡 露娜 莉娜 露米 米妮诺拉 西托拉斯
+			}
+			first_names = { }
+			second_names = { }
+			regnal_first_names = { }
+			regnal_second_names = { }
+		}
+	}
+}

@@ -1,0 +1,12 @@
+### 种族设定
+
+KITSUNE = {
+    archetype = BIOLOGICAL
+	randomized = no
+    portraits = {
+        "kitsune"
+    }
+    graphical_culture = humanoid_01
+    city_graphical_culture = humanoid_01
+    move_pop_sound_effect = "moving_pop_confirmation"
+}

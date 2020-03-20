@@ -3,42 +3,10 @@
 KITSUNE = {
 	kitsune = {
 		language = "l_simp_chinese"
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "KITSUNE1"
-	}
-	kitsune1 = {
-		language = "l_simp_chinese"
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "HUM1"
-	}
-	kitsune2 = {
-		language = "l_simp_chinese"
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "HUM2"
-	}
-	kitsune3 = {
-		language = "l_simp_chinese"
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "HUM3"
-	}
-	kitsune4 = {
-		language = "l_simp_chinese"
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "HUM4"
+		name = "狐族"
+		plural = "狐族"
+		home_planet = "风息之地"
+		home_system = "风息星系"
+		name_list = "KITSUNE"
 	}
 }

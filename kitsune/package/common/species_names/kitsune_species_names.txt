@@ -2,38 +2,10 @@
 
 KITSUNE = {
 	kitsune = {
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "KITSUNE1"
-	}
-	kitsune1 = {
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "HUM1"
-	}
-	kitsune2 = {
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "HUM2"
-	}
-	kitsune3 = {
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "HUM3"
-	}
-	kitsune4 = {
-		name = Kitsune
-		plural = Kitsunes
-		home_planet = Kitsune-land
-		home_system = Kitsune-galaxy
-		name_list = "HUM4"
+		name = "Kitsune"
+		plural = "Kitsunes"
+		home_planet = "Wind Land"
+		home_system = "Wind Galaxy"
+		name_list = "KITSUNE"
 	}
 }
