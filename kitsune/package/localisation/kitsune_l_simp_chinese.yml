@@ -1,15 +1,15 @@
-l_simp_chinese:
+﻿l_simp_chinese:
 
 ### Misc
 
-FLAG_CATEGORY_kitsune:0 "狐族"
-name_list_KITSUNE:0 "$FLAG_CATEGORY_kitsune$"
+name_list_KITSUNE:0 "狐族"
 
 ### Species classes
 
 KITSUNE:0 "狐族"
+KITSUNE:1 "狐族"
 
-KITSUNE_desc:1 "物种类别对你的帝国没有太大影响，但与其他类别相比，若是相同类别的物种，双方认同感会更强。"
+KITSUNE_desc:1 "物种类别对你的帝国没有太大影响，但与其他类别相比，同是狐族的物种，双方认同感会更强。"
 KITSUNE_plural:0 "狐族"
 KITSUNE_insult_01:0 "令人厌恶的狐族人"
 KITSUNE_insult_plural_01:0 "令人厌恶的狐族人"
@@ -66,4 +66,3 @@ PRE_KITSUNE_sound_05:0 "低泣"
 PRE_KITSUNE_organ:0 "胃"
 PRE_KITSUNE_mouth:0 "嘴"
 PRE_KITSUNE_hand:0 "手"
-
