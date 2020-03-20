@@ -1,171 +1,171 @@
 kitsune_idea = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea.dds"}
-kitsune_idea0 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea0.dds"}
-kitsune_idea1 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea1.dds"}
-kitsune_idea2 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea2.dds"}
-kitsune_idea3 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea3.dds"}
-kitsune_idea4 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea4.dds"}
-kitsune_idea5 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea5.dds"}
-kitsune_idea6 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea6.dds"}
-kitsune_idea7 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea7.dds"}
-kitsune_idea8 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea8.dds"}
-kitsune_idea9 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea9.dds"}
-kitsune_idea10 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea10.dds"}
-kitsune_idea11 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea11.dds"}
-kitsune_idea12 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea12.dds"}
-kitsune_idea13 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea13.dds"}
-kitsune_idea14 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea14.dds"}
-kitsune_idea15 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea15.dds"}
-kitsune_idea16 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea16.dds"}
-kitsune_idea17 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea17.dds"}
-kitsune_idea18 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea18.dds"}
-kitsune_idea19 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea19.dds"}
-kitsune_idea20 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea20.dds"}
-kitsune_idea21 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea21.dds"}
-kitsune_idea22 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea22.dds"}
-kitsune_idea23 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea23.dds"}
-kitsune_idea24 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea24.dds"}
-kitsune_idea25 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea25.dds"}
-kitsune_idea26 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea26.dds"}
-kitsune_idea27 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea27.dds"}
-kitsune_idea28 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea28.dds"}
-kitsune_idea29 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea29.dds"}
-kitsune_idea30 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea30.dds"}
-kitsune_idea31 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea31.dds"}
-kitsune0 = {texturefile = "gfx/models/portraits/kitsune/kitsune0.dds"}
-kitsune1 = {texturefile = "gfx/models/portraits/kitsune/kitsune1.dds"}
-kitsune2 = {texturefile = "gfx/models/portraits/kitsune/kitsune2.dds"}
-kitsune3 = {texturefile = "gfx/models/portraits/kitsune/kitsune3.dds"}
-kitsune4 = {texturefile = "gfx/models/portraits/kitsune/kitsune4.dds"}
-kitsune5 = {texturefile = "gfx/models/portraits/kitsune/kitsune5.dds"}
-kitsune6 = {texturefile = "gfx/models/portraits/kitsune/kitsune6.dds"}
-kitsune7 = {texturefile = "gfx/models/portraits/kitsune/kitsune7.dds"}
-kitsune8 = {texturefile = "gfx/models/portraits/kitsune/kitsune8.dds"}
-kitsune9 = {texturefile = "gfx/models/portraits/kitsune/kitsune9.dds"}
-kitsune10 = {texturefile = "gfx/models/portraits/kitsune/kitsune10.dds"}
-kitsune11 = {texturefile = "gfx/models/portraits/kitsune/kitsune11.dds"}
-kitsune12 = {texturefile = "gfx/models/portraits/kitsune/kitsune12.dds"}
-kitsune13 = {texturefile = "gfx/models/portraits/kitsune/kitsune13.dds"}
-kitsune14 = {texturefile = "gfx/models/portraits/kitsune/kitsune14.dds"}
-kitsune15 = {texturefile = "gfx/models/portraits/kitsune/kitsune15.dds"}
-kitsune16 = {texturefile = "gfx/models/portraits/kitsune/kitsune16.dds"}
-kitsune17 = {texturefile = "gfx/models/portraits/kitsune/kitsune17.dds"}
-kitsune18 = {texturefile = "gfx/models/portraits/kitsune/kitsune18.dds"}
-kitsune19 = {texturefile = "gfx/models/portraits/kitsune/kitsune19.dds"}
-kitsune20 = {texturefile = "gfx/models/portraits/kitsune/kitsune20.dds"}
-kitsune21 = {texturefile = "gfx/models/portraits/kitsune/kitsune21.dds"}
-kitsune22 = {texturefile = "gfx/models/portraits/kitsune/kitsune22.dds"}
-kitsune23 = {texturefile = "gfx/models/portraits/kitsune/kitsune23.dds"}
-kitsune24 = {texturefile = "gfx/models/portraits/kitsune/kitsune24.dds"}
-kitsune25 = {texturefile = "gfx/models/portraits/kitsune/kitsune25.dds"}
-kitsune26 = {texturefile = "gfx/models/portraits/kitsune/kitsune26.dds"}
-kitsune27 = {texturefile = "gfx/models/portraits/kitsune/kitsune27.dds"}
-kitsune28 = {texturefile = "gfx/models/portraits/kitsune/kitsune28.dds"}
-kitsune29 = {texturefile = "gfx/models/portraits/kitsune/kitsune29.dds"}
-kitsune30 = {texturefile = "gfx/models/portraits/kitsune/kitsune30.dds"}
-kitsune31 = {texturefile = "gfx/models/portraits/kitsune/kitsune31.dds"}
-kitsune32 = {texturefile = "gfx/models/portraits/kitsune/kitsune32.dds"}
-kitsune33 = {texturefile = "gfx/models/portraits/kitsune/kitsune33.dds"}
-kitsune34 = {texturefile = "gfx/models/portraits/kitsune/kitsune34.dds"}
-kitsune35 = {texturefile = "gfx/models/portraits/kitsune/kitsune35.dds"}
-kitsune36 = {texturefile = "gfx/models/portraits/kitsune/kitsune36.dds"}
-kitsune37 = {texturefile = "gfx/models/portraits/kitsune/kitsune37.dds"}
-kitsune38 = {texturefile = "gfx/models/portraits/kitsune/kitsune38.dds"}
-kitsune39 = {texturefile = "gfx/models/portraits/kitsune/kitsune39.dds"}
-kitsune40 = {texturefile = "gfx/models/portraits/kitsune/kitsune40.dds"}
-kitsune41 = {texturefile = "gfx/models/portraits/kitsune/kitsune41.dds"}
-kitsune42 = {texturefile = "gfx/models/portraits/kitsune/kitsune42.dds"}
-kitsune43 = {texturefile = "gfx/models/portraits/kitsune/kitsune43.dds"}
-kitsune44 = {texturefile = "gfx/models/portraits/kitsune/kitsune44.dds"}
-kitsune45 = {texturefile = "gfx/models/portraits/kitsune/kitsune45.dds"}
-kitsune46 = {texturefile = "gfx/models/portraits/kitsune/kitsune46.dds"}
-kitsune47 = {texturefile = "gfx/models/portraits/kitsune/kitsune47.dds"}
-kitsune48 = {texturefile = "gfx/models/portraits/kitsune/kitsune48.dds"}
-kitsune49 = {texturefile = "gfx/models/portraits/kitsune/kitsune49.dds"}
-kitsune50 = {texturefile = "gfx/models/portraits/kitsune/kitsune50.dds"}
-kitsune51 = {texturefile = "gfx/models/portraits/kitsune/kitsune51.dds"}
+kitsune_idea_0 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_0.dds"}
+kitsune_idea_1 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_1.dds"}
+kitsune_idea_2 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_2.dds"}
+kitsune_idea_3 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_3.dds"}
+kitsune_idea_4 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_4.dds"}
+kitsune_idea_5 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_5.dds"}
+kitsune_idea_6 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_6.dds"}
+kitsune_idea_7 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_7.dds"}
+kitsune_idea_8 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_8.dds"}
+kitsune_idea_9 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_9.dds"}
+kitsune_idea_10 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_10.dds"}
+kitsune_idea_11 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_11.dds"}
+kitsune_idea_12 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_12.dds"}
+kitsune_idea_13 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_13.dds"}
+kitsune_idea_14 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_14.dds"}
+kitsune_idea_15 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_15.dds"}
+kitsune_idea_16 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_16.dds"}
+kitsune_idea_17 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_17.dds"}
+kitsune_idea_18 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_18.dds"}
+kitsune_idea_19 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_19.dds"}
+kitsune_idea_20 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_20.dds"}
+kitsune_idea_21 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_21.dds"}
+kitsune_idea_22 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_22.dds"}
+kitsune_idea_23 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_23.dds"}
+kitsune_idea_24 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_24.dds"}
+kitsune_idea_25 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_25.dds"}
+kitsune_idea_26 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_26.dds"}
+kitsune_idea_27 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_27.dds"}
+kitsune_idea_28 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_28.dds"}
+kitsune_idea_29 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_29.dds"}
+kitsune_idea_30 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_30.dds"}
+kitsune_idea_31 = {texturefile = "gfx/models/portraits/kitsune/kitsune_idea_31.dds"}
+kitsune_0 = {texturefile = "gfx/models/portraits/kitsune/kitsune_0.dds"}
+kitsune_1 = {texturefile = "gfx/models/portraits/kitsune/kitsune_1.dds"}
+kitsune_2 = {texturefile = "gfx/models/portraits/kitsune/kitsune_2.dds"}
+kitsune_3 = {texturefile = "gfx/models/portraits/kitsune/kitsune_3.dds"}
+kitsune_4 = {texturefile = "gfx/models/portraits/kitsune/kitsune_4.dds"}
+kitsune_5 = {texturefile = "gfx/models/portraits/kitsune/kitsune_5.dds"}
+kitsune_6 = {texturefile = "gfx/models/portraits/kitsune/kitsune_6.dds"}
+kitsune_7 = {texturefile = "gfx/models/portraits/kitsune/kitsune_7.dds"}
+kitsune_8 = {texturefile = "gfx/models/portraits/kitsune/kitsune_8.dds"}
+kitsune_9 = {texturefile = "gfx/models/portraits/kitsune/kitsune_9.dds"}
+kitsune_10 = {texturefile = "gfx/models/portraits/kitsune/kitsune_10.dds"}
+kitsune_11 = {texturefile = "gfx/models/portraits/kitsune/kitsune_11.dds"}
+kitsune_12 = {texturefile = "gfx/models/portraits/kitsune/kitsune_12.dds"}
+kitsune_13 = {texturefile = "gfx/models/portraits/kitsune/kitsune_13.dds"}
+kitsune_14 = {texturefile = "gfx/models/portraits/kitsune/kitsune_14.dds"}
+kitsune_15 = {texturefile = "gfx/models/portraits/kitsune/kitsune_15.dds"}
+kitsune_16 = {texturefile = "gfx/models/portraits/kitsune/kitsune_16.dds"}
+kitsune_17 = {texturefile = "gfx/models/portraits/kitsune/kitsune_17.dds"}
+kitsune_18 = {texturefile = "gfx/models/portraits/kitsune/kitsune_18.dds"}
+kitsune_19 = {texturefile = "gfx/models/portraits/kitsune/kitsune_19.dds"}
+kitsune_20 = {texturefile = "gfx/models/portraits/kitsune/kitsune_20.dds"}
+kitsune_21 = {texturefile = "gfx/models/portraits/kitsune/kitsune_21.dds"}
+kitsune_22 = {texturefile = "gfx/models/portraits/kitsune/kitsune_22.dds"}
+kitsune_23 = {texturefile = "gfx/models/portraits/kitsune/kitsune_23.dds"}
+kitsune_24 = {texturefile = "gfx/models/portraits/kitsune/kitsune_24.dds"}
+kitsune_25 = {texturefile = "gfx/models/portraits/kitsune/kitsune_25.dds"}
+kitsune_26 = {texturefile = "gfx/models/portraits/kitsune/kitsune_26.dds"}
+kitsune_27 = {texturefile = "gfx/models/portraits/kitsune/kitsune_27.dds"}
+kitsune_28 = {texturefile = "gfx/models/portraits/kitsune/kitsune_28.dds"}
+kitsune_29 = {texturefile = "gfx/models/portraits/kitsune/kitsune_29.dds"}
+kitsune_30 = {texturefile = "gfx/models/portraits/kitsune/kitsune_30.dds"}
+kitsune_31 = {texturefile = "gfx/models/portraits/kitsune/kitsune_31.dds"}
+kitsune_32 = {texturefile = "gfx/models/portraits/kitsune/kitsune_32.dds"}
+kitsune_33 = {texturefile = "gfx/models/portraits/kitsune/kitsune_33.dds"}
+kitsune_34 = {texturefile = "gfx/models/portraits/kitsune/kitsune_34.dds"}
+kitsune_35 = {texturefile = "gfx/models/portraits/kitsune/kitsune_35.dds"}
+kitsune_36 = {texturefile = "gfx/models/portraits/kitsune/kitsune_36.dds"}
+kitsune_37 = {texturefile = "gfx/models/portraits/kitsune/kitsune_37.dds"}
+kitsune_38 = {texturefile = "gfx/models/portraits/kitsune/kitsune_38.dds"}
+kitsune_39 = {texturefile = "gfx/models/portraits/kitsune/kitsune_39.dds"}
+kitsune_40 = {texturefile = "gfx/models/portraits/kitsune/kitsune_40.dds"}
+kitsune_41 = {texturefile = "gfx/models/portraits/kitsune/kitsune_41.dds"}
+kitsune_42 = {texturefile = "gfx/models/portraits/kitsune/kitsune_42.dds"}
+kitsune_43 = {texturefile = "gfx/models/portraits/kitsune/kitsune_43.dds"}
+kitsune_44 = {texturefile = "gfx/models/portraits/kitsune/kitsune_44.dds"}
+kitsune_45 = {texturefile = "gfx/models/portraits/kitsune/kitsune_45.dds"}
+kitsune_46 = {texturefile = "gfx/models/portraits/kitsune/kitsune_46.dds"}
+kitsune_47 = {texturefile = "gfx/models/portraits/kitsune/kitsune_47.dds"}
+kitsune_48 = {texturefile = "gfx/models/portraits/kitsune/kitsune_48.dds"}
+kitsune_49 = {texturefile = "gfx/models/portraits/kitsune/kitsune_49.dds"}
+kitsune_50 = {texturefile = "gfx/models/portraits/kitsune/kitsune_50.dds"}
+kitsune_51 = {texturefile = "gfx/models/portraits/kitsune/kitsune_51.dds"}
 
 kitsune_idea
-kitsune_idea0
-kitsune_idea1
-kitsune_idea2
-kitsune_idea3
-kitsune_idea4
-kitsune_idea5
-kitsune_idea6
-kitsune_idea7
-kitsune_idea8
-kitsune_idea9
-kitsune_idea10
-kitsune_idea11
-kitsune_idea12
-kitsune_idea13
-kitsune_idea14
-kitsune_idea15
-kitsune_idea16
-kitsune_idea17
-kitsune_idea18
-kitsune_idea19
-kitsune_idea20
-kitsune_idea21
-kitsune_idea22
-kitsune_idea23
-kitsune_idea24
-kitsune_idea25
-kitsune_idea26
-kitsune_idea27
-kitsune_idea28
-kitsune_idea29
-kitsune_idea30
-kitsune_idea31
-kitsune0
-kitsune1
-kitsune2
-kitsune3
-kitsune4
-kitsune5
-kitsune6
-kitsune7
-kitsune8
-kitsune9
-kitsune10
-kitsune11
-kitsune12
-kitsune13
-kitsune14
-kitsune15
-kitsune16
-kitsune17
-kitsune18
-kitsune19
-kitsune20
-kitsune21
-kitsune22
-kitsune23
-kitsune24
-kitsune25
-kitsune26
-kitsune27
-kitsune28
-kitsune29
-kitsune30
-kitsune31
-kitsune32
-kitsune33
-kitsune34
-kitsune35
-kitsune36
-kitsune37
-kitsune38
-kitsune39
-kitsune40
-kitsune41
-kitsune42
-kitsune43
-kitsune44
-kitsune45
-kitsune46
-kitsune47
-kitsune48
-kitsune49
-kitsune50
-kitsune51
+kitsune_idea_0
+kitsune_idea_1
+kitsune_idea_2
+kitsune_idea_3
+kitsune_idea_4
+kitsune_idea_5
+kitsune_idea_6
+kitsune_idea_7
+kitsune_idea_8
+kitsune_idea_9
+kitsune_idea_10
+kitsune_idea_11
+kitsune_idea_12
+kitsune_idea_13
+kitsune_idea_14
+kitsune_idea_15
+kitsune_idea_16
+kitsune_idea_17
+kitsune_idea_18
+kitsune_idea_19
+kitsune_idea_20
+kitsune_idea_21
+kitsune_idea_22
+kitsune_idea_23
+kitsune_idea_24
+kitsune_idea_25
+kitsune_idea_26
+kitsune_idea_27
+kitsune_idea_28
+kitsune_idea_29
+kitsune_idea_30
+kitsune_idea_31
+kitsune_0
+kitsune_1
+kitsune_2
+kitsune_3
+kitsune_4
+kitsune_5
+kitsune_6
+kitsune_7
+kitsune_8
+kitsune_9
+kitsune_10
+kitsune_11
+kitsune_12
+kitsune_13
+kitsune_14
+kitsune_15
+kitsune_16
+kitsune_17
+kitsune_18
+kitsune_19
+kitsune_20
+kitsune_21
+kitsune_22
+kitsune_23
+kitsune_24
+kitsune_25
+kitsune_26
+kitsune_27
+kitsune_28
+kitsune_29
+kitsune_30
+kitsune_31
+kitsune_32
+kitsune_33
+kitsune_34
+kitsune_35
+kitsune_36
+kitsune_37
+kitsune_38
+kitsune_39
+kitsune_40
+kitsune_41
+kitsune_42
+kitsune_43
+kitsune_44
+kitsune_45
+kitsune_46
+kitsune_47
+kitsune_48
+kitsune_49
+kitsune_50
+kitsune_51

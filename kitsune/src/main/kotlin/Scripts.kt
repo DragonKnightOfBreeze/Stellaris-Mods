@@ -33,12 +33,12 @@ fun generateString() {
 		s2.appendln("kitsune_idea")
 	}
 	repeat(32){
-		s1.appendln("kitsune_idea$it = {texturefile = \"gfx/models/portraits/kitsune/kitsune_idea$it.dds\"}")
-		s2.appendln("kitsune_idea$it")
+		s1.appendln("kitsune_idea_$it = {texturefile = \"gfx/models/portraits/kitsune/kitsune_idea_$it.dds\"}")
+		s2.appendln("kitsune_idea_$it")
 	}
 	repeat(52){
-		s1.appendln("kitsune$it = {texturefile = \"gfx/models/portraits/kitsune/kitsune$it.dds\"}")
-		s2.appendln("kitsune$it")
+		s1.appendln("kitsune_$it = {texturefile = \"gfx/models/portraits/kitsune/kitsune_$it.dds\"}")
+		s2.appendln("kitsune_$it")
 	}
 	File("kitsune/reference/generated_string.txt").writeText("$s1\n$s2")
 }
