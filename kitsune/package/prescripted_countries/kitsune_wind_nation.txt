@@ -1,0 +1,81 @@
+wind_nation={
+	key="wind_nation"
+	name="PRESCRIPTED_name_wind_nation"
+    adjective="PRESCRIPTED_adjective_wind_nation"
+	spawn_enabled = yes
+	spawn_as_fallen = no
+	ignore_portrait_duplication = yes
+	
+	ship_prefix="PRESCRIPTED_ship_prefix_wind_nation"
+	
+	species={
+		class="KITSUNE"
+		portrait="kitsune"
+		name="PRESCRIPTED_species_name_wind_nation"
+		plural="PRESCRIPTED_species_plural_wind_nation"
+		adjective="PRESCRIPTED_species_adjective_wind_nation"
+		name_list="KITSUNE"
+		trait="trait_intelligent"
+		trait="trait_enduring"
+		trait="trait_adaptive"
+		trait="trait_weak"
+		trait="trait_slow_breeders"
+	}
+	secondary_species={
+		class="REP"
+		portrait="rep17"
+		name="PRESCRIPTED_secondary_species_name_wind_nation"
+		plural="PRESCRIPTED_secondary_species_plural_wind_nation"
+		adjective="PRESCRIPTED_secondary_species_adjective_wind_nation"
+		name_list="REP4"
+		trait="trait_syncretic_proles"
+		trait="trait_strong"
+		trait="trait_communal"
+		trait="trait_resilient"
+		trait="trait_slow_breeders"
+	}
+	authority="auth_democratic"
+	government="gov_direct_democracy"
+	advisor_voice_type="l_the_diplomat"
+	planet_name="PRESCRIPTED_planet_name_wind_nation"
+	planet_class="pc_continental"
+	system_name="PRESCRIPTED_system_name_wind_nation"
+	initializer="custom_starting_init_05"
+	graphical_culture="humanoid_01"
+	city_graphical_culture="humanoid_01"
+	empire_flag={
+		icon={
+			category="zoological"
+			file="flag_zoological_10.dds"
+		}
+		background={
+			category="backgrounds"
+			file="v.dds"
+		}
+		colors={
+			"turquoise"
+			"turquoise"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		name="PRESCRIPTED_ruler_name_wind_nation"
+		gender=female
+		portrait="kitsune_idea"
+		texture=0
+		hair=0
+		clothes=0
+		ruler_title="PRESCRIPTED_ruler_title_wind_nation"
+		ruler_title_female="PRESCRIPTED_ruler_title_wind_nation"
+		leader_class="ruler"
+	}
+	room="personality_federation_builders_room"
+	ethic="ethic_xenophile"
+	ethic="ethic_fanatic_materialist"
+	civics={
+		"civic_meritocracy"
+		"civic_environmentalist"
+	}
+	origin="origin_syncretic_evolution"
+}
