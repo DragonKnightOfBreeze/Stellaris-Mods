@@ -1,14 +1,8 @@
 # 概述
 
-来自凪白老师的作品的狐耳种族mod。出于个人喜好设计，请勿用于商业用途。
+来自凪白老师的作品的狐耳种族mod。出于个人所爱设计，请勿用于商业用途。
 
 Kitsune species mod from Lemon Mito's works. Designed for love, please do not used for commercial purposes.
-
-******
-
-注意：
-
-尽管已经能够比较良好地显示种族肖像与载入图片，日后仍然可能会有调整和修改。请谨慎使用。
 
 目前提供：
 
@@ -19,8 +13,7 @@ Kitsune species mod from Lemon Mito's works. Designed for love, please do not us
 
 日后计划提供：
 
-* 更多的种族肖像和载入图片。
-* 更多的预设名字。
+* 更多的名字列表、种族肖像和载入图片。
 * 自定义的国家和种族预设（参照可能的官方设定，可能会分离到另外的mod中）。
 * 自定义的种族特性和国是（参照可能的官方设定，可能会分离到另外的mod中）。
 
