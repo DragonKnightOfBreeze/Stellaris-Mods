@@ -5,8 +5,8 @@ KITSUNE = {
 		language = "l_simp_chinese"
 		name = "狐族"
 		plural = "狐族"
-		home_planet = "风息之地"
-		home_system = "风息星系"
+		home_planet = "风息"
+		home_system = "风息"
 		name_list = "KITSUNE"
 	}
 }

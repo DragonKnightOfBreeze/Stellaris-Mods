@@ -1,8 +1,8 @@
 # 概述
 
-来自凪白老师的作品的狐耳种族mod。请勿用于商业用途。
+来自凪白老师的作品的狐耳种族mod。出于个人喜好设计，请勿用于商业用途。
 
-Kitsune species mod from Lemon Mito's works. Please do not used for commercial purposes.
+Kitsune species mod from Lemon Mito's works. Designed for love, please do not used for commercial purposes.
 
 ******
 
@@ -17,10 +17,10 @@ Kitsune species mod from Lemon Mito's works. Please do not used for commercial p
 * 自定义的载入图片（伊德娅和她的小伙伴们）。
 * 良好的中文翻译（不保证英文翻译）。
 
-日后可能会提供：
+日后计划提供：
 
-* 更加完善的种族和种族分类预设（对于种族的敬称、蔑称等）。
 * 更多的种族肖像和载入图片。
+* 更多的预设名字。
 * 自定义的国家和种族预设（参照可能的官方设定，可能会分离到另外的mod中）。
 * 自定义的种族特性和国是（参照可能的官方设定，可能会分离到另外的mod中）。
 
@@ -31,4 +31,3 @@ Kitsune species mod from Lemon Mito's works. Please do not used for commercial p
 问：我知道伊德娅天下第一可爱，但能不能告诉我其他那些角色的名字啊？
 
 答：部分角色的名字可以参见mod中的名称列表，至于其他角色则完全不知道任何情报，因为凪白老师根本没说……
-

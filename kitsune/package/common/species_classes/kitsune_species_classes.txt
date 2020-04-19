@@ -4,9 +4,9 @@ KITSUNE = {
     archetype = BIOLOGICAL
 	randomized = no
     portraits = {
-        "kitsune"
+        kitsune
     }
     graphical_culture = mammalian_01
     city_graphical_culture = mammalian_01
-    move_pop_sound_effect = "moving_pop_confirmation"
+    move_pop_sound_effect = moving_pop_confirmation
 }
