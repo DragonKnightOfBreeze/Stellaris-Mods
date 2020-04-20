@@ -94,8 +94,6 @@ KITSUNE = {
         research_station = {}
         # 观测站
         observation_station = {}
-        
-        # 
 	}
 
 	### 舰队
@@ -148,7 +146,6 @@ KITSUNE = {
         psionic_army = {
 			random_names = {
 				风息法术部队 雷电法术部队 寒气法术部队 火焰法术部队
-				次元法术部队 时空法术部队
 			}
             sequential_name = "联合法术部队 %C%"
         }

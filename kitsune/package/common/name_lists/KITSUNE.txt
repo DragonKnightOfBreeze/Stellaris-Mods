@@ -145,7 +145,6 @@ KITSUNE = {
         psionic_army = {
 			random_names = {
 				"Wind Charm Army" "Electric Charm Army" "Cold Charm Army" "Flame Charm Army"
-				"Dimension Charm Army" "Spacetime Charm Army"
 			}
             sequential_name = "United Charm Army %C%"
         }
