@@ -22,16 +22,21 @@ allprojects {
 	}
 
 	tasks {
+		val prefix = when(project.name){
+			"kareeze-stories" -> ".kareeze"
+			"kitsune" -> ".kitsune"
+			else -> ""
+		}
 		compileKotlin {
 			incremental = true
-			javaPackagePrefix = "com.windea.mod.stellaris"
+			javaPackagePrefix = "com.windea.mod.stellaris$prefix"
 			kotlinOptions {
 				jvmTarget = "11"
 			}
 		}
 		compileTestKotlin {
 			incremental = true
-			javaPackagePrefix = "com.windea.mod.stellaris"
+			javaPackagePrefix = "com.windea.mod.stellaris$prefix"
 			kotlinOptions {
 				jvmTarget = "11"
 			}
