@@ -5,6 +5,8 @@
 巫女，飞龙，同伴，旅行，残旧废墟，远方的城市……
 好吧更多的请自行脑补。
 
+出于个人喜爱的角色而设计，请勿用于商业用途。
+
 [img]https://steamuserimages-a.akamaihd.net/ugc/1014942073981766085/05665135B7851C0C7611681E0A88CB82FE2F39EE/[/img]
 
 [img]https://steamuserimages-a.akamaihd.net/ugc/1014942073981784853/4B2DF4D4D0997B9021F269DA9DD180BC539EB278/[/img]

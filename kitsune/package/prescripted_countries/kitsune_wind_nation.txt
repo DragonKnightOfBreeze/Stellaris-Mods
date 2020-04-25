@@ -14,11 +14,11 @@ wind_nation = {
 		plural = "PRESCRIPTED_species_plural_wind_nation"
 		adjective = "PRESCRIPTED_species_adjective_wind_nation"
 		name_list = "KITSUNE"
-		trait = "trait_intelligent"
-		trait = "trait_quick_learners"
-		trait = "trait_enduring"
-		trait = "trait_weak"
-		trait = "trait_solitary"
+		trait="trait_intelligent"
+		trait="trait_natural_sociologists"
+		trait="trait_quick_learners"
+		trait="trait_weak"
+		trait="trait_solitary"
 	}
 	secondary_species = {
 		class = "REP"
@@ -35,8 +35,8 @@ wind_nation = {
 	}
 	room = "personality_erudite_explorers_room"
 	
-	ethic = "ethic_xenophile"
 	ethic = "ethic_fanatic_materialist"
+	ethic = "ethic_xenophile"
 	authority = "auth_oligarchic"
 	government = "gov_science_directorate"
 	civics = {
@@ -48,7 +48,7 @@ wind_nation = {
 	planet_name = "PRESCRIPTED_planet_name_wind_nation"
 	planet_class = "pc_continental"
 	system_name = "PRESCRIPTED_system_name_wind_nation"
-	initializer = "custom_starting_init_05"
+	initializer = "custom_starting_init_06"
 	
 	graphical_culture = "humanoid_01"
 	city_graphical_culture = "humanoid_01"
@@ -75,8 +75,6 @@ wind_nation = {
 		texture = 0
 		hair = 0
 		clothes = 0
-		ruler_title = "PRESCRIPTED_ruler_title_wind_nation"
-		ruler_title_female = "PRESCRIPTED_ruler_title_wind_nation"
 		leader_class = "ruler"
 	}
 }

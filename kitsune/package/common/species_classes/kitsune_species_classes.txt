@@ -15,16 +15,15 @@ KITSUNE = {
     portraits = {
         kitsune
     }
-    leader_age_min = 12
-    leader_age_max = 18
-    graphical_culture = mammalian_01
-    city_graphical_culture = mammalian_01
+    leader_age_min = 16
+    leader_age_max = 24
+    graphical_culture = humanoid_01
+    city_graphical_culture = humanoid_01
     move_pop_sound_effect = moving_pop_confirmation
 }
 
-# 狐族（机器人）
+# 狐族（机械人）
 # 出于协同进化起源的考虑，应当选择基因飞升而非机械飞升
-# 但为了在机械飞升后保持原本外观，保留以下代码
 KITSUNE-ROBOT = {
 	archetype = ROBOT
 	randomized = no
@@ -34,11 +33,11 @@ KITSUNE-ROBOT = {
     use_climate_preference = no
     portrait_modding = yes
     leader_age_min = 2
-    leader_age_max = 8
+    leader_age_max = 10
     portraits = {
         kitsune
     }
-    graphical_culture = mammalian_01
-    city_graphical_culture = mammalian_01
+    graphical_culture = humanoid_01
+    city_graphical_culture = humanoid_01
     move_pop_sound_effect = moving_pop_confirmation
 }

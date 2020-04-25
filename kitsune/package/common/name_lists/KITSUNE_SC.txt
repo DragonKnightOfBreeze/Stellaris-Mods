@@ -284,7 +284,7 @@ KITSUNE = {
 	# 可以使用male/female后缀区分性别
 	character_names = {
 		names_1 = {
-			weight = 40
+			weight = 20
 			full_names = {
 				娜柯 诺缇 诗音 伊露卡 露娜 莉娜 露米 米妮诺拉 西托拉斯
 			}
@@ -298,7 +298,11 @@ KITSUNE = {
 		names_3 = {
 			weight = 40
 			full_names = {
-				白风 银风 赤风 红风 
+				白风 银风 赤风 红风
+				雷光 雷牙 迅雷 闪雷
+				烛火 炽火 曲火 浮火
+				凛冬 凛云 冬雪 晶雪
+				曙光 荧光 极光 弧光
 			}
 		}
 	}
