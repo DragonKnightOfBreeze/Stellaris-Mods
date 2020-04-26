@@ -185,10 +185,6 @@ KITSUNE = {
         # titanic_guardian_army = {}
         # 巨型作战平台
         # care_defensive_protocols = {}
-        # 哨兵
-        # sentinel_army = {}
-        # 赛博作战平台
-        # cybrex_warform = {}
     }
 
     ### 行星
@@ -200,6 +196,7 @@ KITSUNE = {
 				微风 阵风 轻风 疾风 临风 边风 界风 邻风
 				送风 吹风 飘风 呼风 孤风 降风 飓风 台风
 				呼风 召风 扬风 落风 清风 欢风 狂风 烈风
+				镇风 御风 卫风 戍风 吟风 歌风 颂风 鸣风
 			}
 		}
 		# 沙漠世界
@@ -282,21 +279,29 @@ KITSUNE = {
 	# 可以使用male/female后缀区分性别
 	character_names = {
 		names_1 = {
-			weight = 40
+			weight = 20
 			full_names = {
 				Idea Nako Noti Shion Iluca Lina Lia Lumi Mininona Setorath
 			}
 		}
 		names_2 = {
-			weight = 40
+			weight = 80
 			full_names = {
 				吹风 吹雪 吹原 吹野
+				逐风 逐日 逐梦 逐晓
+				瑶草 瑶铃 瑶梦 瑶月
+				雾浅 雾迟 雾花 雾月
+				落星 陨星 彗星 飞星
 			}
 		}
 		names_3 = {
-			weight = 40
+			weight = 80
 			full_names = {
-				白风 银风 赤风 红风 
+				白风 银风 赤风 红风
+				雷光 雷牙 迅雷 闪雷
+				烛火 炽火 曲火 浮火
+				凛冬 凛云 冬雪 晶雪
+				曙光 荧光 极光 弧光
 			}
 		}
 	}
