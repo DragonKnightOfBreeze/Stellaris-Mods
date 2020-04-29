@@ -90,9 +90,9 @@ KITSUNE = {
 		# 采矿基地
 		mining_station = {}
 		# 科研基地
-\t\tresearch_station = {}
-\t\t# 观测站
-\t\tobservation_station = {}
+		research_station = {}
+		# 观测站
+		observation_station = {}
 	}
 
 	### 舰队
@@ -109,86 +109,86 @@ KITSUNE = {
 	
 	### 部队名
 	army_names = {
-\t\t# 突击部队
-\t\tassault_army = {
-\t\t\tsequential_name = "United Expeditionary Army %C%"
-\t\t}
-\t\t# 机器人突击部队
-\t\trobotic_army = {
-\t\t\tsequential_name = "Mechanized Expeditionary Army %C%"
-\t\t}
+		# 突击部队
+		assault_army = {
+			sequential_name = "United Expeditionary Army %C%"
+		}
+		# 机器人突击部队
+		robotic_army = {
+			sequential_name = "Mechanized Expeditionary Army %C%"
+		}
 		# 防御部队
-\t\tdefense_army = {
-\t\t\tsequential_name = "United Guard Army %C%"
-\t\t}
-\t\t# 机器人防御部队
-\t\trobotic_defense_army = {
-\t\t\tsequential_name = "Mechanized Guard Army %C%"
-\t\t}
-\t\t# 占领部队 
-\t\toccupation_army = {
-\t\t\tsequential_name = "United Occupation Army %C%"
-\t\t}
-\t\t# 机械人占领部队
-\t\trobotic_occupation_army = {
-\t\t\tsequential_name = "Mechanized Occupation Army %C%"
-\t\t}
-\t\t# 奴隶部队
-\t\tslave_army = {
-\t\t\tsequential_name = "Slave Army %C%"
-\t\t}
-\t\t# 克隆人部队
-\t\tclone_army = {
-\t\t\tsequential_name = "Clone Army %C%"
-\t\t}
-\t\t# 灵能部队
-\t\tpsionic_army = {
+		defense_army = {
+			sequential_name = "United Guard Army %C%"
+		}
+		# 机器人防御部队
+		robotic_defense_army = {
+			sequential_name = "Mechanized Guard Army %C%"
+		}
+		# 占领部队 
+		occupation_army = {
+			sequential_name = "United Occupation Army %C%"
+		}
+		# 机械人占领部队
+		robotic_occupation_army = {
+			sequential_name = "Mechanized Occupation Army %C%"
+		}
+		# 奴隶部队
+		slave_army = {
+			sequential_name = "Slave Army %C%"
+		}
+		# 克隆人部队
+		clone_army = {
+			sequential_name = "Clone Army %C%"
+		}
+		# 灵能部队
+		psionic_army = {
 			random_names = {
 				"Wind Charm Army" "Electric Charm Army" "Cold Charm Army" "Flame Charm Army"
 			}
-\t\t\tsequential_name = "United Charm Army %C%"
-\t\t}
-\t\t# 异形部队
-\t\txenomorph_army = {
-\t\t\tsequential_name = "United War Army %C%"
-\t\t}
-\t\t# 基因战士部队
-\t\tgene_warrior_army = {
-\t\t\tsequential_name = "United Elite %C%"
-\t\t}
-\t\t# 原始部队
-\t\tprimitive_army = {
-\t\t\tsequential_name = "Saber Army %C%"
-\t\t}
-\t\t# 工业部队
-\t\tindustrial_army = {
-\t\t\tsequential_name = "Dragon Knight Army %C%"
-\t\t}
-\t\t# 工业部队（地下）
-\t\tsubterranean_industrial_army = {
-\t\t\tsequential_name = "Drake Knight %C%"
-\t\t}
-\t\t# 原子部队
-\t\tpostatomic_army = {
-\t\t\tsequential_name = "United Dragon Knight Army %C%"
-\t\t}
-\t\t# 原子部队（地下）
-\t\tsubterranean_postatomic_army = {
-\t\t\tsequential_name = "United Drake Knight Army %C%"
-\t\t}
-\t\t
-\t\t# 巨兽 
-\t\t# titanic_assault_army = {}
-\t\t# 巨兽
-\t\t# titanic_azizian_assault_army = {}
-\t\t# 巨兽
-\t\t# titanic_guardian_army = {}
-\t\t# 巨型作战平台
-\t\t# care_defensive_protocols = {}
-\t}
+			sequential_name = "United Charm Army %C%"
+		}
+		# 异形部队
+		xenomorph_army = {
+			sequential_name = "United War Army %C%"
+		}
+		# 基因战士部队
+		gene_warrior_army = {
+			sequential_name = "United Elite %C%"
+		}
+		# 原始部队
+		primitive_army = {
+			sequential_name = "Saber Army %C%"
+		}
+		# 工业部队
+		industrial_army = {
+			sequential_name = "Dragon Knight Army %C%"
+		}
+		# 工业部队（地下）
+		subterranean_industrial_army = {
+			sequential_name = "Drake Knight %C%"
+		}
+		# 原子部队
+		postatomic_army = {
+			sequential_name = "United Dragon Knight Army %C%"
+		}
+		# 原子部队（地下）
+		subterranean_postatomic_army = {
+			sequential_name = "United Drake Knight Army %C%"
+		}
+		
+		# 巨兽 
+		# titanic_assault_army = {}
+		# 巨兽
+		# titanic_azizian_assault_army = {}
+		# 巨兽
+		# titanic_guardian_army = {}
+		# 巨型作战平台
+		# care_defensive_protocols = {}
+	}
 
-\t### 行星
-\t# 可以自定义恒星和不可居住的星球
+	### 行星
+	# 可以自定义恒星和不可居住的星球
 	planet_names = {
 		# 通用
 		generic = {
@@ -307,10 +307,10 @@ KITSUNE = {
 	}
 	### 统治者
 	ruler_names = {
-\t\tdefault = {
-\t\t\tfull_names = {
+		default = {
+			full_names = {
 				伊德娅
-\t\t\t}
-\t\t}
-\t}
+			}
+		}
+	}
 }
