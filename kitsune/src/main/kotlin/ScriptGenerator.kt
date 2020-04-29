@@ -35,43 +35,50 @@ private fun generatePortraitsScript() {
 		}
 	}.trimEnd()
 	val text = """
-	portraits = {
-${kitsuneDef.prependIndent(2)}
-	}
+portraits = {
+${kitsuneDef.prependIndent(1)}
+}
 
-	portrait_groups = {
-		kitsune = {
-			default = kitsune_idea
-			game_setup = {
-				add = {
-					portraits = {
-${kitsuneRef.prependIndent(6)}
-					}
+portrait_groups = {
+	kitsune = {
+		default = kitsune_idea
+		game_setup = {
+			add = {
+				portraits = {
+${kitsuneRef.prependIndent(5)}
 				}
 			}
-			species = {
-				add = {
-					portraits = {
-${kitsuneRef.prependIndent(6)}
-					}
+		}
+		species = {
+			add = {
+				portraits = {
+${kitsuneRef.prependIndent(5)}
 				}
 			}
-			pop = {
-				add = {
-					portraits = {
-${kitsuneRef.prependIndent(6)}
-					}
+		}
+		pop = {
+			add = {
+				portraits = {
+${kitsuneRef.prependIndent(5)}
 				}
 			}
-			ruler = {
-				add = {
-					portraits = {
-${kitsuneIdeaRef.prependIndent(6)}
-					}
+		}
+		leader = {
+			add = {
+				portraits = {
+${kitsuneIdeaRef.prependIndent(5)}
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+${kitsuneIdeaRef.prependIndent(5)}
 				}
 			}
 		}
 	}
+}
 	""".trimIndent()
 	File("kitsune/package/gfx/portraits/portraits/kitsune_portraits.txt").writeText(text)
 }

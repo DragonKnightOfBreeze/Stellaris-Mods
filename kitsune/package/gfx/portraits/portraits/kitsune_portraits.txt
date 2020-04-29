@@ -362,6 +362,45 @@ portrait_groups = {
 				}
 			}
 		}
+		leader = {
+			add = {
+				portraits = {
+					kitsune_idea
+					kitsune_idea_0
+					kitsune_idea_1
+					kitsune_idea_2
+					kitsune_idea_3
+					kitsune_idea_4
+					kitsune_idea_5
+					kitsune_idea_6
+					kitsune_idea_7
+					kitsune_idea_8
+					kitsune_idea_9
+					kitsune_idea_10
+					kitsune_idea_11
+					kitsune_idea_12
+					kitsune_idea_13
+					kitsune_idea_14
+					kitsune_idea_15
+					kitsune_idea_16
+					kitsune_idea_17
+					kitsune_idea_18
+					kitsune_idea_19
+					kitsune_idea_20
+					kitsune_idea_21
+					kitsune_idea_22
+					kitsune_idea_23
+					kitsune_idea_24
+					kitsune_idea_25
+					kitsune_idea_26
+					kitsune_idea_27
+					kitsune_idea_28
+					kitsune_idea_29
+					kitsune_idea_30
+					kitsune_idea_31
+				}
+			}
+		}
 		ruler = {
 			add = {
 				portraits = {

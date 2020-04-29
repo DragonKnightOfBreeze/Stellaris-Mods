@@ -1,6 +1,6 @@
 wind_nation = {
 	name = "wind_nation"
-    adjective=  "PRESCRIPTED_adjective_wind_nation"
+\tadjective=  "PRESCRIPTED_adjective_wind_nation"
 	spawn_enabled = yes
 	spawn_as_fallen = no
 	ignore_portrait_duplication = yes
