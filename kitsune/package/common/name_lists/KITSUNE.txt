@@ -143,9 +143,6 @@ KITSUNE = {
 		}
 		# 灵能部队
 		psionic_army = {
-			random_names = {
-				"Wind Charm Army" "Electric Charm Army" "Cold Charm Army" "Flame Charm Army"
-			}
 			sequential_name = "United Charm Army %C%"
 		}
 		# 异形部队

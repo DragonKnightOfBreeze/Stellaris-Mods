@@ -398,6 +398,58 @@ portrait_groups = {
 					kitsune_idea_29
 					kitsune_idea_30
 					kitsune_idea_31
+					kitsune_0
+					kitsune_1
+					kitsune_2
+					kitsune_3
+					kitsune_4
+					kitsune_5
+					kitsune_6
+					kitsune_7
+					kitsune_8
+					kitsune_9
+					kitsune_10
+					kitsune_11
+					kitsune_12
+					kitsune_13
+					kitsune_14
+					kitsune_15
+					kitsune_16
+					kitsune_17
+					kitsune_18
+					kitsune_19
+					kitsune_20
+					kitsune_21
+					kitsune_22
+					kitsune_23
+					kitsune_24
+					kitsune_25
+					kitsune_26
+					kitsune_27
+					kitsune_28
+					kitsune_29
+					kitsune_30
+					kitsune_31
+					kitsune_32
+					kitsune_33
+					kitsune_34
+					kitsune_35
+					kitsune_36
+					kitsune_37
+					kitsune_38
+					kitsune_39
+					kitsune_40
+					kitsune_41
+					kitsune_42
+					kitsune_43
+					kitsune_44
+					kitsune_45
+					kitsune_46
+					kitsune_47
+					kitsune_48
+					kitsune_49
+					kitsune_50
+					kitsune_51
 				}
 			}
 		}

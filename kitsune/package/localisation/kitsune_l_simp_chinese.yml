@@ -118,3 +118,28 @@ Windkid_spawn_plural:0 "年轻的风之子"
 
 EMPIRE_DESIGN_wind_nation:0 "风之国度"
 EMPIRE_DESIGN_wind_nation_desc:0 "风之子是一群天性纯真的小家伙们，有着可爱的兽类外貌特征，以及相较人类漫长的寿命。看似柔弱的他们，实则拥有极其出色的学习天赋。\n\n自有记录的历史以来，风之子的族群中便一直流传着源于悠久之时的失落传说——那是有关结为同伴的风之子与始源巨龙，遨游宇宙，传述故事和传说的美好传说，也是彷如空想童话一般的传说。\n\n然而，传说并未一直沉寂下去。在一名满怀执念的风之子的努力下，巨龙们最终低下了高傲的头颅，而族人们也最终走出了孤立的家园。为了追逐传说的脚步，为了探寻遗落的历史，为了知晓自身的起源，他们决定探索，决定发展，决定迈入群星之间。"
+
+### 起源
+
+origin_companion_evolution:0 "共同进化"
+origin_companion_evolution_desc:0 "第二物种是这个社会不可分割的一部分。"
+origin_companion_evolution_secondary_species:0 "第二物种"
+origin_tooltip_companion_evolution_effects:0 ""
+
+# civic_syncretic_evolution:0 "协同进化"
+# civic_syncretic_evolution_desc:0 "第二物种是这个社会不可分割的一部分。他们又大又强壮，但大多数的智力跟弱智的孩童差不多。在古代战争中我们将他们好斗的一面剔除了，这让他们变成了最听话的仆人。"
+# civic_syncretic_evolution_secondary_species:0 "协同物种"
+# civic_tooltip_syncretic_evolution_effects:0 "游戏开始时拥有§Y12§!£pop£附属物种人口"
+
+# civic_syncretic_evolution:0 "综摄演化"
+# civic_syncretic_evolution_desc:0 "第二个种族乃此社会不可分割的一部分。此种族高大强壮，而智力仅与愚笨的孩童相当。古代战争已剔除其侵略倾向，使之相当恭顺。"
+# civic_syncretic_evolution_secondary_species:0 "综摄种族"
+# civic_tooltip_syncretic_evolution_effects:4 "§Y12§!£pop£起始人口替换为一额外的奴仆种族"
+#  civic_tooltip_citizen_service_effects:4 "£job_soldier£§Y$job_soldier_plural$§!会产出§Y2§!£unity£凝聚力\n"
+
+START_SCREEN_COMPANION_EVOLUTION:0 ""
+
+# START_SCREEN_PART_ONE_CONTINENTAL:0 "在亿万年前，最初的原始[GetSpeciesName]种群在[GetHomeWorldName]的草甸与丛林中形成，从那时起，我们的文明就开始传播并慢慢走向繁荣。"
+# START_SCREEN_PART_TWO_SCIENCE_DIRECTORATE:0 "通过科学进步，我们成功消除了统治我们祖先的思想的迷信。由于理性和理性思想在我们的人民中传播，低效率的国家终于被抛弃，而由我们最成功的科学家组成的理事会取而代之。"
+# START_SCREEN_POST_...
+# START_SCREEN_PART_THREE_HYPERSPACE:0 "如今，在发现超平面网路之后，[GetName]最伟大的科学家们成功开发了第一台超空间引擎。银河系的群星终于近在咫尺了！"

@@ -1,0 +1,8 @@
+﻿# 共同进化
+part = {
+	location = 0
+	localization = "START_SCREEN_COMPANION_EVOLUTION"
+    trigger = {
+        has_origin = origin_companion_evolution 
+    }
+}

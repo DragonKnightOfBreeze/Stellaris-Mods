@@ -144,9 +144,6 @@ KITSUNE = {
 		}
 		# 灵能部队
 		psionic_army = {
-			random_names = {
-				风息法术部队 雷电法术部队 寒气法术部队 火焰法术部队
-			}
 			sequential_name = "联合法术部队 %C%"
 		}
 		# 异形部队

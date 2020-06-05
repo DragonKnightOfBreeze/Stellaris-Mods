@@ -1,0 +1,54 @@
+﻿# 重名自动整合
+# 事件从8801开始
+
+# 游戏开始时添加需要的人口，首都上添加10/8人口，非首都上添加6/4人口
+planet_event = {
+	id = game_start.8801
+    hide_window = yes
+    is_triggered_only = yes
+    immediate = {
+        if = {
+            limit = { 
+                owner = { 
+                    has_origin = origin_companion_evolution 
+                }
+            }
+            if = {
+                limit = {
+                    is_capital = yes 
+                }
+                random_galaxy_species = {
+                    limit = {
+                        has_species_flag = companion_species@root.owner
+                    }
+                    save_event_target_as = companion_species
+                }
+                while = {
+                    count = 10
+                    create_pop = { species = owner_main_species }
+                }
+                while = {
+                    count = 8
+                    create_pop = { species = event_target:companion_species }
+                }
+ 
+            }
+            else = {
+                random_galaxy_species = {
+                    limit = {
+                        has_species_flag = companion_species@root.owner
+                    }
+                    save_event_target_as = companion_species
+                }
+                while = {
+                    count = 6
+                    create_pop = { species = owner_main_species }
+                }
+                while = {
+                    count = 4
+                    create_pop = { species = event_target:companion_species }
+                }
+            }
+        }
+    }
+}

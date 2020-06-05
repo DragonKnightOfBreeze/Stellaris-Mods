@@ -28,15 +28,9 @@ private fun generatePortraitsScript() {
 			appendln("kitsune_$it")
 		}
 	}.trimEnd()
-	val kitsuneIdeaRef = buildString {
-		appendln("kitsune_idea")
-		repeat(kitsuneIdeaCount) {
-			appendln("kitsune_idea_$it")
-		}
-	}.trimEnd()
 	val text = """
 portraits = {
-${kitsuneDef.prependIndent(1)}
+${kitsuneDef.prependIndent("\t")}
 }
 
 portrait_groups = {
@@ -45,35 +39,35 @@ portrait_groups = {
 		game_setup = {
 			add = {
 				portraits = {
-${kitsuneRef.prependIndent(5)}
+${kitsuneRef.prependIndent("\t".repeat(5))}
 				}
 			}
 		}
 		species = {
 			add = {
 				portraits = {
-${kitsuneRef.prependIndent(5)}
+${kitsuneRef.prependIndent("\t".repeat(5))}
 				}
 			}
 		}
 		pop = {
 			add = {
 				portraits = {
-${kitsuneRef.prependIndent(5)}
+${kitsuneRef.prependIndent("\t".repeat(5))}
 				}
 			}
 		}
 		leader = {
 			add = {
 				portraits = {
-${kitsuneIdeaRef.prependIndent(5)}
+${kitsuneRef.prependIndent("\t".repeat(5))}
 				}
 			}
 		}
 		ruler = {
 			add = {
 				portraits = {
-${kitsuneIdeaRef.prependIndent(5)}
+${kitsuneRef.prependIndent("\t".repeat(5))}
 				}
 			}
 		}
