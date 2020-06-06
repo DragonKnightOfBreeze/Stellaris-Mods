@@ -1,6 +1,6 @@
 ### 种族设定
 
-# 狐族
+### 狐族
 KITSUNE = {
 	archetype = BIOLOGICAL
 	randomized = no
@@ -22,7 +22,7 @@ KITSUNE = {
 	move_pop_sound_effect = moving_pop_confirmation
 }
 
-# 狐族（机械人）
+### 狐族（机械人）
 KITSUNE-ROBOT = {
 	archetype = ROBOT
 	randomized = no

@@ -57,7 +57,7 @@ KITSUNE = {
 		}
 		# 科研船
 		science = {
-			倾听之歌 观察之歌 旅行之歌 接触之歌
+			倾听之歌 观察之歌 探索之歌 接触之歌
 		}
 		# 殖民船
 		colonizer = {
@@ -87,20 +87,38 @@ KITSUNE = {
 		ion_cannon = {
 			龙炎
 		}
+
 		# 采矿基地
-		mining_station = {}
+		# mining_station = {}
 		# 科研基地
-		research_station = {}
+		# research_station = {}
 		# 观测站
-		observation_station = {}
+		# observation_station = {}
+		
+		# 哨站
+        # starbase_outpost = {}
+        # 星港
+        # starbase_starport = {}
+        # 星垒
+        # starbase_starhold = {}
+        # 星堡
+        # starbase_starfortress = {}
+        # 擎天堡
+        # starbase_citadel = {}
 	}
 
+	### 舰队类型名字
+	# ship_class_names = {
+	# 	
+	# }
+	
 	### 舰队
 	fleet_names = {
 		random_names = {
-			漫游者舰队 云游者舰队 巡游者舰队 吟游者舰队
-			监视者舰队 观察者舰队 审判者舰队 裁决者舰队
-			守护者舰队 守望者舰队 代理者舰队 传述者舰队
+			"Rover fleet" "Ranger Fleet" "Wander Fleet" "Minstrel Fleet"
+			"Observer Fleet" "Monitor Fleet" "Guardian Fleet" "Watcher Fleet" 
+			"Agent Fleet" "Voyager fleet" "Inquisitor Fleet" "Judge Fleet"
+			"Editor fleet" "Narrator Fleet" "Teller Fleet" "Revealer Fleet"
 		}
 		sequential_name = {
 			"United Expeditionary Fleet %C%"
@@ -135,11 +153,11 @@ KITSUNE = {
 		}
 		# 奴隶部队
 		slave_army = {
-			sequential_name = "Slave Army %C%"
+			sequential_name = "United Retinue Army %C%"
 		}
 		# 克隆人部队
 		clone_army = {
-			sequential_name = "Clone Army %C%"
+			sequential_name = "United Clone Army %C%"
 		}
 		# 灵能部队
 		psionic_army = {
@@ -151,8 +169,9 @@ KITSUNE = {
 		}
 		# 基因战士部队
 		gene_warrior_army = {
-			sequential_name = "United Elite %C%"
+			sequential_name = "United Elite Army%C%"
 		}
+		
 		# 原始部队
 		primitive_army = {
 			sequential_name = "Saber Army %C%"
@@ -163,7 +182,7 @@ KITSUNE = {
 		}
 		# 工业部队（地下）
 		subterranean_industrial_army = {
-			sequential_name = "Drake Knight %C%"
+			sequential_name = "Drake Knight Army%C%"
 		}
 		# 原子部队
 		postatomic_army = {
@@ -189,7 +208,7 @@ KITSUNE = {
 	planet_names = {
 		# 通用
 		generic = {
-			names = { 
+			names = {
 				微风 阵风 轻风 疾风 临风 边风 界风 邻风
 				送风 吹风 飘风 呼风 孤风 降风 飓风 台风
 				呼风 召风 扬风 落风 清风 欢风 狂风 烈风
@@ -262,12 +281,13 @@ KITSUNE = {
 
 	### 角色备注
 	# 伊德娅：看板娘，伊德娅天下第一！
+	# （无名）：白发红瞳的兽耳少女，特征是红色领带
 	# 娜柯：粉发的兽耳少女，粉色三角帽，物理型魔法使，使用变形法杖
 	# 诺缇：白发的兽耳少女，黑色三角帽，智慧型魔法使
 	# 诗音：白发红瞳的兽耳少女，蓝色三角帽，使用刀的魔法使
 	# 伊露卡：白发灰瞳的兽耳少女，黑边白色三角帽，沉默寡言，充满谜团
 	# 露娜：白发的少女，使用变形大剑和大弓
-	# 莉娜：灰发的兽耳少女，魔法使
+	# 莉娜：灰发绿瞳的兽耳少女，魔法使
 	# 露米：据说是伊德娅的表姐
 	# 米尼诺拉&西托拉斯：白发黑衣的兽耳姐妹，江风原型？
 	
@@ -278,35 +298,36 @@ KITSUNE = {
 		names_1 = {
 			weight = 20
 			full_names = {
-				Idea Nako Noti Shion Iluca Lina Lia Lumi Mininona Setorath
+				Idea Nako Nochi Shion Iluca Runa Lia Lumi Mininona Setorath
 			}
 		}
 		names_2 = {
 			weight = 80
 			full_names = {
-				吹风 吹雪 吹原 吹野
-				逐风 逐日 逐梦 逐晓
-				瑶草 瑶铃 瑶梦 瑶月
-				雾浅 雾迟 雾花 雾月
-				落星 陨星 彗星 飞星
+				"Blowing Wind" "Blowing Snow" "Blowing Plain" "Blowing Wilderness"
+				"Chasing Wind" "Chasing Sun" "Chasing Dream" "Chasing Dawn"				
+				"Pulsed Grass" "Pulsed Chime" "Pulsed Phantom" "Pulsed Lunar"
+				"Mist" "Fog" "Haze" "Oboro"
+				"Star" Nova" "Meteor" "Comet"
 			}
 		}
 		names_3 = {
 			weight = 80
 			full_names = {
-				白风 银风 赤风 红风
-				雷光 雷牙 迅雷 闪雷
-				烛火 炽火 曲火 浮火
-				凛冬 凛云 冬雪 晶雪
-				曙光 荧光 极光 弧光
+				"White Wind" "Silver Wind" "Red Wind" "Crimson Wind"
+				"Thunder Light" "Thunder Fang" "Swift Thunder" "Flash Thunder"
+				"Candlelight" "Blaze" "Curved Fire" "Floating Fire"
+				"Cold winter" "Cold Cloud" "Winter Snow" "Crystal Snow"
+				"Daylight " "Fluorescence" "Aurora" "Arc"
 			}
 		}
 	}
+	
 	### 统治者
 	ruler_names = {
 		default = {
 			full_names = {
-				伊德娅
+				Idea Nako Noti Shion Iluca Lina Lia Lumi Mininona Setorath
 			}
 		}
 	}

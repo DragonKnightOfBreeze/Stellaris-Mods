@@ -1,5 +1,4 @@
 ### 名字列表
-
 KITSUNE = {
 	kitsune = {
 		name = "Kitsune"

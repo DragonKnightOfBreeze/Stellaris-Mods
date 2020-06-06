@@ -1,4 +1,4 @@
-﻿# 是否已经遇到其他种族
+﻿### COVER 是否已经遇到其他种族
 has_encountered_other_species = {
 	OR = {
 		has_origin = origin_companion_evolution 
