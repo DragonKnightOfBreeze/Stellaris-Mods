@@ -10,6 +10,11 @@ origin_companion_evolution = {
 				value = ethic_xenophile
 				value = ethic_fanatic_xenophile
 			}
+			NOR = {
+                text = civic_tooltip_not_authoritarian
+                value = ethic_authoritarian
+                value = ethic_fanatic_authoritarian
+            }
 		}
 	}
 	modifier = {

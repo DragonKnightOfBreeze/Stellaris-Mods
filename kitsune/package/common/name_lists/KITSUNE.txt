@@ -1,7 +1,6 @@
 ### 名字列表
 ### 人名参考自百度凪白吧的精品贴，可视为官方设定
 ### 其他名字来自自己的私人想法
-
 KITSUNE = {
 	category = "Humanoid"
 	randomized = no

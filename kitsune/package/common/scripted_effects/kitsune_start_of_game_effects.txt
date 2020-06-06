@@ -1,13 +1,9 @@
-﻿# TODO 是否重名自动整合？
-
-### 开始游戏时生成第二种族的人口
-generate_start_pops = {
+﻿### 开始游戏时生成第二种族的人口
+generate_companion_pops = {
 	# 如果是共同进化起源
 	if = {
 		limit = {
-			owner = {
-				has_origin = origin_companion_evolution
-			}
+			owner = { has_origin = origin_companion_evolution }
 		}
 		last_created_species = {
 			# 设置种族标记

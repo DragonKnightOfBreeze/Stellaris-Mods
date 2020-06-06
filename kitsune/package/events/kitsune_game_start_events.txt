@@ -1,25 +1,35 @@
-﻿# NOTE 重名自动整合，事件编号从8801开始
+﻿namespace = kitsune_game_start
 
-### 游戏开始时添加需要的人口
+### 游戏开始时生成第二种族人口
 planet_event = {
-	id = game_start.8801
+	id = kitsune_game_start.1
+	hide_window = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		if = {
+			limit = { 
+				owner = { has_origin = origin_companion_evolution }
+			}
+			generate_companion_pops = yes
+		}
+	}
+}
+
+### 游戏开始时生成额外的第二种族人口
+planet_event = {
+	id = kitsune_game_start.2
     hide_window = yes
     is_triggered_only = yes
     immediate = {
         if = {
             limit = { 
-                owner = { 
-                    has_origin = origin_companion_evolution 
-                }
+                owner = { has_origin = origin_companion_evolution }
             }
             if = {
-                limit = {
-                    is_capital = yes 
-                }
+                limit = { is_capital = yes }
                 random_galaxy_species = {
-                    limit = {
-                        has_species_flag = companion_species@root.owner
-                    }
+                    limit = { has_species_flag = companion_species@root.owner }
                     save_event_target_as = companion_species
                 }
                 while = {
@@ -34,9 +44,7 @@ planet_event = {
             }
             else = {
                 random_galaxy_species = {
-                    limit = {
-                        has_species_flag = companion_species@root.owner
-                    }
+                    limit = { has_species_flag = companion_species@root.owner }
                     save_event_target_as = companion_species
                 }
                 while = {
