@@ -5,7 +5,6 @@ planet_event = {
 	id = kitsune_game_start.1
 	hide_window = yes
 	is_triggered_only = yes
-	
 	immediate = {
 		if = {
 			limit = { 
@@ -28,25 +27,31 @@ planet_event = {
 			}
 			if = {
 				limit = { is_capital = yes }
+                while = {
+                    count = 8
+                    random_owned_pop = { kill_pop = yes }
+                }
 				random_galaxy_species = {
 					limit = { has_species_flag = companion_species@root.owner }
 					save_event_target_as = companion_species
 				}
 				while = {
 					count = 8
-					random_owned_pop = { kill_pop = yes }
 					create_pop = { species = event_target:companion_species }
 				}
 			}
 			else = {
+		        while = {
+                    count = 4
+                    random_owned_pop = { kill_pop = yes }
+                }
 				random_galaxy_species = {
 					limit = { has_species_flag = companion_species@root.owner }
 					save_event_target_as = companion_species
 				}
 				while = {
 					count = 4
-					random_owned_pop = { kill_pop = yes }
-					create_pop = { species = event_target:companion_species }
+                    change_species = event_target:companion_species
 				}
 			}
 		}

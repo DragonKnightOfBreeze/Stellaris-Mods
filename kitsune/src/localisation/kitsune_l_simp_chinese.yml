@@ -121,12 +121,9 @@ EMPIRE_DESIGN_wind_nation_desc:0 "风之子是一群天性纯真的小家伙们�
 
 ### 起源
 
+START_SCREEN_POST_COMPANION_EVOLUTION:0 "古代传说描绘了一副曾被视为童话故事的美好画卷，在那遥远的过去，在那高度发达的理想社会中，我们的祖先曾经携手他们的同伴，漫游于群星之间。"
+
 origin_companion_evolution:0 "共同进化"
 origin_companion_evolution_desc:0 "第二种族乃是这个社会不可分割的一部分。他们与我们在外观和习性上差异巨大，但在价值观念、知识体系以及社会文化等方面却拥有诸多相似之处。古代传说已经揭示了共同历史的尘封一角，这让他们与我们如今走到了一起。"
 origin_companion_evolution_secondary_species:0 "第二种族"
 origin_tooltip_companion_evolution_effects:0 "游戏开始时拥有§Y12§!£pop£第二种族人口"
-
-# START_SCREEN_PART_ONE_CONTINENTAL:0 "在亿万年前，最初的原始[GetSpeciesName]种群在[GetHomeWorldName]的草甸与丛林中形成，从那时起，我们的文明就开始传播并慢慢走向繁荣。"
-# START_SCREEN_PART_TWO_SCIENCE_DIRECTORATE:0 "通过科学进步，我们成功消除了统治我们祖先的思想的迷信。由于理性和理性思想在我们的人民中传播，低效率的国家终于被抛弃，而由我们最成功的科学家组成的理事会取而代之。"
-START_SCREEN_POST_COMPANION_EVOLUTION:0 "古代传说描绘了一副曾被视为童话故事的美好画卷，在那遥远的过去，在那高度发达的理想社会中，我们的祖先曾经携手他们的同伴，漫游于群星之间。"
-# START_SCREEN_PART_THREE_HYPERSPACE:0 "如今，在发现超平面网路之后，[GetName]最伟大的科学家们成功开发了第一台超空间引擎。银河系的群星终于近在咫尺了！"

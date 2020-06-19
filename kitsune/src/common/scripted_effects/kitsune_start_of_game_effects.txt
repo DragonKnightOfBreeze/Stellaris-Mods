@@ -5,6 +5,10 @@ generate_companion_pops = {
 		limit = {
 			owner = { has_origin = origin_companion_evolution }
 		}
+        while = {
+            count = 12
+            random_owned_pop = { kill_pop = yes }
+        }
 		last_created_species = {
 			# 设置种族标记
 			set_species_flag = companion_species@root.owner
@@ -20,7 +24,6 @@ generate_companion_pops = {
 		while = {
 			# 指定要创建人口的数量
 			count = 12
-            random_owned_pop = { kill_pop = yes }
 			# 指定要创建人口的种族和思潮
 			create_pop = {
 				species = last_created_species

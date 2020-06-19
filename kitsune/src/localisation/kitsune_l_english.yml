@@ -119,12 +119,9 @@ EMPIRE_DESIGN_wind_nation_desc:0 "风之子是一群天性纯真的小家伙们�
 
 ### 起源
 
+START_SCREEN_POST_COMPANION_EVOLUTION:0 "The ancient legends has depicted a beautiful picture scroll that was once regarded as a fairy tale. In that distant past, in that highly developed ideal society, our ancestors once joined hands with their companions, to roam, roam among the stars."
+
 origin_companion_evolution:0 "Companion Evolution"
 origin_companion_evolution_desc:0 "A second species forms an integral part of this society. They differ greatly from us in appearance and habits, but there are many similarities in terms of values, knowledge systems and social culture. The ancient legends have revealed the dusty corner of the common history, bringing them together with us today."
 origin_companion_evolution_secondary_species:0 "Companion Species"
 origin_tooltip_companion_evolution_effects:0 "Start the game with §Y12§! £pop£ Pops being of another, companionate, species"
-
-#  START_SCREEN_PART_ONE_CONTINENTAL:0 "In the eons since the first primitive [GetSpeciesName] communities took shape in the meadows and forests of [GetHomeWorldName], our civilization has spread and prospered."
-#  START_SCREEN_PART_TWO_SCIENCE_DIRECTORATE:0 "Through scientific progress, we have managed to stamp out the superstitions that ruled the minds of our ancestors. As reason and rational thought spread among our people, the inefficient nation states that we had until then organized ourselves into were disbanded, and a council of our most accomplished scientists was gathered to rule in their stead."
-START_SCREEN_POST_COMPANION_EVOLUTION:0 "The ancient legends has depicted a beautiful picture scroll that was once regarded as a fairy tale. In that distant past, in that highly developed ideal society, our ancestors once joined hands with their companions, to roam, roam among the stars."
-#  START_SCREEN_PART_THREE_HYPERSPACE:0 "Now, after the discovery of the hyperlane network, the finest minds of the [GetName] have finished development of the first hyper drives. The stars themselves are finally within our grasp!"
