@@ -1,7 +1,0 @@
-﻿spriteTypes = {
-	spriteType = {
-		name = "GFX_origin_companion_evolution"
-		texturefile = "gfx/event_pictures/origins/origin_companion_evolution.dds"
-		alwaystransparent = yes
-	}
-}

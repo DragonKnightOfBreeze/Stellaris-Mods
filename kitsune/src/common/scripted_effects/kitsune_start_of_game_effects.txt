@@ -1,0 +1,31 @@
+### 开始游戏时生成第二种族的人口
+generate_companion_pops = {
+	# 如果是共同进化起源
+	if = {
+		limit = {
+			owner = { has_origin = origin_companion_evolution }
+		}
+		last_created_species = {
+			# 设置种族标记
+			set_species_flag = companion_species@root.owner
+			# 设置公民权
+			set_citizenship_type = {
+				country = root.owner
+				type = citizenship_full
+			}
+			# 设置生活标准
+			# set_living_standard = {}
+		}
+        # 移除并重新创建12个第二种族的人口
+		while = {
+			# 指定要创建人口的数量
+			count = 12
+            random_owned_pop = { kill_pop = yes }
+			# 指定要创建人口的种族和思潮
+			create_pop = {
+				species = last_created_species
+				ethos = random
+			}
+		}
+	}
+}

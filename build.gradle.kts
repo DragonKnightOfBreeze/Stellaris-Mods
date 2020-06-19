@@ -1,13 +1,17 @@
-plugins {
-    kotlin("jvm") version "1.3.70"
-}
+//plugins {
+//    kotlin("jvm") version "1.3.72"
+//}
 
 allprojects {
 	group = "com.windea"
 	version = "1.0.0"
 
-	apply {
-		plugin("org.jetbrains.kotlin.jvm")
+	buildscript{
+		repositories {
+			maven("https://maven.aliyun.com/nexus/content/groups/public")
+			mavenCentral()
+			jcenter()
+		}
 	}
 
 	repositories {
@@ -16,30 +20,12 @@ allprojects {
 		jcenter()
 	}
 
-	dependencies {
-		implementation(kotlin("stdlib"))
-		implementation(kotlin("test-junit"))
-	}
-
-	tasks {
-		val prefix = when(project.name){
-			"kareeze-stories" -> ".kareeze"
-			"kitsune" -> ".kitsune"
-			else -> ""
-		}
-		compileKotlin {
-			incremental = true
-			javaPackagePrefix = "com.windea.mod.stellaris$prefix"
-			kotlinOptions {
-				jvmTarget = "11"
-			}
-		}
-		compileTestKotlin {
-			incremental = true
-			javaPackagePrefix = "com.windea.mod.stellaris$prefix"
-			kotlinOptions {
-				jvmTarget = "11"
-			}
-		}
-	}
+	//apply {
+	//	plugin("org.jetbrains.kotlin.jvm")
+	//}
+	//
+	//dependencies {
+	//	implementation(kotlin("stdlib"))
+	//	implementation(kotlin("test-junit"))
+	//}
 }
