@@ -5,10 +5,6 @@ generate_companion_pops = {
 		limit = {
 			owner = { has_origin = origin_companion_evolution }
 		}
-        while = {
-            count = 12
-            random_owned_pop = { kill_pop = yes }
-        }
 		last_created_species = {
 			# 设置种族标记
 			set_species_flag = companion_species@root.owner
@@ -30,5 +26,9 @@ generate_companion_pops = {
 				ethos = random
 			}
 		}
+        while = {
+            count = 12
+            random_owned_pop = { kill_pop = yes }
+        }
 	}
 }
