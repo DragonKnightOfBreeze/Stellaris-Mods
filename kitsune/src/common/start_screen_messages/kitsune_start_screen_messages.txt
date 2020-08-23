@@ -3,7 +3,7 @@ part = {
 	location = 1
 	localization = "START_SCREEN_POST_COMPANION_EVOLUTION"
 	trigger = {
-        has_origin = origin_companion_evolution
+		has_origin = origin_companion_evolution
 		NOT = { has_country_flag = custom_start_screen }
-    }
+	}
 }

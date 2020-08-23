@@ -1,0 +1,18 @@
+﻿WYVERN = {
+	language = "l_simp_chinese"
+	category = "Reptilian"
+	randomized = no
+	should_name_home_system_planets = no
+	
+	### 角色
+	character_names = {
+		default = {
+			full_names = {
+				守望之龙 沉眠之龙 裁决之龙 镇守之龙
+				风暴之龙 降雷之龙 焚炎之龙 霜星之龙
+				曙光之龙 幽月之龙 阴云之龙 薄雾之龙
+				光翼之龙 暗羽之龙 空鸣之龙 幽啼之龙
+			}
+		}
+	}
+}

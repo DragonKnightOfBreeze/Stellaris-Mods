@@ -1,6 +1,6 @@
 portraits = {
-	idea_1 = { texturefile = "gfx/models/portraits/kitsune/idea_1.dds" }
-	idea_10 = { texturefile = "gfx/models/portraits/kitsune/idea_10.dds" }
+	idea_1 = {texturefile = "gfx/models/portraits/kitsune/idea_1.dds"}
+	idea_10 = {texturefile = "gfx/models/portraits/kitsune/idea_10.dds"}
 	idea_11 = {texturefile = "gfx/models/portraits/kitsune/idea_11.dds"}
 	idea_12 = {texturefile = "gfx/models/portraits/kitsune/idea_12.dds"}
 	idea_13 = {texturefile = "gfx/models/portraits/kitsune/idea_13.dds"}

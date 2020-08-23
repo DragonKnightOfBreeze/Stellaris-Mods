@@ -26,23 +26,22 @@ wind_nation = {
 		name = "PRESCRIPTED_secondary_species_name_wind_nation"
 		plural = "PRESCRIPTED_secondary_species_plural_wind_nation"
 		adjective = "PRESCRIPTED_secondary_species_adjective_wind_nation"
-		name_list = "REP4"
+		name_list = "WYVERN"
 		trait = "trait_very_strong" # 3
 		trait = "trait_nomadic" # 1
 		trait = "trait_enduring" # 1
 		trait = "trait_solitary" # -1
 		trait = "trait_slow_breeders" # -2
 	}
-	room = "personality_erudite_explorers_room"
 	
+	authority = "auth_oligarchic"
 	ethic = "ethic_fanatic_materialist"
 	ethic = "ethic_xenophile"
-	authority = "auth_oligarchic"
-	government = "gov_science_directorate"
 	civics = {
 		"civic_technocracy"
 		"civic_meritocracy"
 	}
+	government = "gov_science_directorate"
 	origin = "origin_companion_evolution"
 	
 	planet_name = "PRESCRIPTED_planet_name_wind_nation"
@@ -50,6 +49,7 @@ wind_nation = {
 	system_name = "PRESCRIPTED_system_name_wind_nation"
 	initializer = "custom_starting_init_06"
 	
+	room = "personality_erudite_explorers_room"
 	graphical_culture = "humanoid_01"
 	city_graphical_culture = "humanoid_01"
 	empire_flag = {
@@ -75,6 +75,5 @@ wind_nation = {
 		texture = 0
 		hair = 0
 		clothes = 0
-		leader_class = "ruler"
 	}
 }

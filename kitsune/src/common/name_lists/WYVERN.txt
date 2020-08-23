@@ -1,0 +1,18 @@
+﻿WYVERN = {
+	language = "l_simp_chinese"
+	category = "Reptilian"
+	randomized = no
+	should_name_home_system_planets = no
+	
+	### 角色
+	character_names = {
+		default = {
+			full_names = {
+				"Watch Dragon" "Sleeping Dragon" Judgment Dragon "Guardian Dragon"
+				"Storm Dragon" "Thunder Dragon" "Burning Flame Dragon" "Frost Star Dragon"
+				"Dawn Dragon" "Serene Moon Dragon" "Dusky Cloud Dragon" "Mist Dragon"
+				"Light Wing Dragon" "Dark Feather Dragon" "Singing Dragon" "Screaming Dragon"
+			}
+		}
+	}
+}

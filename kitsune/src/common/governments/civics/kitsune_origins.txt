@@ -6,12 +6,10 @@ origin_companion_evolution = {
 	possible = {
 		ethics = {
 			OR = {
-				text = civic_tooltip_xenophile
 				value = ethic_xenophile
 				value = ethic_fanatic_xenophile
 			}
 			NOT = {
-                text = civic_tooltip_not_authoritarian
                 value = ethic_authoritarian
                 value = ethic_fanatic_authoritarian
             }
