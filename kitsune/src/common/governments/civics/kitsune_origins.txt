@@ -19,7 +19,7 @@ origin_companion_evolution = {
 	}
 	modifier = {
 		country_society_research_produces_mult = 0.10
-		country_unity_produces_mult = 0.05
+		country_unity_produces_mult = 0.10
 	}
 	description = origin_tooltip_companion_evolution_effects
 	has_secondary_species = {

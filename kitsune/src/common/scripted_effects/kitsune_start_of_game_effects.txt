@@ -1,10 +1,11 @@
 ### 开始游戏时生成第二种族的人口
 generate_companion_pops = {
-	# 如果是共同进化起源
 	if = {
+		# 如果是共同进化起源
 		limit = {
 			owner = { has_origin = origin_companion_evolution }
 		}
+		//定义需要创建的种族
 		last_created_species = {
 			# 设置种族标记
 			set_species_flag = companion_species@root.owner
@@ -28,7 +29,10 @@ generate_companion_pops = {
 		}
         while = {
             count = 12
-            random_owned_pop = { kill_pop = yes }
+            random_owned_pop = { 
+				limit = { NOT = { is_same_species = last_created_species } }
+				kill_pop = yes 
+			}
         }
 	}
 }

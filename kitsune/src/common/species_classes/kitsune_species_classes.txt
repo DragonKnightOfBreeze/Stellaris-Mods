@@ -6,10 +6,10 @@ KITSUNE = {
 	randomized = no
 	possible = {
 		authority = {
-			NOT = { 
+			NOT = {
 				value = auth_machine_intelligence
 				text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE
-			} 
+			}
 		}
 	}
 	portraits = {
@@ -19,23 +19,6 @@ KITSUNE = {
 	leader_age_max = 24
 	graphical_culture = humanoid_01
 	move_pop_sound_effect = moving_pop_confirmation
-}
-
-### 狐族（亚智慧）
-PRE_KITSUNE = {
-	archetype = PRESAPIENT
-	playable = { always = no }
-	randomized = no
-	portraits = {
-		"kitsune"
-	}
-
-	graphical_culture = humanoid_01
-	move_pop_sound_effect = "molluscoid_pops_move"
-	uplifted_into = "KITSUNE"
-	uplifted_portraits = {
-		"kitsune"
-	}
 }
 
 ### 狐族（机械人）

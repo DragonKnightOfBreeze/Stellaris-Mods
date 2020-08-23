@@ -1,3 +1,4 @@
+name="Kitsune By Lemon Mito"
 version="1.5"
 tags={
 	"Species"
@@ -5,6 +6,4 @@ tags={
 	"Loading Screen"
 	"Anime"
 }
-name="Kitsune By Lemon Mito"
 picture="thumbnail.png"
-supported_version="2.6.*"

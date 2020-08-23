@@ -12,71 +12,71 @@ KITSUNE = {
 		generic = {}
 		# 护卫舰
 		corvette = {
-			"Corvette"
+			"War ship"
 		}
 		# 驱逐舰
 		destroyer = {
-			"Destroyer"
+			"War ship"
 		}
 		# 巡洋舰
 		cruiser = {
-			"Cruiser"
+			"War ship"
 		}
 		# 战列舰
 		battleship = {
-			"Battleship"
+			"War ship"
 		}
 		# 泰坦
 		titan = {
-			"Titan"
+			"War ship"
 		}
 		# 巨像
 		colossus = {
-			"Colossus"
+			"War ship"
 		}
 		# 主宰
 		juggernaut = {
-			"Juggernaut"
+			"War ship"
 		}
 		
 		# 工程船
 		constructor = {
-			"Constructor Ship"
+			"Galaxy ship"
 		}
 		# 科研船
 		science = {
-			"Science Ship"
+			"Galaxy ship"
 		}
 		# 殖民船
 		colonizer = {
-			"Colonizer Ship"
+			"Galaxy ship"
 		}
 		# 私人殖民船
 		sponsored_colonizer = {
-			"Sponsored Colonizer Ship"
+			"Galaxy ship"
 		}
 		# 运输船
 		transport = {
-			"Transport Ship"
+			"Galaxy ship"
 		}
 		
 		# 防御平台
 		military_station_small = {
-			"Defense Shield"
+			"Charm Shield"
 		}
 		# 防御基地（未使用）
 		military_station_medium = {
-			"Defense Barrier"
+			"Charm Barrier"
 		}
 		# 堡垒（未使用）
 		military_station_large = {
-			"Defense Enchantment"
+			"Charm Enchantment"
 		}
 		# 离子炮
 		ion_cannon = {
 			"Dragon Breath"
+			"123"
 		}
-
 		# 采矿基地
 		# mining_station = {}
 		# 科研基地
@@ -393,7 +393,7 @@ KITSUNE = {
 				"Chasing Wind" "Chasing Sun" "Chasing Dream" "Chasing Dawn"
 				"Pulsed Grass" "Pulsed Chime" "Pulsed Phantom" "Pulsed Lunar"
 				"Mist" "Fog" "Haze" "Oboro"
-				"Star" Nova" "Meteor" "Comet"
+				"Star" "Nova" "Meteor" "Comet"
 			}
 		}
 		names_3 = {

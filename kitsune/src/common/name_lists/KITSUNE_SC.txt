@@ -13,71 +13,70 @@ KITSUNE = {
 		generic = {}
 		# 护卫舰
 		corvette = {
-			"护卫舰"
+			"战舰"
 		}
 		# 驱逐舰
 		destroyer = {
-			"驱逐舰"
+			"战舰"
 		}
 		# 巡洋舰
 		cruiser = {
-			"巡洋舰"
+			"战舰"
 		}
 		# 战列舰
 		battleship = {
-			"战列舰"
+			"战舰"
 		}
 		# 泰坦
 		titan = {
-			"泰坦"
+			"战舰"
 		}
 		# 巨像
 		colossus = {
-			"巨像"
+			"战舰"
 		}
 		# 主宰
 		juggernaut = {
-			"主宰"
+			"战舰"
 		}
 		
 		# 工程船
 		constructor = {
-			"工程船"
+			"星舰"
 		}
 		# 科研船
 		science = {
-			"科研船"
+			"星舰"
 		}
 		# 殖民船
 		colonizer = {
-			"殖民船"
+			"星舰"
 		}
 		# 私人殖民船
 		sponsored_colonizer = {
-			"私人殖民船"
+			"星舰"
 		}
 		# 运输船
 		transport = {
-			"运输船"
+			"星舰"
 		}
 		
 		# 防御平台
 		military_station_small = {
-			"防御护盾"
+			"法术护盾"
 		}
 		# 防御基地（未使用）
 		military_station_medium = {
-			"防御屏障"
+			"法术屏障"
 		}
 		# 堡垒（未使用）
 		military_station_large = {
-			"防御结界"
+			"法术结界"
 		}
 		# 离子炮
 		ion_cannon = {
 			"龙息"
 		}
-
 		# 采矿基地
 		# mining_station = {}
 		# 科研基地

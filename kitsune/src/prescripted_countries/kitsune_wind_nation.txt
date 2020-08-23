@@ -1,10 +1,10 @@
 # 风之国度
 wind_nation = {
 	name = "wind_nation"
-	adjective=  "PRESCRIPTED_adjective_wind_nation"
+	adjective = "PRESCRIPTED_adjective_wind_nation"
 	spawn_enabled = yes
 	spawn_as_fallen = no
-	ignore_portrait_duplication = yes
+	ignore_portrait_duplication = no
 	
 	ship_prefix = "PRESCRIPTED_ship_prefix_wind_nation"
 	
@@ -15,10 +15,10 @@ wind_nation = {
 		plural = "PRESCRIPTED_species_plural_wind_nation"
 		adjective = "PRESCRIPTED_species_adjective_wind_nation"
 		name_list = "KITSUNE"
-		trait="trait_intelligent" # 2
-		trait="trait_charismatic" # 2
-		trait="trait_solitary" # -1
-		trait="trait_weak" # -1
+		trait = "trait_intelligent" # 2
+		trait = "trait_charismatic" # 2
+		trait = "trait_solitary" # -1
+		trait = "trait_weak" # -1
 	}
 	secondary_species = {
 		class = "REP"
