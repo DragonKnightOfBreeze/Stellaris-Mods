@@ -1,5 +1,5 @@
 name="Kitsune By Lemon Mito"
-version="1.5"
+version="1.6"
 tags={
 	"Species"
 	"Graphics"
