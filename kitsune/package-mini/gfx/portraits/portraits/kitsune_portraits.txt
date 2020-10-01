@@ -1,0 +1,402 @@
+portraits = {
+	idea_1 = {texturefile = "gfx/models/portraits/kitsune/idea_1.dds"}
+	idea_2 = {texturefile = "gfx/models/portraits/kitsune/idea_2.dds"}
+	idea_3 = {texturefile = "gfx/models/portraits/kitsune/idea_3.dds"}
+	idea_4 = {texturefile = "gfx/models/portraits/kitsune/idea_4.dds"}
+	idea_5 = {texturefile = "gfx/models/portraits/kitsune/idea_5.dds"}
+	idea_6 = {texturefile = "gfx/models/portraits/kitsune/idea_6.dds"}
+	idea_7 = {texturefile = "gfx/models/portraits/kitsune/idea_7.dds"}
+	idea_8 = {texturefile = "gfx/models/portraits/kitsune/idea_8.dds"}
+	idea_9 = {texturefile = "gfx/models/portraits/kitsune/idea_9.dds"}
+	idea_10 = {texturefile = "gfx/models/portraits/kitsune/idea_10.dds"}
+	idea_11 = {texturefile = "gfx/models/portraits/kitsune/idea_11.dds"}
+	idea_12 = {texturefile = "gfx/models/portraits/kitsune/idea_12.dds"}
+	idea_13 = {texturefile = "gfx/models/portraits/kitsune/idea_13.dds"}
+	idea_14 = {texturefile = "gfx/models/portraits/kitsune/idea_14.dds"}
+	idea_15 = {texturefile = "gfx/models/portraits/kitsune/idea_15.dds"}
+	idea_16 = {texturefile = "gfx/models/portraits/kitsune/idea_16.dds"}
+	idea_17 = {texturefile = "gfx/models/portraits/kitsune/idea_17.dds"}
+	idea_18 = {texturefile = "gfx/models/portraits/kitsune/idea_18.dds"}
+	idea_19 = {texturefile = "gfx/models/portraits/kitsune/idea_19.dds"}
+	idea_20 = {texturefile = "gfx/models/portraits/kitsune/idea_20.dds"}
+	idea_21 = {texturefile = "gfx/models/portraits/kitsune/idea_21.dds"}
+	idea_22 = {texturefile = "gfx/models/portraits/kitsune/idea_22.dds"}
+	idea_23 = {texturefile = "gfx/models/portraits/kitsune/idea_23.dds"}
+	idea_24 = {texturefile = "gfx/models/portraits/kitsune/idea_24.dds"}
+	idea_25 = {texturefile = "gfx/models/portraits/kitsune/idea_25.dds"}
+	idea_26 = {texturefile = "gfx/models/portraits/kitsune/idea_26.dds"}
+	idea_27 = {texturefile = "gfx/models/portraits/kitsune/idea_27.dds"}
+	idea_28 = {texturefile = "gfx/models/portraits/kitsune/idea_28.dds"}
+	idea_29 = {texturefile = "gfx/models/portraits/kitsune/idea_29.dds"}
+	idea_30 = {texturefile = "gfx/models/portraits/kitsune/idea_30.dds"}
+	idea_31 = {texturefile = "gfx/models/portraits/kitsune/idea_31.dds"}
+	idea_32 = {texturefile = "gfx/models/portraits/kitsune/idea_32.dds"}
+	iluca_1 = {texturefile = "gfx/models/portraits/kitsune/iluca_1.dds"}
+	kitsune_a_1 = {texturefile = "gfx/models/portraits/kitsune/kitsune_a_1.dds"}
+	kitsune_a_2 = {texturefile = "gfx/models/portraits/kitsune/kitsune_a_2.dds"}
+	kitsune_a_3 = {texturefile = "gfx/models/portraits/kitsune/kitsune_a_3.dds"}
+	kitsune_a_4 = {texturefile = "gfx/models/portraits/kitsune/kitsune_a_4.dds"}
+	kitsune_a_5 = {texturefile = "gfx/models/portraits/kitsune/kitsune_a_5.dds"}
+	kitsune_b_1 = {texturefile = "gfx/models/portraits/kitsune/kitsune_b_1.dds"}
+	kitsune_b_2 = {texturefile = "gfx/models/portraits/kitsune/kitsune_b_2.dds"}
+	kitsune_b_3 = {texturefile = "gfx/models/portraits/kitsune/kitsune_b_3.dds"}
+	kitsune_b_4 = {texturefile = "gfx/models/portraits/kitsune/kitsune_b_4.dds"}
+	kitsune_b_5 = {texturefile = "gfx/models/portraits/kitsune/kitsune_b_5.dds"}
+	lia_1 = {texturefile = "gfx/models/portraits/kitsune/lia_1.dds"}
+	lia_2 = {texturefile = "gfx/models/portraits/kitsune/lia_2.dds"}
+	lia_3 = {texturefile = "gfx/models/portraits/kitsune/lia_3.dds"}
+	lia_4 = {texturefile = "gfx/models/portraits/kitsune/lia_4.dds"}
+	nako_1 = {texturefile = "gfx/models/portraits/kitsune/nako_1.dds"}
+	nochi_1 = {texturefile = "gfx/models/portraits/kitsune/nochi_1.dds"}
+	nochi_2 = {texturefile = "gfx/models/portraits/kitsune/nochi_2.dds"}
+	nochi_3 = {texturefile = "gfx/models/portraits/kitsune/nochi_3.dds"}
+	noname_1 = {texturefile = "gfx/models/portraits/kitsune/noname_1.dds"}
+	noname_2 = {texturefile = "gfx/models/portraits/kitsune/noname_2.dds"}
+	noname_3 = {texturefile = "gfx/models/portraits/kitsune/noname_3.dds"}
+	runa_1 = {texturefile = "gfx/models/portraits/kitsune/runa_1.dds"}
+	runa_2 = {texturefile = "gfx/models/portraits/kitsune/runa_2.dds"}
+	runa_3 = {texturefile = "gfx/models/portraits/kitsune/runa_3.dds"}
+	setorath_1 = {texturefile = "gfx/models/portraits/kitsune/setorath_1.dds"}
+	setorath_2 = {texturefile = "gfx/models/portraits/kitsune/setorath_2.dds"}
+	shino_1 = {texturefile = "gfx/models/portraits/kitsune/shino_1.dds"}
+}
+
+portrait_groups = {
+	kitsune = {
+		default = idea_1
+		game_setup = {
+			add = {
+				portraits = {
+					idea_1
+					idea_2
+					idea_3
+					idea_4
+					idea_5
+					idea_6
+					idea_7
+					idea_8
+					idea_9
+					idea_10
+					idea_11
+					idea_12
+					idea_13
+					idea_14
+					idea_15
+					idea_16
+					idea_17
+					idea_18
+					idea_19
+					idea_20
+					idea_21
+					idea_22
+					idea_23
+					idea_24
+					idea_25
+					idea_26
+					idea_27
+					idea_28
+					idea_29
+					idea_30
+					idea_31
+					idea_32
+					iluca_1
+					kitsune_a_1
+					kitsune_a_2
+					kitsune_a_3
+					kitsune_a_4
+					kitsune_a_5
+					kitsune_b_1
+					kitsune_b_2
+					kitsune_b_3
+					kitsune_b_4
+					kitsune_b_5
+					lia_1
+					lia_2
+					lia_3
+					lia_4
+					nako_1
+					nochi_1
+					nochi_2
+					nochi_3
+					noname_1
+					noname_2
+					noname_3
+					runa_1
+					runa_2
+					runa_3
+					setorath_1
+					setorath_2
+					shino_1
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+				portraits = {
+					idea_1
+					idea_2
+					idea_3
+					idea_4
+					idea_5
+					idea_6
+					idea_7
+					idea_8
+					idea_9
+					idea_10
+					idea_11
+					idea_12
+					idea_13
+					idea_14
+					idea_15
+					idea_16
+					idea_17
+					idea_18
+					idea_19
+					idea_20
+					idea_21
+					idea_22
+					idea_23
+					idea_24
+					idea_25
+					idea_26
+					idea_27
+					idea_28
+					idea_29
+					idea_30
+					idea_31
+					idea_32
+					iluca_1
+					kitsune_a_1
+					kitsune_a_2
+					kitsune_a_3
+					kitsune_a_4
+					kitsune_a_5
+					kitsune_b_1
+					kitsune_b_2
+					kitsune_b_3
+					kitsune_b_4
+					kitsune_b_5
+					lia_1
+					lia_2
+					lia_3
+					lia_4
+					nako_1
+					nochi_1
+					nochi_2
+					nochi_3
+					noname_1
+					noname_2
+					noname_3
+					runa_1
+					runa_2
+					runa_3
+					setorath_1
+					setorath_2
+					shino_1
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+				portraits = {
+					idea_1
+					idea_2
+					idea_3
+					idea_4
+					idea_5
+					idea_6
+					idea_7
+					idea_8
+					idea_9
+					idea_10
+					idea_11
+					idea_12
+					idea_13
+					idea_14
+					idea_15
+					idea_16
+					idea_17
+					idea_18
+					idea_19
+					idea_20
+					idea_21
+					idea_22
+					idea_23
+					idea_24
+					idea_25
+					idea_26
+					idea_27
+					idea_28
+					idea_29
+					idea_30
+					idea_31
+					idea_32
+					iluca_1
+					kitsune_a_1
+					kitsune_a_2
+					kitsune_a_3
+					kitsune_a_4
+					kitsune_a_5
+					kitsune_b_1
+					kitsune_b_2
+					kitsune_b_3
+					kitsune_b_4
+					kitsune_b_5
+					lia_1
+					lia_2
+					lia_3
+					lia_4
+					nako_1
+					nochi_1
+					nochi_2
+					nochi_3
+					noname_1
+					noname_2
+					noname_3
+					runa_1
+					runa_2
+					runa_3
+					setorath_1
+					setorath_2
+					shino_1
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+				portraits = {
+					idea_1
+					idea_2
+					idea_3
+					idea_4
+					idea_5
+					idea_6
+					idea_7
+					idea_8
+					idea_9
+					idea_10
+					idea_11
+					idea_12
+					idea_13
+					idea_14
+					idea_15
+					idea_16
+					idea_17
+					idea_18
+					idea_19
+					idea_20
+					idea_21
+					idea_22
+					idea_23
+					idea_24
+					idea_25
+					idea_26
+					idea_27
+					idea_28
+					idea_29
+					idea_30
+					idea_31
+					idea_32
+					iluca_1
+					kitsune_a_1
+					kitsune_a_2
+					kitsune_a_3
+					kitsune_a_4
+					kitsune_a_5
+					kitsune_b_1
+					kitsune_b_2
+					kitsune_b_3
+					kitsune_b_4
+					kitsune_b_5
+					lia_1
+					lia_2
+					lia_3
+					lia_4
+					nako_1
+					nochi_1
+					nochi_2
+					nochi_3
+					noname_1
+					noname_2
+					noname_3
+					runa_1
+					runa_2
+					runa_3
+					setorath_1
+					setorath_2
+					shino_1
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+				portraits = {
+					idea_1
+					idea_2
+					idea_3
+					idea_4
+					idea_5
+					idea_6
+					idea_7
+					idea_8
+					idea_9
+					idea_10
+					idea_11
+					idea_12
+					idea_13
+					idea_14
+					idea_15
+					idea_16
+					idea_17
+					idea_18
+					idea_19
+					idea_20
+					idea_21
+					idea_22
+					idea_23
+					idea_24
+					idea_25
+					idea_26
+					idea_27
+					idea_28
+					idea_29
+					idea_30
+					idea_31
+					idea_32
+					iluca_1
+					kitsune_a_1
+					kitsune_a_2
+					kitsune_a_3
+					kitsune_a_4
+					kitsune_a_5
+					kitsune_b_1
+					kitsune_b_2
+					kitsune_b_3
+					kitsune_b_4
+					kitsune_b_5
+					lia_1
+					lia_2
+					lia_3
+					lia_4
+					nako_1
+					nochi_1
+					nochi_2
+					nochi_3
+					noname_1
+					noname_2
+					noname_3
+					runa_1
+					runa_2
+					runa_3
+					setorath_1
+					setorath_2
+					shino_1
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,58 @@
+# 故事理事会
+gov_story_directorate = {
+	ruler_title = RT_DIRECTOR_GENERAL
+	ruler_title_female = RT_DIRECTOR_GENERAL_FEMALE
+	should_force_rename = yes
+	leader_class = scientist
+
+	election_candidates = {
+		modifier = {
+			add = 100
+			leader_class = ruler
+		}
+		modifier = {
+			add = 10
+			leader_class = scientist
+		}
+	}
+
+	possible = {
+		has_authority = auth_oligarchic
+		has_valid_civic = civic_story_messenger
+	}
+
+	weight = {
+		base = 1000
+	}
+}
+
+# 理性共识制（覆盖）
+gov_rational_consensus = {
+	ruler_title = RT_FIRST_SPEAKER
+	ruler_title_female = RT_FIRST_SPEAKER_FEMALE
+	should_force_rename = yes
+	leader_class = scientist
+	
+	election_candidates = {
+		modifier = {
+			add = 100
+			leader_class = ruler
+		}
+		modifier = {
+			add = 10
+			leader_class = scientist
+		}
+	}
+
+	possible = {
+		has_authority = auth_democratic
+		OR = {
+			has_valid_civic = civic_technocracy
+			has_valid_civic = civic_story_messenger
+		}
+	}
+
+	weight = {
+		base = 1000
+	}
+}

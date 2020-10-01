@@ -1,0 +1,34 @@
+# 故事使者
+civic_story_messenger = {
+	description = civic_tooltip_story_messenger_effects
+	potential = {
+		ethics = { NOT = { value = ethic_gestalt_consciousness } }
+		authority = { 
+			NOT = { 
+				value = auth_corporate
+				value = auth_dictatorial
+				value = auth_imperial
+			}
+		}
+	}
+	possible = {
+		ethics = {
+			OR = {
+				value = ethic_fanatic_materialist
+				value = ethic_materialist
+			}
+			OR = {
+				value = ethic_xenophile
+				value = ethic_fanatic_xenophile
+			}
+		}
+		civics = {
+			NOR = {
+				value = civic_merchant_guilds
+				value = civic_exalted_priesthood
+				value = civic_aristocratic_elite
+			}
+		}
+	}
+	random_weight = { base = 5 }
+}

@@ -1,0 +1,188 @@
+﻿l_simp_chinese:
+
+### 其他
+
+name_list_KITSUNE:0 "狐族"
+name_list_WYVERN:0 "飞龙"
+
+### 种族分类
+
+KITSUNE:1 "狐族"
+KITSUNE_desc:1 "有着狐狸的外貌特征的人形种族。"
+KITSUNE_plural:0 "狐族"
+KITSUNE_insult_01:0 "令人生厌的狐族人"
+KITSUNE_insult_plural_01:0 "令人生厌的狐族"
+KITSUNE_insult_02:0 "令人生厌的狐狸"
+KITSUNE_insult_plural_02:0 "令人生厌的狐狸们"
+KITSUNE_insult_03:0 "无知的狐族人"
+KITSUNE_insult_plural_03:0 "无知的狐族"
+KITSUNE_insult_04:0 "无知的狐狸"
+KITSUNE_insult_plural_04:0 "无知的狐狸们"
+KITSUNE_insult_05:0 "天真的狐族人"
+KITSUNE_insult_plural_05:0 "天真的狐族"
+KITSUNE_insult_06:0 "天真的狐狸"
+KITSUNE_insult_plural_06:0 "天真的狐狸们"
+KITSUNE_insult_07:0 "幼稚的狐族人"
+KITSUNE_insult_plural_07:0 "幼稚的狐族"
+KITSUNE_insult_08:0 "幼稚的狐狸"
+KITSUNE_insult_plural_08:0 "幼稚的狐狸们"
+KITSUNE_compliment_01:0 "可爱的狐族人"
+KITSUNE_compliment_plural_01:0 "可爱的狐族"
+KITSUNE_compliment_02:0 "可爱的狐狸"
+KITSUNE_compliment_plural_02:0 "可爱的狐狸们"
+KITSUNE_compliment_03:0 "好奇的狐族人"
+KITSUNE_compliment_plural_03:0 "好奇的狐族"
+KITSUNE_compliment_04:0 "好奇的狐狸"
+KITSUNE_compliment_plural_04:0 "好奇的狐狸们"
+KITSUNE_compliment_05:0 "纯真的狐族人"
+KITSUNE_compliment_plural_05:0 "纯真的狐族"
+KITSUNE_compliment_06:0 "纯真的狐狸"
+KITSUNE_compliment_plural_06:0 "纯真的狐狸们"
+KITSUNE_compliment_07:0 "聪颖的狐族人"
+KITSUNE_compliment_plural_07:0 "聪颖的狐族"
+KITSUNE_compliment_08:0 "聪颖的狐狸"
+KITSUNE_compliment_plural_08:0 "聪颖的狐狸们"
+KITSUNE_spawn:0 "小狐狸"
+KITSUNE_spawn_plural:0 "小狐狸们"
+KITSUNE_sound_01:0 "咆哮"
+KITSUNE_sound_02:0 "咕哝"
+KITSUNE_sound_03:0 "吠叫"
+KITSUNE_sound_04:0 "嚎叫"
+KITSUNE_sound_05:0 "低泣"
+KITSUNE_organ:0 "胃"
+KITSUNE_mouth:0 "口"
+KITSUNE_hand:0 "手"
+
+KITSUNE_ROBOT:1 "狐族"
+KITSUNE_ROBOT_desc:1 "有着狐狸的外貌特征的人形种族。"
+KITSUNE_ROBOT_plural:0 "狐族"
+KITSUNE_ROBOT_insult_01:0 "令人生厌的狐族人"
+KITSUNE_ROBOT_insult_plural_01:0 "令人生厌的狐族"
+KITSUNE_ROBOT_insult_02:0 "令人生厌的狐狸"
+KITSUNE_ROBOT_insult_plural_02:0 "令人生厌的狐狸们"
+KITSUNE_ROBOT_insult_03:0 "无知的狐族人"
+KITSUNE_ROBOT_insult_plural_03:0 "无知的狐族"
+KITSUNE_ROBOT_insult_04:0 "无知的狐狸"
+KITSUNE_ROBOT_insult_plural_04:0 "无知的狐狸们"
+KITSUNE_ROBOT_insult_05:0 "天真的狐族人"
+KITSUNE_ROBOT_insult_plural_05:0 "天真的狐族"
+KITSUNE_ROBOT_insult_06:0 "天真的狐狸"
+KITSUNE_ROBOT_insult_plural_06:0 "天真的狐狸们"
+KITSUNE_ROBOT_insult_07:0 "幼稚的狐族人"
+KITSUNE_ROBOT_insult_plural_07:0 "幼稚的狐族"
+KITSUNE_ROBOT_insult_08:0 "幼稚的狐狸"
+KITSUNE_ROBOT_insult_plural_08:0 "幼稚的狐狸们"
+KITSUNE_ROBOT_compliment_01:0 "可爱的狐族人"
+KITSUNE_ROBOT_compliment_plural_01:0 "可爱的狐族"
+KITSUNE_ROBOT_compliment_02:0 "可爱的狐狸"
+KITSUNE_ROBOT_compliment_plural_02:0 "可爱的狐狸们"
+KITSUNE_ROBOT_compliment_03:0 "好奇的狐族人"
+KITSUNE_ROBOT_compliment_plural_03:0 "好奇的狐族"
+KITSUNE_ROBOT_compliment_04:0 "好奇的狐狸"
+KITSUNE_ROBOT_compliment_plural_04:0 "好奇的狐狸们"
+KITSUNE_ROBOT_compliment_05:0 "纯真的狐族人"
+KITSUNE_ROBOT_compliment_plural_05:0 "纯真的狐族"
+KITSUNE_ROBOT_compliment_06:0 "纯真的狐狸"
+KITSUNE_ROBOT_compliment_plural_06:0 "纯真的狐狸们"
+KITSUNE_ROBOT_compliment_07:0 "聪颖的狐族人"
+KITSUNE_ROBOT_compliment_plural_07:0 "聪颖的狐族"
+KITSUNE_ROBOT_compliment_08:0 "聪颖的狐狸"
+KITSUNE_ROBOT_compliment_plural_08:0 "聪颖的狐狸们"
+KITSUNE_ROBOT_spawn:0 "小狐狸"
+KITSUNE_ROBOT_spawn_plural:0 "小狐狸们"
+KITSUNE_ROBOT_sound_01:0 "呼呼"
+KITSUNE_ROBOT_sound_02:0 "叮当"
+KITSUNE_ROBOT_sound_03:0 "刺啦"
+KITSUNE_ROBOT_sound_04:0 "哔哔"
+KITSUNE_ROBOT_sound_05:0 "咔哒"
+KITSUNE_ROBOT_organ:0 "主板"
+KITSUNE_ROBOT_mouth:0 "能源输入接口"
+KITSUNE_ROBOT_hand:0 "机械爪"
+
+### 种族
+
+Windkid:0 "风之子"
+Windkid_adj:0 "风之子"
+Windkid_plural:0 "风之子"
+Windkid_insult:0 "天真的风之子"
+Windkid_insult_plural:0 "天真的风之子"
+Windkid_compliment:0 "纯真的风之子"
+Windkid_compliment_plural:0 "纯真的风之子"
+Windkid_spawn:0 "年轻的风之子"
+Windkid_spawn_plural:0 "年轻的风之子"
+
+Wyvern:0 "飞龙"
+Wyvern_adj:0 "飞龙"
+Wyvern_plural:0 "飞龙"
+Wyvern_insult:0 "低劣的亚龙"
+Wyvern_insult_plural:0 "低劣的亚龙"
+Wyvern_compliment:0 "高贵的巨龙"
+Wyvern_compliment_plural:0 "高贵的巨龙"
+Wyvern_spawn:0 "年轻的飞龙"
+Wyvern_spawn_plural:0 "年轻的飞龙"
+
+### 预设国家
+
+EMPIRE_DESIGN_wind_nation:0 "风之国度"
+EMPIRE_DESIGN_wind_nation_desc:0 "风之子是一群天性纯真的小家伙们，有着可爱的兽类外貌特征。看似柔弱的他们，实则拥有极其出色的学习天赋。\n\n自有记录的历史以来，风之子的族群中便一直流传着源于久远之时的失落传说——那是有关结为同伴的风之子与远古巨龙，遨游宇宙，传述故事和传说的美好传说，也是彷如空想童话一般的传说。\n\n然而，传说并未一直沉寂下去。在一名满怀执念的风之子的努力下，巨龙们最终低下了高傲的头颅，而族人们也最终走出了孤立的家园。为了追逐传说的脚步，为了探寻遗落的历史，为了知晓自身的起源，他们决定探索，决定发展，决定迈入群星之间。"
+
+### 起源
+
+origin_companion_evolution:0 "共同进化"
+origin_companion_evolution_desc:0 "第二种族乃是这个社会不可分割的一部分。他们与我们在外观和习性上差异巨大，但在价值观念、知识体系以及社会文化等方面却拥有诸多相似之处。古代传说已经揭示了共同历史的尘封一角，这让他们与我们如今走到了一起。"
+origin_companion_evolution_secondary_species:0 "同伴种族"
+origin_tooltip_companion_evolution_effects:0 "游戏开始时拥有§Y12§!£pop£同伴种族人口"
+
+START_SCREEN_POST_COMPANION_EVOLUTION:0 "古代传说描绘了一副曾被视为童话故事的美好画卷，在那遥远的过去，在那高度发达的理想社会中，我们的祖先曾经携手他们的同伴，漫游群星之间。"
+
+### 职业
+
+job_story_messenger:0 "故事使者"
+job_story_messenger_plural:0 "故事使者"
+job_story_messenger_desc:0 "故事和传说将互不相关的个体们凝聚为想象中的共同体，传承、记录和引导它的过去、现在和未来。"
+job_story_messenger_effect_desc:0 "£job_story_messenger£$job_story_messenger_plural$产出£mod_planet_amenities_add£§Y$PLANET_AMENITIES_TITLE$§!、£society£§Y$society_research$§!和£unity£§Y$unity$§!"
+mod_job_story_messenger_add:0 "$job_story_messenger$职位"
+mod_job_story_messenger_per_pop:0 "每$VALUE$个人口提供§G+1§!个$job_story_messenger$职位"
+mod_job_story_messenger_per_pop_short:0 "\n每$VALUE$£pop£§G+1§!£mod_job_story_messenger_add£"
+
+### 个性
+
+personality_story_retellers:0 "故事传述者"
+personality_story_retellers_desc:0 "故事传述者认为自身肩负播洒故事之光的使命，他们非常乐于与他人分享故事和传说——无论是狭义上的，还是广义上的。"
+
+federation_acceptance_story_retellers:0 "$personality_story_retellers$"
+federation_acceptance_story_retellers:0 "$personality_story_retellers$"
+federation_acceptance_story_retellers_in_research_federation:0 "$story_retellers$ + $research_federation$"
+federation_acceptance_story_retellers_in_research_federation:0 "$story_retellers$ + $research_federation$"
+
+### 政府
+
+gov_story_directorate:0 "故事理事会"
+gov_story_directorate_desc:0 "一种物质主义和亲外主义的寡头政府，由故事创作者和讲述者构成的理事会为了文明的发展和传承治理国家。"
+
+### 国策
+
+civic_story_messenger:0 "故事使者"
+civic_story_messenger_desc:0 "我们负有使命——将故事和传说带给宇宙的各个角落，让那些风景为人所知晓，让那些奇迹为人所知悉，让那些过往为人所铭记。"
+civic_tooltip_story_messenger_effects:0 "£building£§Y首府建筑§!取代部分£job_administrator£§Y$job_administrator$§!职位为£job_story_messenger£§Y$job_story_messenger_plural$§!\n§Y$job_culture_worker_plural$§!和§Y$job_entertainer_plural$§!会产出§Y2§!£mod_planet_amenities_add£§Y$PLANET_AMENITIES_TITLE$§!、§Y1§!£society_research£$society_research$和§Y1§!£unity£$unity$"
+
+federation_acceptance_story_messenger:0 "$civic_story_messenger$"
+
+# 问候语
+
+SR_HOSTILE_GREETING_01:0 "你们的价值观和选择完全不合逻辑，我们也根本无法展开有建设性的谈话。"
+SR_HOSTILE_GREETING_02:0 "由于[From.Capital.GetName]的进化环境，[From.GetSpeciesAdj]的大脑只是不够发达罢了。这是科学。看开点。"
+SR_HOSTILE_GREETING_03:0 "你们凭空捏造出信仰来填补空洞的心灵，你们永远无法体会到智力获得启蒙带来的真正欢愉。"
+SR_HOSTILE_GREETING_04:0 "你们无法内省自己的思想，这是头脑简单的动物社会具有的标志。你们毫无值得学习之处。"
+SR_DOMINEERING_GREETING_01:0 "你们的文明止步不前，是因为你们内部文化拒绝进步。这是铁一般事实。"
+SR_NEUTRAL_GREETING_01:0 "你们好，[From.GetSpeciesName]。你们带着问题来的，还是答案？"
+SR_NEUTRAL_GREETING_02:0 "我们的目标不是力量而是知识，尽管有些时候两者是一回事。"
+SR_NEUTRAL_GREETING_03:0 "当你们听说你们的信仰相当不合理性可能会感到震惊。但如果你们想与我们交流的话，最好学会面对残酷的现实吧。"
+SR_THREATENED_GREETING_01:0 "不管你们接下来有什么计划，都请记住我们对你们没有威胁。我们满足于探索新领域，而不是去挑战你们。"
+SR_FRIENDLY_GREETING_01:0 "我们通力合作，定能揭开这个星系的奥秘。"
+SR_FRIENDLY_GREETING_02:0 "[From.GetSpeciesAdj]的头脑和[Root.GetSpeciesAdj]的头脑可谓是互相补足。我们联合起来的智慧成就肯定比分开的要大。"
+SR_FRIENDLY_GREETING_03:0 "能够见到其他心怀好奇又聪慧的物种，甚感欣慰。有太多人情愿让奥秘掩埋在无尽的深空中。"
+SR_FRIENDLY_GREETING_04:0 "[Root.GetAllianceName]的发现可谓代表了智能生物所能触碰到的终极前沿。"
+SR_WAR_GREETING_01:0 "拥有关于[From.GetHomeWorldName]是如何掩埋在废墟中的详尽记录能为我们的考古学家省去大量麻烦。"
+SR_WAR_GREETING_02:0 "我们做出选择的武器是智慧，并由理智和理性砥砺。你们觉得自己还有机会吗，[From.GetSpeciesNamePlural]？"
+SR_WAR_GREETING_03:0 "不管你们想象中会有哪路大神来帮你们赢得这场战争，就敬请祈祷吧。合十的双手可是握不住武器的。"
