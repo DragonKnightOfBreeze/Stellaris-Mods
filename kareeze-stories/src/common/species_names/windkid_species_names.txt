@@ -1,0 +1,10 @@
+### 风之子
+WINDKID = {
+	windkid_invoka = {
+		name = "Windkid"
+		plural = "Windkids"
+		home_planet = "Breath Of Wind"
+		home_system = "Breath Of Wind"
+		name_list = "WINDKID"
+	}
+}

@@ -369,6 +369,14 @@ dimensional_portal_researcher = {
 		}
 		produces = {
 			trigger = {
+				exists = owner
+				owner = { has_valid_civic = civic_story_messenger }
+			}
+			society_research = 1
+			unity = 0.5
+		}
+		produces = {
+			trigger = {
 				planet = {
 					has_planet_flag = dportal_closed
 				}

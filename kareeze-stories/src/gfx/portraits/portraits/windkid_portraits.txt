@@ -1,0 +1,230 @@
+portraits = {
+	windkid_01 = { texturefile = "gfx/models/portraits/windkid/windkid_01.dds" }
+	windkid_02 = { texturefile = "gfx/models/portraits/windkid/windkid_02.dds" }
+	windkid_03 = { texturefile = "gfx/models/portraits/windkid/windkid_03.dds" }
+	windkid_04 = { texturefile = "gfx/models/portraits/windkid/windkid_04.dds" }
+	windkid_05 = { texturefile = "gfx/models/portraits/windkid/windkid_05.dds" }
+	windkid_06 = { texturefile = "gfx/models/portraits/windkid/windkid_06.dds" }
+	windkid_07 = { texturefile = "gfx/models/portraits/windkid/windkid_07.dds" }
+	windkid_08 = { texturefile = "gfx/models/portraits/windkid/windkid_08.dds" }
+	windkid_09 = { texturefile = "gfx/models/portraits/windkid/windkid_09.dds" }
+	windkid_10 = { texturefile = "gfx/models/portraits/windkid/windkid_10.dds" }
+	windkid_11 = { texturefile = "gfx/models/portraits/windkid/windkid_11.dds" }
+	windkid_12 = { texturefile = "gfx/models/portraits/windkid/windkid_12.dds" }
+	windkid_13 = { texturefile = "gfx/models/portraits/windkid/windkid_13.dds" }
+	windkid_14 = { texturefile = "gfx/models/portraits/windkid/windkid_14.dds" }
+	windkid_15 = { texturefile = "gfx/models/portraits/windkid/windkid_15.dds" }
+	windkid_16 = { texturefile = "gfx/models/portraits/windkid/windkid_16.dds" }
+	windkid_17 = { texturefile = "gfx/models/portraits/windkid/windkid_17.dds" }
+	windkid_18 = { texturefile = "gfx/models/portraits/windkid/windkid_18.dds" }
+	windkid_19 = { texturefile = "gfx/models/portraits/windkid/windkid_19.dds" }
+	windkid_20 = { texturefile = "gfx/models/portraits/windkid/windkid_20.dds" }
+	windkid_21 = { texturefile = "gfx/models/portraits/windkid/windkid_21.dds" }
+	windkid_22 = { texturefile = "gfx/models/portraits/windkid/windkid_22.dds" }
+	windkid_23 = { texturefile = "gfx/models/portraits/windkid/windkid_23.dds" }
+	windkid_24 = { texturefile = "gfx/models/portraits/windkid/windkid_24.dds" }
+	windkid_25 = { texturefile = "gfx/models/portraits/windkid/windkid_25.dds" }
+	windkid_26 = { texturefile = "gfx/models/portraits/windkid/windkid_26.dds" }
+	windkid_27 = { texturefile = "gfx/models/portraits/windkid/windkid_27.dds" }
+	windkid_28 = { texturefile = "gfx/models/portraits/windkid/windkid_28.dds" }
+	windkid_29 = { texturefile = "gfx/models/portraits/windkid/windkid_29.dds" }
+	windkid_30 = { texturefile = "gfx/models/portraits/windkid/windkid_30.dds" }
+	windkid_31 = { texturefile = "gfx/models/portraits/windkid/windkid_31.dds" }
+	windkid_32 = { texturefile = "gfx/models/portraits/windkid/windkid_32.dds" }
+}
+
+portrait_groups = {
+	windkid = {
+		default = windkid_1
+		game_setup = {
+			add = {
+				portraits = {
+					windkid_01
+					windkid_02
+					windkid_03
+					windkid_04
+					windkid_05
+					windkid_06
+					windkid_07
+					windkid_08
+					windkid_09
+					windkid_10
+					windkid_11
+					windkid_12
+					windkid_13
+					windkid_14
+					windkid_15
+					windkid_16
+					windkid_17
+					windkid_18
+					windkid_19
+					windkid_20
+					windkid_21
+					windkid_22
+					windkid_23
+					windkid_24
+					windkid_25
+					windkid_26
+					windkid_27
+					windkid_28
+					windkid_29
+					windkid_30
+					windkid_31
+					windkid_32
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					windkid_01
+					windkid_02
+					windkid_03
+					windkid_04
+					windkid_05
+					windkid_06
+					windkid_07
+					windkid_08
+					windkid_09
+					windkid_10
+					windkid_11
+					windkid_12
+					windkid_13
+					windkid_14
+					windkid_15
+					windkid_16
+					windkid_17
+					windkid_18
+					windkid_19
+					windkid_20
+					windkid_21
+					windkid_22
+					windkid_23
+					windkid_24
+					windkid_25
+					windkid_26
+					windkid_27
+					windkid_28
+					windkid_29
+					windkid_30
+					windkid_31
+					windkid_32
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					windkid_01
+					windkid_02
+					windkid_03
+					windkid_04
+					windkid_05
+					windkid_06
+					windkid_07
+					windkid_08
+					windkid_09
+					windkid_10
+					windkid_11
+					windkid_12
+					windkid_13
+					windkid_14
+					windkid_15
+					windkid_16
+					windkid_17
+					windkid_18
+					windkid_19
+					windkid_20
+					windkid_21
+					windkid_22
+					windkid_23
+					windkid_24
+					windkid_25
+					windkid_26
+					windkid_27
+					windkid_28
+					windkid_29
+					windkid_30
+					windkid_31
+					windkid_32
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					windkid_01
+					windkid_02
+					windkid_03
+					windkid_04
+					windkid_05
+					windkid_06
+					windkid_07
+					windkid_08
+					windkid_09
+					windkid_10
+					windkid_11
+					windkid_12
+					windkid_13
+					windkid_14
+					windkid_15
+					windkid_16
+					windkid_17
+					windkid_18
+					windkid_19
+					windkid_20
+					windkid_21
+					windkid_22
+					windkid_23
+					windkid_24
+					windkid_25
+					windkid_26
+					windkid_27
+					windkid_28
+					windkid_29
+					windkid_30
+					windkid_31
+					windkid_32
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					windkid_01
+					windkid_02
+					windkid_03
+					windkid_04
+					windkid_05
+					windkid_06
+					windkid_07
+					windkid_08
+					windkid_09
+					windkid_10
+					windkid_11
+					windkid_12
+					windkid_13
+					windkid_14
+					windkid_15
+					windkid_16
+					windkid_17
+					windkid_18
+					windkid_19
+					windkid_20
+					windkid_21
+					windkid_22
+					windkid_23
+					windkid_24
+					windkid_25
+					windkid_26
+					windkid_27
+					windkid_28
+					windkid_29
+					windkid_30
+					windkid_31
+					windkid_32
+				}
+			}
+		}
+	}
+}

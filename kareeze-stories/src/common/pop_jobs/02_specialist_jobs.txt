@@ -136,6 +136,14 @@ researcher = {
 			}
 			unity = 1
 		}
+		produces = {
+			trigger = {
+				exists = owner
+				owner = { has_valid_civic = civic_story_messenger }
+			}
+			society_research = 1
+			unity = 0.5
+		}
 		upkeep = {
 			consumer_goods = 2
 		}
@@ -1063,7 +1071,7 @@ entertainer = {
 				owner = { has_valid_civic = civic_story_messenger }
 			}
 			society_research = 1
-			unity = 1
+			unity = 0.5
 		}
 		upkeep = {
 			consumer_goods = 1
@@ -1181,6 +1189,14 @@ duelist = {
 		category = planet_entertainers
 		produces = {
 			unity = 3
+		}
+		produces = {
+			trigger = {
+				exists = owner
+				owner = { has_valid_civic = civic_story_messenger }
+			}
+			society_research = 1
+			unity = 0.5
 		}
 		upkeep = {
 			alloys = 1
@@ -1317,7 +1333,7 @@ culture_worker = {
 				owner = { has_valid_civic = civic_story_messenger }
 			}
 			society_research = 1
-			unity = 1
+			unity = 0.5
 		}
 		upkeep = {
 			consumer_goods = 2
@@ -2285,6 +2301,14 @@ death_chronicler = {
 		produces = {
 			unity = 4
 			society_research = 2
+		}
+		produces = {
+			trigger = {
+				exists = owner
+				owner = { has_valid_civic = civic_story_messenger }
+			}
+			society_research = 1
+			unity = 0.5
 		}
 		upkeep = {
 			trigger = {

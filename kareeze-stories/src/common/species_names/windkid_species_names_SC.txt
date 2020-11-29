@@ -1,0 +1,11 @@
+### 风之子
+WINDKID = {
+	windkid_invoka = {
+		language = "l_simp_chinese"
+		name = "风之子"
+		plural = "风之子"
+		home_planet = "风息"
+		home_system = "风息"
+		name_list = "WINDKID"
+	}
+}

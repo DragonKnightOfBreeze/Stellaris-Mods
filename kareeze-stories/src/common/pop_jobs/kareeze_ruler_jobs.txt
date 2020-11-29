@@ -2,7 +2,7 @@
 story_messenger = {
 	category = ruler
 	condition_string = RULER_JOB_TRIGGER
-	building_icon = building_autochthon_monument
+	building_icon = building_capital
 	clothes_texture_index = 1
 	icon = culture_worker
 
@@ -36,7 +36,7 @@ story_messenger = {
 			}
 		}
 		modifier = {
-			planet_amenities_add = 1
+			planet_amenities_add = 1.4
 		}
 	}
 	triggered_planet_modifier = {
@@ -44,7 +44,7 @@ story_messenger = {
 			has_trait = trait_repugnant
 		}
 		modifier = {
-			planet_amenities_add = -1
+			planet_amenities_add = -1.4
 		}
 	}
 

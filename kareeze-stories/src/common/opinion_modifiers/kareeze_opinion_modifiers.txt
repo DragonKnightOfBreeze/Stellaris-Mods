@@ -1,0 +1,49 @@
+# 共同的理想主义者
+opinion_both_idealists = {
+	opinion = {
+		base = 0
+		modifier = {
+			add = 25
+			OR = {
+				has_civic = "civic_story_messenger"
+			}
+			FROM = { OR = {
+				has_ethic = "civic_story_messenger"
+			} }
+		}
+	}
+}
+
+# 故事使者
+opinion_story_messenger = {
+	opinion = {
+		base = 0
+		modifier = {
+			add = 20
+			has_civic = "civic_story_messenger"
+			FROM = { NOT = {
+				has_ethic = "civic_story_messenger"
+			} }
+		}
+	}
+}
+
+# 带来了故事
+opinion_bring_stories = {
+	opinion = {
+		base = 0
+		modifier = {
+			add = 10
+			FROM = { has_ethic = "civic_story_messenger" }
+			NOT = {
+				has_ethic = "civic_story_messenger"
+			}
+			NOT = {
+				has_authority = auth_hive_mind
+				has_authority = auth_machine_intelligence
+				has_ethic = "ethic_xenophobe"
+				has_ethic = "ethic_fanatic_xenophobe"
+			}
+		}
+	}
+}

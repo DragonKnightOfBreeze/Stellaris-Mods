@@ -193,6 +193,7 @@ slave_toiler = {
 #	}
 #}
 #
+
 organic_battery = {
 	category = worker
 	is_capped_by_modifier = no

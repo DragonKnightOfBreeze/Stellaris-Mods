@@ -456,9 +456,9 @@ primitive_researcher_2 = {
 	resources = {
 		category = planet_researchers
 		produces = {
-			physics_research = 1
-			engineering_research = 1
-			society_research = 1
+			physics_research = 2
+			engineering_research = 2
+			society_research = 2
 		}
 	}
 
@@ -500,12 +500,12 @@ primitive_priest_2 = {
 	resources = {
 		category = planet_jobs
 		produces = {
-			unity = 1
+			unity = 2
 		}
 	}
 
 	planet_modifier = {
-		planet_amenities_add = 2
+		planet_amenities_add = 4
 	}
 
 	weight = {
@@ -586,7 +586,7 @@ primitive_bureaucrat = {
 	resources = {
 		category = planet_administrators
 		produces = {
-			unity = 1
+			unity = 2
 		}
 	}
 
