@@ -1,19 +1,19 @@
 # 风之国度
 wind_nation = {
 	name = "wind_nation"
-	adjective = "PRESCRIPTED_adjective_wind_nation"
+	adjective = "PRESCRIPTED_adjective_invoka"
 	spawn_enabled = yes
 	spawn_as_fallen = no
 	ignore_portrait_duplication = no
 	
-	ship_prefix = "PRESCRIPTED_ship_prefix_wind_nation"
+	ship_prefix = "PRESCRIPTED_ship_prefix_invoka"
 	
 	species = {
 		class = "KITSUNE"
 		portrait = "kitsune"
-		name = "PRESCRIPTED_species_name_wind_nation"
-		plural = "PRESCRIPTED_species_plural_wind_nation"
-		adjective = "PRESCRIPTED_species_adjective_wind_nation"
+		name = "PRESCRIPTED_species_name_invoka"
+		plural = "PRESCRIPTED_species_plural_invoka"
+		adjective = "PRESCRIPTED_species_adjective_invoka"
 		name_list = "KITSUNE"
 		trait = "trait_intelligent" # 2
 		trait = "trait_charismatic" # 2
@@ -23,9 +23,9 @@ wind_nation = {
 	secondary_species = {
 		class = "REP"
 		portrait = "rep17"
-		name = "PRESCRIPTED_secondary_species_name_wind_nation"
-		plural = "PRESCRIPTED_secondary_species_plural_wind_nation"
-		adjective = "PRESCRIPTED_secondary_species_adjective_wind_nation"
+		name = "PRESCRIPTED_secondary_species_name_invoka"
+		plural = "PRESCRIPTED_secondary_species_plural_invoka"
+		adjective = "PRESCRIPTED_secondary_species_adjective_invoka"
 		name_list = "WYVERN"
 		trait = "trait_very_strong" # 3
 		trait = "trait_nomadic" # 1
@@ -46,9 +46,9 @@ wind_nation = {
 	government = "gov_story_directorate"
 	origin = "origin_companion_evolution"
 	
-	planet_name = "PRESCRIPTED_planet_name_wind_nation"
+	planet_name = "PRESCRIPTED_planet_name_invoka"
 	planet_class = "pc_continental"
-	system_name = "PRESCRIPTED_system_name_wind_nation"
+	system_name = "PRESCRIPTED_system_name_invoka"
 	initializer = "custom_starting_init_06"
 	
 	room = "personality_erudite_explorers_room"
@@ -71,7 +71,7 @@ wind_nation = {
 		}
 	}
 	ruler = {
-		name = "PRESCRIPTED_ruler_name_wind_nation"
+		name = "PRESCRIPTED_ruler_name_invoka"
 		gender = female
 		portrait = "idea_1"
 		texture = 0

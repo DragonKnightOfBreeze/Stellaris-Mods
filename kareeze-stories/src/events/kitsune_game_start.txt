@@ -1,0 +1,31 @@
+namespace = kitsune_game_start
+
+### 游戏开始时生成第二种族人口
+planet_event = {
+	id = kitsune_game_start.1
+	hide_window = yes
+	is_triggered_only = yes
+	immediate = {
+		if = {
+			limit = { 
+				owner = { has_origin = origin_companion_evolution }
+			}
+			generate_companion_pops = yes
+		}
+	}
+}
+
+### 游戏开始时生成额外的第二种族人口
+planet_event = {
+	id = kitsune_game_start.2
+	hide_window = yes
+	is_triggered_only = yes
+	immediate = {
+		if = {
+			limit = { 
+				owner = { has_origin = origin_companion_evolution }
+			}
+			generate_companion_pops_advance = yes
+		}
+	}
+}

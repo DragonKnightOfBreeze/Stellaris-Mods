@@ -1,0 +1,371 @@
+﻿### 飞龙
+WYVERN = {
+	randomized = no
+	should_name_home_system_planets = no
+	
+	### 舰船
+	ship_names = {
+		# 通用
+		generic = {}
+		# 护卫舰
+		corvette = {
+			"War ship"
+		}
+		# 驱逐舰
+		destroyer = {
+			"War ship"
+		}
+		# 巡洋舰
+		cruiser = {
+			"War ship"
+		}
+		# 战列舰
+		battleship = {
+			"War ship"
+		}
+		# 泰坦
+		titan = {
+			"Flag ship"
+		}
+		# 巨像
+		colossus = {
+			"Flag ship"
+		}
+		# 主宰
+		juggernaut = {
+			"Flag ship"
+		}
+		
+		# 工程船
+		constructor = {
+			"Galaxy ship"
+		}
+		# 科研船
+		science = {
+			"Galaxy ship"
+		}
+		# 殖民船
+		colonizer = {
+			"Galaxy ship"
+		}
+		# 私人殖民船
+		sponsored_colonizer = {
+			"Galaxy ship"
+		}
+		# 运输船
+		transport = {
+			"Galaxy ship"
+		}
+		
+		# 防御平台
+		military_station_small = {
+			"Charm Shield"
+		}
+		# 防御基地（未使用）
+		military_station_medium = {
+			"Charm Barrier"
+		}
+		# 堡垒（未使用）
+		military_station_large = {
+			"Charm Enchantment"
+		}
+		# 离子炮
+		ion_cannon = {
+			"Dragon Breath"
+		}
+		# 采矿基地
+		# mining_station = {}
+		# 科研基地
+		# research_station = {}
+		# 观测站
+		# observation_station = {}
+		
+		# 哨站
+        # starbase_outpost = {}
+        # 星港
+        # starbase_starport = {}
+        # 星垒
+        # starbase_starhold = {}
+        # 星堡
+        # starbase_starfortress = {}
+        # 擎天堡
+        # starbase_citadel = {}
+	}
+
+	### 舰队类型名字
+	ship_class_names = {
+		# 通用
+		generic = {}
+		# 护卫舰
+		corvette = {
+			"Wind" "Wind Blade" "Lightning" "Falling Lightning"
+			"Ice Cone" "Ice Pillar" "Spark" "Fire"
+		}
+		# 驱逐舰
+		destroyer = {
+			"Wind Cutting" "Tornado" "Thunderbolt" "Thunderstorm"
+			"Ice Spear" "Ice Star" "Fire Ball" "Fire Tongue"
+		}
+		# 巡洋舰
+		cruiser = {
+			"Pure Wind" "Sweeping wind" "Convolutional Wind Blade" "Serial wind cutting" 
+			"Chain Lightning" "Explosive Lightning" "Cluster Lightning" "Charging Lightning"
+			"Diffuse Frozen Mist" "Stormy Snow" "Converged Ice Spear" "Diamond Ice Star"
+			"Flame Fountain" "Explosion Magic" "Continuous Blaze" "Crazy Wildfire"
+		}
+		# 战列舰
+		battleship = {
+			"Chaos Tornado" "Ice World" "Storm Thunder" "Meteor Rain"
+		}
+		# 泰坦
+		titan = {
+			"Myriad Breath" "Majestic Tornado" "Judging Lightning" "Firmament Thunder"
+		}
+		# 巨像
+		colossus = {
+			"Cold winter By The End" "Ice Prison Of The Dead" "Dragon Fire To The Vanish" "Karma Fire Among The Bound"
+		}
+		# 主宰
+		juggernaut = {
+			"Dimensional Tornado" "Dimensional Lightning" "Dimensional Icestar" "Dimensional Spark"
+		}
+		
+		# 工程船
+		constructor = {
+			"Song Of Imaging" "Song Of Describing" "Song Of Weaving" "Song of Creating"
+		}
+		# 科研船
+		science = {
+			"Song Of Listening" "Song Of Observing" "Song Of Discovery" "Song Of Contacting"
+		}
+		# 殖民船
+		colonizer = {
+			"Song Of Wind's Blowing" "Song Of Wind's Floating" "Song Of Wind's Touring" "Song Of Wind's Landing"
+		}
+		# 私人殖民船
+		sponsored_colonizer = {
+			"Song Of Wind's Blowing" "Song Of Wind's Floating" "Song Of Wind's Touring" "Song Of Wind's Landing"
+		}
+		# 运输船
+		transport = {
+			"Song Of Dragon's Roaring" "Song Of Dragon's Crowing" "Song Of Dragon's Touring" "Song Of Dragon's Landing"
+		}
+		
+		# 防御平台
+		military_station_small = {
+			"Breeze Shield" "Lightning Shield" "Frost Shield" "Flame Shield"
+		}
+		# 防御基地（未使用）
+		military_station_medium = {
+			"Wind Barrier" "Thunder Barrier" "Ice Barrier" "Fire Barrier"
+		}
+		# 堡垒（未使用）
+		military_station_large = {
+			"Wind King Enchantment" "Thunder Light Enchantment" "Ice Snow Enchantment" "Hell Fire Enchantment"
+		}
+		# 离子炮
+		ion_cannon = {
+			"Dragon Fire"
+		}
+
+		# 采矿基地
+		mining_station = {
+			Fairy's Implementation
+		}
+		# 科研基地
+		research_station = {
+			Fairy's Insight
+		}
+		# 观测站
+		observation_station = {
+			Fairy's Communication
+		}
+		
+		# 哨站
+        # starbase_outpost = {}
+        # 星港
+        # starbase_starport = {}
+        # 星垒
+        # starbase_starhold = {}
+        # 星堡
+        # starbase_starfortress = {}
+        # 擎天堡
+        # starbase_citadel = {}
+	}
+	
+	### 舰队
+	fleet_names = {
+		random_names = {
+			"Rover fleet" "Ranger Fleet" "Wander Fleet" "Minstrel Fleet"
+			"Observer Fleet" "Monitor Fleet" "Guardian Fleet" "Watcher Fleet" 
+			"Agent Fleet" "Voyager fleet" "Inquisitor Fleet" "Judge Fleet"
+			"Editor fleet" "Narrator Fleet" "Teller Fleet" "Revealer Fleet"
+		}
+		sequential_name = "United Travel Fleet %C%"
+	}
+	
+	### 部队名
+	army_names = {
+		# 突击部队
+		assault_army = {
+			sequential_name = "United Travel Army %C%"
+		}
+		# 机器人突击部队
+		robotic_army = {
+			sequential_name = "Mechanized Travel Army %C%"
+		}
+		# 防御部队
+		defense_army = {
+			sequential_name = "United Guard Army %C%"
+		}
+		# 机器人防御部队
+		robotic_defense_army = {
+			sequential_name = "Mechanized Guard Army %C%"
+		}
+		# 占领部队 
+		occupation_army = {
+			sequential_name = "United Alert Army %C%"
+		}
+		# 机械人占领部队
+		robotic_occupation_army = {
+			sequential_name = "Mechanized Alert Army %C%"
+		}
+		# 奴隶部队
+		slave_army = {
+			sequential_name = "United Retinue Army %C%"
+		}
+		# 克隆人部队
+		clone_army = {
+			sequential_name = "United Clone Army %C%"
+		}
+		# 灵能部队
+		psionic_army = {
+			sequential_name = "United Charm Army %C%"
+		}
+		# 异形部队
+		xenomorph_army = {
+			sequential_name = "United War Army %C%"
+		}
+		# 基因战士部队
+		gene_warrior_army = {
+			sequential_name = "United Elite Army %C%"
+		}
+		
+		# 原始部队
+		primitive_army = {
+			sequential_name = "Saber Army %C%"
+		}
+		# 工业部队
+		industrial_army = {
+			sequential_name = "Dragon Knight Army %C%"
+		}
+		# 工业部队（地下）
+		subterranean_industrial_army = {
+			sequential_name = "Drake Knight Army %C%"
+		}
+		# 原子部队
+		postatomic_army = {
+			sequential_name = "United Dragon Knight Army %C%"
+		}
+		# 原子部队（地下）
+		subterranean_postatomic_army = {
+			sequential_name = "United Drake Knight Army %C%"
+		}
+		
+		# 巨兽 
+		# titanic_assault_army = {}
+		# 巨兽
+		# titanic_azizian_assault_army = {}
+		# 巨兽
+		# titanic_guardian_army = {}
+		# 巨型作战平台
+		# care_defensive_protocols = {}
+	}
+
+	### 行星
+	planet_names = {
+		# 通用
+		generic = {
+			names = {
+				微风 阵风 轻风 疾风 临风 边风 界风 邻风
+				送风 吹风 飘风 呼风 幽风 悠风 陌风 业风
+				呼风 召风 扬风 落风 清风 凉风 狂风 烈风
+				镇风 御风 卫风 戍风 吟风 歌风 颂风 鸣风
+			}
+		}
+		# 沙漠世界
+		pc_desert = {
+			names = {}
+		}
+		# 干旱世界
+		pc_arid = {
+			names = {}
+		}
+		# 热带草原世界
+		pc_savannah = {
+			names = {}
+		}
+		# 热带世界
+		pc_tropical = {
+			names = {}
+		}
+		# 大陆世界
+		pc_continental = {
+			names = {}
+		}
+		# 海洋世界
+		pc_ocean = {
+			names = {
+				江风 滩风 岛风 海风
+			}
+		}
+		# 冻原世界
+		pc_tundra = {
+			names = {
+				寒风 凛风 冰风 雪风
+			}
+		}
+		# 极地世界
+		pc_arctic = {
+			names = {
+				寒风 凛风 冰风 雪风
+			}
+		}
+		# 高山世界
+		pc_alpine = {
+			names = {
+				寒风 凛风 冰风 雪风
+			}
+		}
+		# 盖娅世界
+		pc_gaia = {
+			names = {}
+		}
+		# 废土世界
+		pc_nuked = {
+			names = {
+				荒风 寂风 末风 寂风
+			}
+		}
+		# 遗迹世界
+		pc_relic = {
+			names = {
+				肃风 萧风 哀风 悼风
+			}
+		}
+		# TODO RS MOD
+		# TODO PD MOD
+	}
+	
+	### 角色
+	character_names = {
+		default = {
+			full_names = {
+				"Watch Dragon" "Sleeping Dragon" Judgment Dragon "Guardian Dragon"
+				"Storm Dragon" "Thunder Dragon" "Burning Flame Dragon" "Frost Star Dragon"
+				"Dawn Dragon" "Serene Moon Dragon" "Dusky Cloud Dragon" "Mist Dragon"
+				"Light Wing Dragon" "Dark Feather Dragon" "Singing Dragon" "Screaming Dragon"
+			}
+		}
+	}
+}

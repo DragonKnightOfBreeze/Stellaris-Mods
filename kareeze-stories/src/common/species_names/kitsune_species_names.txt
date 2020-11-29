@@ -1,0 +1,10 @@
+### 种族列表
+KITSUNE = {
+	kitsune = {
+		name = "Kitsune"
+		plural = "Kitsunes"
+		home_planet = "Breath Of Wind"
+		home_system = "Breath Of Wind"
+		name_list = "KITSUNE"
+	}
+}

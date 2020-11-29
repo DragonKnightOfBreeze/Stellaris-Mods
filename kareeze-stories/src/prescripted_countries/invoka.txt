@@ -1,0 +1,78 @@
+invoka = {
+	name = "invoka"
+	adjective = "PRESCRIPTED_adjective_invoka"
+	spawn_enabled = yes
+	spawn_as_fallen = no
+	ignore_portrait_duplication = yes
+	
+	ship_prefix = "PRESCRIPTED_ship_prefix_invoka"
+	
+	species = {
+		class = "HUM"
+		portrait = "windkid"
+		name = "PRESCRIPTED_species_name_invoka"
+		plural = "PRESCRIPTED_species_plural_invoka"
+		adjective = "PRESCRIPTED_species_adjective_invoka"
+		name_list = "KITSUNE"
+		trait = "trait_intelligent" # 2
+		trait = "trait_charismatic" # 2
+		trait = "trait_solitary" # -1
+		trait = "trait_weak" # -1
+	}
+	secondary_species = {
+		class = "REP"
+		portrait = "rep17"
+		name = "PRESCRIPTED_secondary_species_name_invoka"
+		plural = "PRESCRIPTED_secondary_species_plural_invoka"
+		adjective = "PRESCRIPTED_secondary_species_adjective_invoka"
+		name_list = "WYVERN"
+		trait = "trait_very_strong" # 3
+		trait = "trait_nomadic" # 1
+		trait = "trait_enduring" # 1
+		trait = "trait_solitary" # -1
+		trait = "trait_slow_breeders" # -2
+	}
+	
+	authority = "auth_oligarchic"
+	ethic = "ethic_fanatic_materialist"
+	ethic = "ethic_xenophile"
+	civics = {
+		"civic_story_messenger"
+		"civic_meritocracy"
+	}
+	government = "gov_story_directorate"
+	origin = "origin_companion_evolution"
+	
+	planet_name = "PRESCRIPTED_planet_name_invoka"
+	planet_class = "pc_continental"
+	system_name = "PRESCRIPTED_system_name_invoka"
+	initializer = "custom_starting_init_06"
+	
+	room = "personality_erudite_explorers_room"
+	graphical_culture = "humanoid_01"
+	city_graphical_culture = "humanoid_01"
+	empire_flag = {
+		icon = {
+			category = "zoological"
+			file = "flag_zoological_10.dds"
+		}
+		background = {
+			category = "backgrounds"
+			file = "v.dds"
+		}
+		colors = {
+			"turquoise"
+			"turquoise"
+			"null"
+			"null"
+		}
+	}
+	ruler = {
+		name = "PRESCRIPTED_ruler_name_invoka"
+		gender = female
+		portrait = "windkid_1"
+		texture = 0
+		hair = 0
+		clothes = 0
+	}
+}

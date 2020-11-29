@@ -1,0 +1,166 @@
+﻿l_english:
+### 其他
+
+name_list_KITSUNE:0 "Kitsune"
+name_list_WYVERN:0 "Wyvern"
+
+### 种族分类
+
+KITSUNE:1 "Kitsune"
+KITSUNE_desc:1 "Human-like species with fox's appearance features."
+KITSUNE_plural:0 "Kitsunes"
+KITSUNE_insult_01:0 "nasty kitsune"
+KITSUNE_insult_plural_01:0 "nasty kitsunes"
+KITSUNE_insult_02:0 "nasty fox"
+KITSUNE_insult_plural_02:0 "nasty foxes"
+KITSUNE_insult_03:0 "ignorant kitsune"
+KITSUNE_insult_plural_03:0 "ignorant kitsunes"
+KITSUNE_insult_04:0 "ignorant fox"
+KITSUNE_insult_plural_04:0 "ignorant foxes"
+KITSUNE_insult_05:0 "innocent kitsune"
+KITSUNE_insult_plural_05:0 "innocent kitsunes"
+KITSUNE_insult_06:0 "innocent fox"
+KITSUNE_insult_plural_06:0 "innocent foxes"
+KITSUNE_insult_07:0 "naive kitsune"
+KITSUNE_insult_plural_07:0 "naive kitsunes"
+KITSUNE_insult_08:0 "naive fox"
+KITSUNE_insult_plural_08:0 "naive foxes"
+KITSUNE_compliment_01:0 "charming kitsune"
+KITSUNE_compliment_plural_01:0 "charming kitsunes"
+KITSUNE_compliment_02:0 "charming fox"
+KITSUNE_compliment_plural_02:0 "charming foxes"
+KITSUNE_compliment_03:0 "curious kitsune"
+KITSUNE_compliment_plural_03:0 "curious kitsunes"
+KITSUNE_compliment_04:0 "curious fox"
+KITSUNE_compliment_plural_04:0 "curious foxes"
+KITSUNE_compliment_05:0 "pure kitsune"
+KITSUNE_compliment_plural_05:0 "pure kitsunes"
+KITSUNE_compliment_06:0 "pure fox"
+KITSUNE_compliment_plural_06:0 "pure foxes"
+KITSUNE_compliment_07:0 "clever kitsune"
+KITSUNE_compliment_plural_07:0 "clever kitsunes"
+KITSUNE_compliment_08:0 "clever fox"
+KITSUNE_compliment_plural_08:0 "clever foxes"
+KITSUNE_spawn:0 "little fox"
+KITSUNE_spawn_plural:0 "little foxes"
+KITSUNE_sound_01:0 "growling"
+KITSUNE_sound_02:0 "grunting"
+KITSUNE_sound_03:0 "yapping"
+KITSUNE_sound_04:0 "yowling"
+KITSUNE_sound_05:0 "mewling"
+KITSUNE_organ:0 "stomach"
+KITSUNE_mouth:0 "mouth"
+KITSUNE_hand:0 "hand"
+
+KITSUNE_ROBOT:1 "Kitsune"
+KITSUNE_ROBOT_desc:1 "Human-like species with fox's appearance features."
+KITSUNE_ROBOT_plural:0 "Kitsunes"
+KITSUNE_ROBOT_insult_01:0 "nasty kitsune"
+KITSUNE_ROBOT_insult_plural_01:0 "nasty kitsunes"
+KITSUNE_ROBOT_insult_02:0 "nasty fox"
+KITSUNE_ROBOT_insult_plural_02:0 "nasty foxes"
+KITSUNE_ROBOT_insult_03:0 "ignorant kitsune"
+KITSUNE_ROBOT_insult_plural_03:0 "ignorant kitsunes"
+KITSUNE_ROBOT_insult_04:0 "ignorant fox"
+KITSUNE_ROBOT_insult_plural_04:0 "ignorant foxes"
+KITSUNE_ROBOT_insult_05:0 "innocent kitsune"
+KITSUNE_ROBOT_insult_plural_05:0 "innocent kitsunes"
+KITSUNE_ROBOT_insult_06:0 "innocent fox"
+KITSUNE_ROBOT_insult_plural_06:0 "innocent foxes"
+KITSUNE_ROBOT_insult_07:0 "naive kitsune"
+KITSUNE_ROBOT_insult_plural_07:0 "naive kitsunes"
+KITSUNE_ROBOT_insult_08:0 "naive fox"
+KITSUNE_ROBOT_insult_plural_08:0 "naive foxes"
+KITSUNE_ROBOT_compliment_01:0 "charming kitsune"
+KITSUNE_ROBOT_compliment_plural_01:0 "charming kitsunes"
+KITSUNE_ROBOT_compliment_02:0 "charming fox"
+KITSUNE_ROBOT_compliment_plural_02:0 "charming foxes"
+KITSUNE_ROBOT_compliment_03:0 "curious kitsune"
+KITSUNE_ROBOT_compliment_plural_03:0 "curious kitsunes"
+KITSUNE_ROBOT_compliment_04:0 "curious fox"
+KITSUNE_ROBOT_compliment_plural_04:0 "curious foxes"
+KITSUNE_ROBOT_compliment_05:0 "pure kitsune"
+KITSUNE_ROBOT_compliment_plural_05:0 "pure kitsunes"
+KITSUNE_ROBOT_compliment_06:0 "pure fox"
+KITSUNE_ROBOT_compliment_plural_06:0 "pure foxes"
+KITSUNE_ROBOT_compliment_07:0 "clever kitsune"
+KITSUNE_ROBOT_compliment_plural_07:0 "clever kitsunes"
+KITSUNE_ROBOT_compliment_08:0 "clever fox"
+KITSUNE_ROBOT_compliment_plural_08:0 "clever foxes"
+KITSUNE_ROBOT_spawn:0 "little fox"
+KITSUNE_ROBOT_spawn_plural:0 "little foxes"
+KITSUNE_ROBOT_sound_01:0 "whirring"
+KITSUNE_ROBOT_sound_02:0 "clanging"
+KITSUNE_ROBOT_sound_03:0 "scraping"
+KITSUNE_ROBOT_sound_04:0 "beeping"
+KITSUNE_ROBOT_sound_05:0 "chattering"
+KITSUNE_ROBOT_organ:0 "motherboard"
+KITSUNE_ROBOT_mouth:0 "energy intake port"
+KITSUNE_ROBOT_hand:0 "grappling prehensile"
+
+### 种族
+
+Windkid:0 "Windkid"
+Windkid_adj:0 "Windkid"
+Windkid_plural:0 "Windkids"
+Windkid_insult:0 "naive Windkid"
+Windkid_insult_plural:0 "naive Windkids"
+Windkid_compliment:0 "pure Windkid"
+Windkid_compliment_plural:0 "pure Windkids"
+Windkid_spawn:0 "youthful Windkid"
+Windkid_spawn_plural:0 "youthful Windkids"
+
+Wyvern:0 "Wyvern"
+Wyvern_adj:0 "Wyvern"
+Wyvern_plural:0 "Wyverns"
+Wyvern_insult:0 "humble wyvern"
+Wyvern_insult_plural:0 "humble wyverns"
+Wyvern_compliment:0 "noble dragon"
+Wyvern_compliment_plural:0 "noble dragons"
+Wyvern_spawn:0 "youthful Wyvern"
+Wyvern_spawn_plural:0 "youthful Wyverns"
+
+### 预设国家
+
+EMPIRE_DESIGN_invoka:0 "Wind Nation"
+EMPIRE_DESIGN_invoka_desc:0 "Windkid are a group of pure ones, with cute animal appearance characteristics. While they are likely weak, they actually have excellent learning talents. \n\nSince the recorded history, the ethnicity of Windkid has been circulated in a lost tale from far long ago - that is a beautiful tale, which is about Windkids and Ancient Dragons, who became companions, and traveling through the universe, telling stories and tales. But after all it is also a fantasy fairy tale. \n\nHowever, the tale would not remain silent. Under the efforts of a stubborn Windkid with full of obsession, the dragons finally lowered their arrogant heads, and the ethnics finally walked out of their isolated homeland. In order to follow the footsteps of tales, to explore the lost history, and to know their origin, they decided to explore, to develop, and to step into the stars."
+
+### 起源
+
+origin_companion_evolution:0 "Companion Evolution"
+origin_companion_evolution_desc:0 "A second species forms an integral part of this society. They differ greatly from us in appearance and habits, but there are many similarities in terms of values, knowledge systems and social culture. The ancient legends have revealed the dusty corner of the common history, bringing them together with us today."
+origin_companion_evolution_secondary_species:0 "Companion Species"
+origin_tooltip_companion_evolution_effects:0 "Start the game with §Y12§! £pop£ companion species pops"
+
+START_SCREEN_POST_COMPANION_EVOLUTION:0 "The ancient legends has depicted a beautiful picture scroll that was once regarded as a fairy tale. In that distant past, in that highly developed ideal society, our ancestors once joined hands with their companions, to roam, roam among the stars."
+
+### 职业
+
+job_story_messenger:0 "Story Messager"
+job_story_messenger_plural:0 "Story Messagers"
+job_story_messenger_desc:0 "Stories and tales let unrelated individuals become imagined community by condensation, inherit, record and guide its past, present and future."
+job_story_messenger_effect_desc:0 "£job_story_messenger£ $job_story_messenger_plural$生产£mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!、£society£ §Y$society_research$§!和£unity£ §Y$unity$§!"
+mod_job_story_messenger_add:0 "$job_story_messenger$ Jobs"
+mod_job_story_messenger_per_pop:0 "§G+1§! $job_story_messenger$ Job per $VALUE$ Pops"
+mod_job_story_messenger_per_pop_short:0 "\n§G+1§! £mod_job_story_messenger_add£ per $VALUE$ £pop£"
+
+### 政府
+
+gov_story_directorate:0 "Story Directorate"
+gov_story_directorate_desc:0 "This government is a materialistic and xenophilic form of oligarchy, where a committee of story creators and tellers supervises the government apparatus for the development and inherit of its civilization."
+
+### 国策
+
+civic_story_messenger:0 "Story Messager"
+civic_story_messenger_desc:0 "We have a misson, to blow stories and tales to everywhere of the universe, so that the sceneries shall be known, the miracles shall be acknowledged, and the past shall be remembered."
+civic_tooltip_story_messenger_effects:0 "£building£ §YCapital Buildings§! replace £job_administrator£ §Y$job_administrator$§! Jobs with £job_story_messenger£ §Y$job_story_messenger_plural$§!\n§Y$planet_culture_workers$§!, §Y$planet_entertainers$§! and §Y$planet_researchers$§! also produce §Y1§!£society_research£$society_research$ and §Y0.5§!£unity£$unity$"
+
+federation_acceptance_story_messenger:0 "$civic_story_messenger$"
+
+### 个性
+
+personality_story_relaters:0 "Story relaters"
+personality_story_relaters_desc:0 "Story relaters think them own have a misson of spreading the light of stories, they are very pleasure to share stories and tales, whether in a narrow sense, or in a broad sense."
+
+federation_acceptance_story_relaters:0 "$personality_story_relaters$"
+federation_acceptance_story_relaters_in_research_federation:0 "$story_relaters$ + $research_federation$"

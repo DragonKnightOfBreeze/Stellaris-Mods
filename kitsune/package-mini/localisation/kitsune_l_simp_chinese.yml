@@ -116,15 +116,15 @@ Wyvern_adj:0 "飞龙"
 Wyvern_plural:0 "飞龙"
 Wyvern_insult:0 "低劣的亚龙"
 Wyvern_insult_plural:0 "低劣的亚龙"
-Wyvern_compliment:0 "高贵的巨龙"
-Wyvern_compliment_plural:0 "高贵的巨龙"
+Wyvern_compliment:0 "高贵的龙"
+Wyvern_compliment_plural:0 "高贵的龙"
 Wyvern_spawn:0 "年轻的飞龙"
 Wyvern_spawn_plural:0 "年轻的飞龙"
 
 ### 预设国家
 
-EMPIRE_DESIGN_wind_nation:0 "风之国度"
-EMPIRE_DESIGN_wind_nation_desc:0 "风之子是一群天性纯真的小家伙们，有着可爱的兽类外貌特征。看似柔弱的他们，实则拥有极其出色的学习天赋。\n\n自有记录的历史以来，风之子的族群中便一直流传着源于久远之时的失落传说——那是有关结为同伴的风之子与远古巨龙，遨游宇宙，传述故事和传说的美好传说，也是彷如空想童话一般的传说。\n\n然而，传说并未一直沉寂下去。在一名满怀执念的风之子的努力下，巨龙们最终低下了高傲的头颅，而族人们也最终走出了孤立的家园。为了追逐传说的脚步，为了探寻遗落的历史，为了知晓自身的起源，他们决定探索，决定发展，决定迈入群星之间。"
+EMPIRE_DESIGN_invoka:0 "风之国度"
+EMPIRE_DESIGN_invoka_desc:0 "风之子是一群天性纯真的小家伙们，有着可爱的兽类外貌特征。看似柔弱的他们，实则拥有极其出色的学习天赋。\n\n自有记录的历史以来，风之子的族群中便一直流传着源于久远之时的失落传说——那是有关结为同伴的风之子与远古巨龙，遨游宇宙，传述故事和传说的美好传说，也是彷如空想童话一般的传说。\n\n然而，传说并未一直沉寂下去。在一名满怀执念的风之子的努力下，巨龙们最终低下了高傲的头颅，而族人们也最终走出了孤立的家园。为了追逐传说的脚步，为了探寻遗落的历史，为了知晓自身的起源，他们决定探索，决定发展，决定迈入群星之间。"
 
 ### 起源
 
@@ -147,13 +147,13 @@ mod_job_story_messenger_per_pop_short:0 "\n每$VALUE$£pop£§G+1§!£mod_job_st
 
 ### 个性
 
-personality_story_retellers:0 "故事传述者"
-personality_story_retellers_desc:0 "故事传述者认为自身肩负播洒故事之光的使命，他们非常乐于与他人分享故事和传说——无论是狭义上的，还是广义上的。"
+personality_story_relaters:0 "故事传述者"
+personality_story_relaters_desc:0 "故事传述者认为自身肩负播洒故事之光的使命，他们非常乐于与他人分享故事和传说——无论是狭义上的，还是广义上的。"
 
-federation_acceptance_story_retellers:0 "$personality_story_retellers$"
-federation_acceptance_story_retellers:0 "$personality_story_retellers$"
-federation_acceptance_story_retellers_in_research_federation:0 "$story_retellers$ + $research_federation$"
-federation_acceptance_story_retellers_in_research_federation:0 "$story_retellers$ + $research_federation$"
+federation_acceptance_story_relaters:0 "$personality_story_relaters$"
+federation_acceptance_story_relaters:0 "$personality_story_relaters$"
+federation_acceptance_story_relaters_in_research_federation:0 "$story_relaters$ + $research_federation$"
+federation_acceptance_story_relaters_in_research_federation:0 "$story_relaters$ + $research_federation$"
 
 ### 政府
 

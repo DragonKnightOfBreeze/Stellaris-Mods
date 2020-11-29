@@ -1,0 +1,59 @@
+### 开始游戏时生成第二种族的人口
+generate_companion_pops = {
+	if = {
+		# 如果是共同进化起源
+		limit = {
+			owner = { has_origin = origin_companion_evolution }
+		}
+		#定义需要创建的种族
+		last_created_species = {
+			set_species_flag = companion_species@root.owner
+			set_citizenship_type = {
+				country = root.owner
+				type = citizenship_full
+			}
+		}
+		# 创建12个第二种族的人口
+		while = {
+			count = 12
+			random_owned_pop = {
+				limit = { NOT = { is_same_species = last_created_species } }
+				change_species = last_created_species
+			}
+		}
+	}
+}
+
+generate_companion_pops_advance = {
+	if = {
+		limit = {
+			owner = { has_origin = origin_companion_evolution }
+		}
+		last_created_species = {
+			set_species_flag = companion_species@root.owner
+			set_citizenship_type = {
+				country = root.owner
+				type = citizenship_full
+			}
+		}
+		if = {
+			limit = { is_capital = yes }
+			while = {
+				count = 8
+				random_owned_pop = {
+					limit = { NOT = { is_same_species = last_created_species } }
+					change_species = last_created_species
+				}
+			}
+		}
+		else = {
+			while = {
+				count = 4
+				random_owned_pop = {
+					limit = { NOT = { is_same_species = last_created_species } }
+					change_species = last_created_species
+				}
+			}
+		}
+	}
+}

@@ -122,8 +122,8 @@ Wyvern_spawn_plural:0 "youthful Wyverns"
 
 ### 预设国家
 
-EMPIRE_DESIGN_wind_nation:0 "Wind Nation"
-EMPIRE_DESIGN_wind_nation_desc:0 "Windkid are a group of pure ones, with cute animal appearance characteristics. While they are likely weak, they actually have excellent learning talents. \n\nSince the recorded history, the ethnicity of Windkid has been circulated in a lost tale from far long ago - that is a beautiful tale, which is about Windkids and Ancient Dragons, who became companions, and traveling through the universe, telling stories and tales. But after all it is also a fantasy fairy tale. \n\nHowever, the tale would not remain silent. Under the efforts of a stubborn Windkid with full of obsession, the dragons finally lowered their arrogant heads, and the ethnics finally walked out of their isolated homeland. In order to follow the footsteps of tales, to explore the lost history, and to know their origin, they decided to explore, to develop, and to step into the stars."
+EMPIRE_DESIGN_invoka:0 "Wind Nation"
+EMPIRE_DESIGN_invoka_desc:0 "Windkid are a group of pure ones, with cute animal appearance characteristics. While they are likely weak, they actually have excellent learning talents. \n\nSince the recorded history, the ethnicity of Windkid has been circulated in a lost tale from far long ago - that is a beautiful tale, which is about Windkids and Ancient Dragons, who became companions, and traveling through the universe, telling stories and tales. But after all it is also a fantasy fairy tale. \n\nHowever, the tale would not remain silent. Under the efforts of a stubborn Windkid with full of obsession, the dragons finally lowered their arrogant heads, and the ethnics finally walked out of their isolated homeland. In order to follow the footsteps of tales, to explore the lost history, and to know their origin, they decided to explore, to develop, and to step into the stars."
 
 ### 起源
 
@@ -147,13 +147,13 @@ mod_job_story_messenger_per_pop_short:0 "\n§G+1§! £mod_job_story_messenger_ad
 
 ### 个性
 
-personality_story_retellers:0 "Story Retellers"
-personality_story_retellers_desc:0 "Story retellers think them own have a misson of spreading the light of stories, they are very pleasure to share stories and tales, whether in a narrow sense, or in a broad sense."
+personality_story_relaters:0 "Story relaters"
+personality_story_relaters_desc:0 "Story relaters think them own have a misson of spreading the light of stories, they are very pleasure to share stories and tales, whether in a narrow sense, or in a broad sense."
 
-federation_acceptance_story_retellers:0 "$personality_story_retellers$"
-federation_acceptance_story_retellers:0 "$personality_story_retellers$"
-federation_acceptance_story_retellers_in_research_federation:0 "$story_retellers$ + $research_federation$"
-federation_acceptance_story_retellers_in_research_federation:0 "$story_retellers$ + $research_federation$"
+federation_acceptance_story_relaters:0 "$personality_story_relaters$"
+federation_acceptance_story_relaters:0 "$personality_story_relaters$"
+federation_acceptance_story_relaters_in_research_federation:0 "$story_relaters$ + $research_federation$"
+federation_acceptance_story_relaters_in_research_federation:0 "$story_relaters$ + $research_federation$"
 
 ### 政府
 

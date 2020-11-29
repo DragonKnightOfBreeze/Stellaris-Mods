@@ -157,7 +157,6 @@ building_capital = {
 		job_roboticist_add = 1
 	}
 
-	# 更改
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
@@ -208,11 +207,11 @@ building_capital = {
 			job_administrator_add = 1
 		}
 	}
-	# 更改
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_technocracy
 				has_civic = civic_story_messenger
 			}
@@ -222,11 +221,11 @@ building_capital = {
 			job_head_researcher_add = 1
 		}
 	}
-	# 更改
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_story_messenger
 				NOT = { has_civic = civic_technocracy }
 			}
@@ -236,11 +235,11 @@ building_capital = {
 			job_administrator_add = 1
 		}
 	}
-	# 更改
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_technocracy
 				NOT = { has_civic = civic_story_messenger }
 			}
@@ -289,7 +288,7 @@ building_capital = {
 		}
 		text = job_noble_effect_desc
 	}
-	# 更改
+
 	triggered_desc = {
 		trigger = {
 			exists = owner
@@ -428,7 +427,6 @@ building_major_capital = {
 		job_roboticist_add = 2
 	}
 
-	# 更改
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
@@ -481,11 +479,10 @@ building_major_capital = {
 		}
 	}
 
-	# 更改
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_technocracy
 				has_civic = civic_story_messenger
 			}
@@ -496,11 +493,11 @@ building_major_capital = {
 			job_administrator_add = 1
 		}
 	}
-	# 更改
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_technocracy
 				NOT = { has_civic = civic_story_messenger }
 			}
@@ -514,7 +511,7 @@ building_major_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_story_messenger
 				NOT = { has_civic = civic_technocracy }
 			}
@@ -566,7 +563,7 @@ building_major_capital = {
 		text = job_noble_effect_desc
 	}
 	
-	# 更改
+
 	triggered_desc = {
 		trigger = {
 			exists = owner
@@ -771,11 +768,10 @@ building_system_capital = {
 		}
 	}
 
-	# 更改
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_technocracy
 				has_civic = civic_story_messenger
 			}
@@ -785,11 +781,11 @@ building_system_capital = {
 			job_head_researcher_add = 2
 		}
 	}
-	# 更改
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_story_messenger
 				NOT = { has_civic = civic_technocracy }
 			}
@@ -799,11 +795,11 @@ building_system_capital = {
 			job_administrator_add = 2
 		}
 	}
-	# 更改
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_technocracy
 				NOT = { has_civic = civic_story_messenger }
 			}
@@ -1567,6 +1563,18 @@ building_hab_capital = {
 		job_coordinator_add = 1
 		job_replicator_add = 1
 	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = {
+				has_non_swapped_tradition = tr_domination_imperious_architecture
+			}
+		}
+		modifier = {
+			planet_housing_add = 1
+		}
+	}
 
 	triggered_desc = {
 		trigger = {
@@ -1706,7 +1714,6 @@ building_hab_major_capital = {
 		job_roboticist_add = 2
 	}
 
-	# 更改
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
@@ -1774,11 +1781,11 @@ building_hab_major_capital = {
 			job_head_researcher_add = 1
 		}
 	}
-	# 更改
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_story_messenger
 				NOT = { has_civic = civic_technocracy }
 			}
@@ -1788,11 +1795,11 @@ building_hab_major_capital = {
 			job_administrator_add = 1
 		}
 	}
-	# 更改
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { 
+			owner = {
 				has_civic = civic_technocracy
 				NOT = { has_civic = civic_story_messenger }
 			}
@@ -1821,6 +1828,18 @@ building_hab_major_capital = {
 		}
 		modifier = {
 			 planet_max_buildings_add = 2
+		}
+	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = {
+				has_non_swapped_tradition = tr_domination_imperious_architecture
+			}
+		}
+		modifier = {
+			planet_housing_add = 1
 		}
 	}
 
@@ -2001,6 +2020,18 @@ building_resort_capital = {
 			job_executive_add = 1
 		}
 	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = {
+				has_non_swapped_tradition = tr_domination_imperious_architecture
+			}
+		}
+		modifier = {
+			planet_housing_add = 1
+		}
+	}
 
 	triggered_desc = {
 		trigger = {
@@ -2123,6 +2154,18 @@ building_resort_major_capital = {
 			job_executive_add = 1
 		}
 	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = {
+				has_non_swapped_tradition = tr_domination_imperious_architecture
+			}
+		}
+		modifier = {
+			planet_housing_add = 1
+		}
+	}
 
 	triggered_desc = {
 		trigger = {
@@ -2211,6 +2254,18 @@ building_slave_capital = {
 		}
 		modifier = {
 			job_executive_add = 2
+		}
+	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = {
+				has_non_swapped_tradition = tr_domination_imperious_architecture
+			}
+		}
+		modifier = {
+			planet_housing_add = 1
 		}
 	}
 
@@ -2309,6 +2364,18 @@ building_slave_major_capital = {
 		}
 		modifier = {
 			job_executive_add = 2
+		}
+	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = {
+				has_non_swapped_tradition = tr_domination_imperious_architecture
+			}
+		}
+		modifier = {
+			planet_housing_add = 1
 		}
 	}
 
