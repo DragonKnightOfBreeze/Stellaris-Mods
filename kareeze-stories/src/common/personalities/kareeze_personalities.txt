@@ -1,0 +1,63 @@
+story_relaters = {
+	aggressiveness = 0.5
+	trade_willingness = 0.9
+	bravery = 1.0
+	combat_bravery = 1.0
+
+	military_spending = 0.8
+	colony_spending = 1.2
+
+	federation_acceptance = 0 #10
+	nap_acceptance = 25
+	commercial_pact_acceptance = 50
+	research_agreement_acceptance = 50
+	defensive_pact_acceptance = 25
+	migration_pact_acceptance = 50
+
+	advanced_start_chance = 25
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.4
+	shields_ratio = 0.6
+	hull_ratio = 0
+
+	threat_modifier = 1.0
+	threat_others_modifier = 0.75
+	friction_modifier = 0.5
+	claims_modifier = 0.75
+
+	behaviour = {
+		conqueror = no
+		subjugator = no
+		liberator = yes
+		opportunist = yes
+		slaver = no
+		uplifter = yes
+		purger = no
+		displacer = no
+		infiltrator = no
+		dominator = no
+		robot_exploiter = no
+		robot_liberator = yes
+		propagator = no
+		multispecies = yes
+		crisis_fighter = yes
+	}
+
+	allow = {
+		is_country_type = default
+		OR = {
+			has_ethic = ethic_fanatic_materialist
+			has_ethic = ethic_materialist
+		}
+		OR = {
+			has_ethic = ethic_xenophile
+			has_ethic = ethic_fanatic_xenophile
+		}
+		has_valid_civic= civic_story_messenger
+	}
+
+	weight_modifier = {
+		weight = 100
+	}
+}

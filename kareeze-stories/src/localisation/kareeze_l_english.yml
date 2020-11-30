@@ -1,140 +1,160 @@
 ﻿l_english:
-### 其他
+ ### 其他
+ 
+ name_list_WINDKID:0 "Windkid"
+ name_list_WYVERN:0 "Wyvern"
+ 
+ ### 种族分类
+ 
+ WINDKID:1 "Windkid"
+ WINDKID_desc:1 "Human-like species with lovely animal's appearance features."
+ WINDKID_plural:0 "Windkids"
+ WINDKID_insult_01:0 "nasty windkid"
+ WINDKID_insult_plural_01:0 "nasty windkids"
+ WINDKID_insult_02:0 "ignorant windkid"
+ WINDKID_insult_plural_02:0 "ignorant windkids"
+ WINDKID_insult_03:0 "innocent windkid"
+ WINDKID_insult_plural_03:0 "innocent windkids"
+ WINDKID_insult_04:0 "naive windkid"
+ WINDKID_insult_plural_04:0 "naive windkids"
+ WINDKID_compliment_01:0 "charming windkid"
+ WINDKID_compliment_plural_01:0 "charming windkids"
+ WINDKID_compliment_02:0 "curious windkid"
+ WINDKID_compliment_plural_02:0 "curious windkids"
+ WINDKID_compliment_03:0 "pure windkid"
+ WINDKID_compliment_plural_03:0 "pure windkids"
+ WINDKID_compliment_04:0 "clever windkid"
+ WINDKID_compliment_plural_04:0 "clever windkids"
+ WINDKID_spawn:0 "little windkid"
+ WINDKID_spawn_plural:0 "little windkids"
+ WINDKID_sound_01:0 "growling"
+ WINDKID_sound_02:0 "grunting"
+ WINDKID_sound_03:0 "yapping"
+ WINDKID_sound_04:0 "yowling"
+ WINDKID_sound_05:0 "mewling"
+ WINDKID_organ:0 "stomach"
+ WINDKID_mouth:0 "mouth"
+ WINDKID_hand:0 "hand"
+ 
+ WINDKID_ROBOT:1 "Windkid"
+ WINDKID_ROBOT_desc:1 "Human-like species with lovely animal's appearance features."
+ WINDKID_ROBOT_plural:0 "Windkids"
+ WINDKID_ROBOT_insult_01:0 "nasty windkid"
+ WINDKID_ROBOT_insult_plural_01:0 "nasty windkids"
+ WINDKID_ROBOT_insult_02:0 "ignorant windkid"
+ WINDKID_ROBOT_insult_plural_02:0 "ignorant windkids"
+ WINDKID_ROBOT_insult_03:0 "innocent windkid"
+ WINDKID_ROBOT_insult_plural_03:0 "innocent windkids"
+ WINDKID_ROBOT_insult_04:0 "naive windkid"
+ WINDKID_ROBOT_insult_plural_04:0 "naive windkids"
+ WINDKID_ROBOT_compliment_01:0 "charming windkid"
+ WINDKID_ROBOT_compliment_plural_01:0 "charming windkids"
+ WINDKID_ROBOT_compliment_02:0 "curious windkid"
+ WINDKID_ROBOT_compliment_plural_02:0 "curious windkids"
+ WINDKID_ROBOT_compliment_03:0 "pure windkid"
+ WINDKID_ROBOT_compliment_plural_03:0 "pure windkids"
+ WINDKID_ROBOT_compliment_04:0 "clever windkid"
+ WINDKID_ROBOT_compliment_plural_04:0 "clever windkids"
+ WINDKID_ROBOT_spawn:0 "little windkid"
+ WINDKID_ROBOT_spawn_plural:0 "little windkids"
+ WINDKID_ROBOT_sound_01:0 "growling"
+ WINDKID_ROBOT_sound_02:0 "grunting"
+ WINDKID_ROBOT_sound_03:0 "yapping"
+ WINDKID_ROBOT_sound_04:0 "yowling"
+ WINDKID_ROBOT_sound_05:0 "mewling"
+ WINDKID_ROBOT_organ:0 "stomach"
+ WINDKID_ROBOT_mouth:0 "mouth"
+ WINDKID_ROBOT_hand:0 "hand"
+ 
+ ### 种族
+ 
+ Windkid:0 "Windkid"
+ Windkid_adj:0 "Windkid"
+ Windkid_plural:0 "Windkids"
+ Windkid_insult:0 "naive Windkid"
+ Windkid_insult_plural:0 "naive Windkids"
+ Windkid_compliment:0 "pure Windkid"
+ Windkid_compliment_plural:0 "pure Windkids"
+ Windkid_spawn:0 "youthful Windkid"
+ Windkid_spawn_plural:0 "youthful Windkids"
+ 
+ Wyvern:0 "Wyvern"
+ Wyvern_adj:0 "Wyvern"
+ Wyvern_plural:0 "Wyverns"
+ Wyvern_insult:0 "humble wyvern"
+ Wyvern_insult_plural:0 "humble wyverns"
+ Wyvern_compliment:0 "noble dragon"
+ Wyvern_compliment_plural:0 "noble dragons"
+ Wyvern_spawn:0 "youthful Wyvern"
+ Wyvern_spawn_plural:0 "youthful Wyverns"
+ 
+ ### 预设国家
+ 
+ EMPIRE_DESIGN_invoka:0 "Wind Nation"
+ EMPIRE_DESIGN_invoka_desc:0 "Windkid are a group of pure ones, with cute animal appearance characteristics. While they are likely weak, they actually have excellent learning talents. \n\nSince the recorded history, the ethnicity of Windkid has been circulated in a lost tale from far long ago - that is a beautiful tale, which is about Windkids and Ancient Dragons, who became companions, and traveling through the universe, telling stories and tales. But after all it is also a fantasy fairy tale. \n\nHowever, the tale would not remain silent. Under the efforts of a stubborn Windkid with full of obsession, the dragons finally lowered their arrogant heads, and the ethnics finally walked out of their isolated homeland. In order to follow the footsteps of tales, to explore the lost history, and to know their origin, they decided to explore, to develop, and to step into the stars."
+ 
+ ### 起源
+ 
+ origin_companion_evolution:0 "Companion Evolution"
+ origin_companion_evolution_desc:0 "A second species forms an integral part of this society. They differ greatly from us in appearance and habits, but there are many similarities in terms of values, knowledge systems and social culture. The ancient legends have revealed the dusty corner of the common history, bringing them together with us today."
+ origin_companion_evolution_secondary_species:0 "Companion Species"
+ origin_tooltip_companion_evolution_effects:0 "Start the game with §Y12§! £pop£ companion species pops"
+ 
+ START_SCREEN_POST_COMPANION_EVOLUTION:0 "The ancient legends has depicted a beautiful picture scroll that was once regarded as a fairy tale. In that distant past, in that highly developed ideal society, our ancestors once joined hands with their companions, to roam, roam among the stars."
+ 
+ ### 职业
+ 
+ job_story_messenger:0 "Story Messenger"
+ job_story_messenger_plural:0 "Story Messengers"
+ job_story_messenger_desc:0 "Stories and tales let unrelated individuals become imagined community by condensation, inherit, record and guide its past, present and future."
+ job_story_messenger_effect_desc:0 "£job_story_messenger£ $job_story_messenger_plural$生产£mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!、£society£ §Y$society_research$§!和£unity£ §Y$unity$§!"
+ mod_job_story_messenger_add:0 "$job_story_messenger$ Jobs"
+ mod_job_story_messenger_per_pop:0 "§G+1§! $job_story_messenger$ Job per $VALUE$ Pops"
+ mod_job_story_messenger_per_pop_short:0 "\n§G+1§! £mod_job_story_messenger_add£ per $VALUE$ £pop£"
+ 
+ ### 政府
+ 
+ gov_story_directorate:0 "Story Directorate"
+ gov_story_directorate_desc:0 "This government is a materialistic and xenophilic form of oligarchy, where a committee of story creators and tellers supervises the government apparatus for the development and inherit of its civilization."
+ 
+ ### 国策
+ 
+ civic_story_messenger:0 "Story Messenger"
+ civic_story_messenger_desc:0 "We have a mission, to blow stories and tales to everywhere of the universe, so that the sceneries shall be known, the miracles shall be acknowledged, and the past shall be remembered."
+ civic_tooltip_story_messenger_effects:0 "£building£ §YCapital Buildings§! replace £job_administrator£ §Y$job_administrator$§! Jobs with £job_story_messenger£ §Y$job_story_messenger_plural$§!\n§Y$planet_culture_workers$§!, §Y$planet_entertainers$§! and §Y$planet_researchers$§! also produce §Y1§!£society_research£$society_research$ and §Y0.5§!£unity£$unity$"
+ 
+ federation_acceptance_story_messenger:0 "$civic_story_messenger$"
 
-name_list_WINDKID:0 "Windkid"
-name_list_WYVERN:0 "Wyvern"
-
-### 种族分类
-
-WINDKID:1 "Windkid"
-WINDKID_desc:1 "Human-like species with lovely animal's appearance features."
-WINDKID_plural:0 "Windkids"
-WINDKID_insult_01:0 "nasty windkid"
-WINDKID_insult_plural_01:0 "nasty windkids"
-WINDKID_insult_02:0 "ignorant windkid"
-WINDKID_insult_plural_02:0 "ignorant windkids"
-WINDKID_insult_03:0 "innocent windkid"
-WINDKID_insult_plural_03:0 "innocent windkids"
-WINDKID_insult_04:0 "naive windkid"
-WINDKID_insult_plural_04:0 "naive windkids"
-WINDKID_compliment_01:0 "charming windkid"
-WINDKID_compliment_plural_01:0 "charming windkids"
-WINDKID_compliment_02:0 "curious windkid"
-WINDKID_compliment_plural_02:0 "curious windkids"
-WINDKID_compliment_03:0 "pure windkid"
-WINDKID_compliment_plural_03:0 "pure windkids"
-WINDKID_compliment_04:0 "clever windkid"
-WINDKID_compliment_plural_04:0 "clever windkids"
-WINDKID_spawn:0 "little windkid"
-WINDKID_spawn_plural:0 "little windkids"
-WINDKID_sound_01:0 "growling"
-WINDKID_sound_02:0 "grunting"
-WINDKID_sound_03:0 "yapping"
-WINDKID_sound_04:0 "yowling"
-WINDKID_sound_05:0 "mewling"
-WINDKID_organ:0 "stomach"
-WINDKID_mouth:0 "mouth"
-WINDKID_hand:0 "hand"
-
-WINDKID_ROBOT:1 "Windkid"
-WINDKID_ROBOT_desc:1 "Human-like species with lovely animal's appearance features."
-WINDKID_ROBOT_plural:0 "Windkids"
-WINDKID_ROBOT_insult_01:0 "nasty windkid"
-WINDKID_ROBOT_insult_plural_01:0 "nasty windkids"
-WINDKID_ROBOT_insult_02:0 "ignorant windkid"
-WINDKID_ROBOT_insult_plural_02:0 "ignorant windkids"
-WINDKID_ROBOT_insult_03:0 "innocent windkid"
-WINDKID_ROBOT_insult_plural_03:0 "innocent windkids"
-WINDKID_ROBOT_insult_04:0 "naive windkid"
-WINDKID_ROBOT_insult_plural_04:0 "naive windkids"
-WINDKID_ROBOT_compliment_01:0 "charming windkid"
-WINDKID_ROBOT_compliment_plural_01:0 "charming windkids"
-WINDKID_ROBOT_compliment_02:0 "curious windkid"
-WINDKID_ROBOT_compliment_plural_02:0 "curious windkids"
-WINDKID_ROBOT_compliment_03:0 "pure windkid"
-WINDKID_ROBOT_compliment_plural_03:0 "pure windkids"
-WINDKID_ROBOT_compliment_04:0 "clever windkid"
-WINDKID_ROBOT_compliment_plural_04:0 "clever windkids"
-WINDKID_ROBOT_spawn:0 "little windkid"
-WINDKID_ROBOT_spawn_plural:0 "little windkids"
-WINDKID_ROBOT_sound_01:0 "growling"
-WINDKID_ROBOT_sound_02:0 "grunting"
-WINDKID_ROBOT_sound_03:0 "yapping"
-WINDKID_ROBOT_sound_04:0 "yowling"
-WINDKID_ROBOT_sound_05:0 "mewling"
-WINDKID_ROBOT_organ:0 "stomach"
-WINDKID_ROBOT_mouth:0 "mouth"
-WINDKID_ROBOT_hand:0 "hand"
-
-### 种族
-
-Windkid:0 "Windkid"
-Windkid_adj:0 "Windkid"
-Windkid_plural:0 "Windkids"
-Windkid_insult:0 "naive Windkid"
-Windkid_insult_plural:0 "naive Windkids"
-Windkid_compliment:0 "pure Windkid"
-Windkid_compliment_plural:0 "pure Windkids"
-Windkid_spawn:0 "youthful Windkid"
-Windkid_spawn_plural:0 "youthful Windkids"
-
-Wyvern:0 "Wyvern"
-Wyvern_adj:0 "Wyvern"
-Wyvern_plural:0 "Wyverns"
-Wyvern_insult:0 "humble wyvern"
-Wyvern_insult_plural:0 "humble wyverns"
-Wyvern_compliment:0 "noble dragon"
-Wyvern_compliment_plural:0 "noble dragons"
-Wyvern_spawn:0 "youthful Wyvern"
-Wyvern_spawn_plural:0 "youthful Wyverns"
-
-### 预设国家
-
-EMPIRE_DESIGN_invoka:0 "Wind Nation"
-EMPIRE_DESIGN_invoka_desc:0 "Windkid are a group of pure ones, with cute animal appearance characteristics. While they are likely weak, they actually have excellent learning talents. \n\nSince the recorded history, the ethnicity of Windkid has been circulated in a lost tale from far long ago - that is a beautiful tale, which is about Windkids and Ancient Dragons, who became companions, and traveling through the universe, telling stories and tales. But after all it is also a fantasy fairy tale. \n\nHowever, the tale would not remain silent. Under the efforts of a stubborn Windkid with full of obsession, the dragons finally lowered their arrogant heads, and the ethnics finally walked out of their isolated homeland. In order to follow the footsteps of tales, to explore the lost history, and to know their origin, they decided to explore, to develop, and to step into the stars."
-
-### 起源
-
-origin_companion_evolution:0 "Companion Evolution"
-origin_companion_evolution_desc:0 "A second species forms an integral part of this society. They differ greatly from us in appearance and habits, but there are many similarities in terms of values, knowledge systems and social culture. The ancient legends have revealed the dusty corner of the common history, bringing them together with us today."
-origin_companion_evolution_secondary_species:0 "Companion Species"
-origin_tooltip_companion_evolution_effects:0 "Start the game with §Y12§! £pop£ companion species pops"
-
-START_SCREEN_POST_COMPANION_EVOLUTION:0 "The ancient legends has depicted a beautiful picture scroll that was once regarded as a fairy tale. In that distant past, in that highly developed ideal society, our ancestors once joined hands with their companions, to roam, roam among the stars."
-
-### 职业
-
-job_story_messenger:0 "Story Messager"
-job_story_messenger_plural:0 "Story Messagers"
-job_story_messenger_desc:0 "Stories and tales let unrelated individuals become imagined community by condensation, inherit, record and guide its past, present and future."
-job_story_messenger_effect_desc:0 "£job_story_messenger£ $job_story_messenger_plural$生产£mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!、£society£ §Y$society_research$§!和£unity£ §Y$unity$§!"
-mod_job_story_messenger_add:0 "$job_story_messenger$ Jobs"
-mod_job_story_messenger_per_pop:0 "§G+1§! $job_story_messenger$ Job per $VALUE$ Pops"
-mod_job_story_messenger_per_pop_short:0 "\n§G+1§! £mod_job_story_messenger_add£ per $VALUE$ £pop£"
-
-### 政府
-
-gov_story_directorate:0 "Story Directorate"
-gov_story_directorate_desc:0 "This government is a materialistic and xenophilic form of oligarchy, where a committee of story creators and tellers supervises the government apparatus for the development and inherit of its civilization."
-
-### 国策
-
-civic_story_messenger:0 "Story Messenger"
-civic_story_messenger_desc:0 "We have a mission, to blow stories and tales to everywhere of the universe, so that the sceneries shall be known, the miracles shall be acknowledged, and the past shall be remembered."
-civic_tooltip_story_messenger_effects:0 "£building£ §YCapital Buildings§! replace £job_administrator£ §Y$job_administrator$§! Jobs with £job_story_messenger£ §Y$job_story_messenger_plural$§!\n§Y$planet_culture_workers$§!, §Y$planet_entertainers$§! and §Y$planet_researchers$§! also produce §Y1§!£society_research£$society_research$ and §Y0.5§!£unity£$unity$"
-
-federation_acceptance_story_messenger:0 "$civic_story_messenger$"
-
-### 外交修饰符
-
-opinion_both_idealists:0 "Both idealists"
-opinion_story_messenger:0 "Story messenger"
-opinion_bring_stories:0 "Bring stories"
-
-### 个性
-
-personality_story_relaters:0 "Story relaters"
-personality_story_relaters_desc:0 "Story relaters think them own have a misson of spreading the light of stories, they are very pleasure to share stories and tales, whether in a narrow sense, or in a broad sense."
-
-federation_acceptance_story_relaters:0 "$personality_story_relaters$"
-federation_acceptance_story_relaters_in_research_federation:0 "$story_relaters$ + $research_federation$"
+ ### 外交修饰符
+ 
+ opinion_both_idealists:0 "Both idealists"
+ opinion_story_messenger:0 "Story messenger"
+ opinion_bring_stories:0 "Bring stories"
+ 
+ ### 个性
+ 
+ personality_story_relaters:0 "Story relaters"
+ personality_story_relaters_desc:0 "Story relaters think them own have a misson of spreading the light of stories, they are very pleasure to share stories and tales, whether in a narrow sense, or in a broad sense."
+ 
+ federation_acceptance_story_relaters:0 "$personality_story_relaters$"
+ federation_acceptance_story_relaters_in_default_federation:0 "$personality_story_relaters$ + $default_federation$"
+ federation_acceptance_story_relaters_in_research_federation:0 "$personality_story_relaters$ + $research_federation$"
+ 
+ # 问候语
+ SR_HOSTILE_GREETING_01:0 "Your values and choices are not grounded in logic, which is why we cannot have a constructive conversation about them."
+ SR_HOSTILE_GREETING_02:0 "Because of the evolutionary conditions of [From.Capital.GetName], [From.GetSpeciesAdj] brains are simply less developed. It's science. Look it up."
+ SR_HOSTILE_GREETING_03:0 "You invented your faith to fill empty minds. Your people will never feel the true euphoria of an enlightened intellect."
+ SR_HOSTILE_GREETING_04:0 "Your failure to critically examine your ideas is the hallmark of a society of simple-minded herd animals. We have nothing to learn from you."
+ SR_DOMINEERING_GREETING_01:0 "The poor state of development in your civilization is due to an inferior culture which discourages progress. It's a fact."
+ SR_NEUTRAL_GREETING_01:0 "Greetings, [From.GetSpeciesName]. Do you come with questions, or with answers?"
+ SR_NEUTRAL_GREETING_02:0 "Our goal is not power, but knowledge, although they can sometimes be the same."
+ SR_NEUTRAL_GREETING_03:0 "It may surprise you to hear that your beliefs are quite irrational. You had better get used to harsh truths if you want to converse with us."
+ SR_THREATENED_GREETING_01:0 "Whatever you're planning next, remember that we present no threat to you. We are content to discover new frontiers, not challenge yours."
+ SR_FRIENDLY_GREETING_01:0 "Together, we will unveil the secrets of the galaxy."
+ SR_FRIENDLY_GREETING_02:0 "The [From.GetSpeciesAdj] mind and the [Root.GetSpeciesAdj] mind complement each other. Our intellectual efforts will be greater than the sum of their parts."
+ SR_FRIENDLY_GREETING_03:0 "It's a joy to meet another curious and intellectual people. Too many prefer to let the mysteries found in the depths of space remain mysteries."
+ SR_FRIENDLY_GREETING_04:0 "The findings of the [Root.GetAllianceName] will represent the ultimate frontier of discoveries by sapient beings."
+ SR_WAR_GREETING_01:0 "It will save our archeologists a lot of trouble having detailed logs on how [From.GetHomeWorldName] was left in ruins."
+ SR_WAR_GREETING_02:0 "Our weapon of choice is our intellects, sharpened by reason and rationalism. Do you like your odds, [From.GetSpeciesNamePlural]?"
+ SR_WAR_GREETING_03:0 "Whatever figments of your imagination you are hoping to intervene in this conflict, please pray as much as you like. Clasped hands hold no weapons."
+ 
